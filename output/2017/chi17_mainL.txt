@@ -1,0 +1,41 @@
+file	affiliations	country
+p5232-saksonoA.pdf	"College of Computer and Information Science, Bouvé College of Health Sciences-Northeastern University,  Huntington Ave., Boston, MA ,-Northeastern University,  Huntington Ave., Boston, MA ,"	USA
+p5257-berry.pdf	University of Washington-University of Washington-Group Health Research Institute-Group Health Research Institute	USA-USA
+p5226-sailaja.pdf	"The Mixed Reality Lab-University of Nottingham,-University of Nottingham,-The Mixed Reality Lab-University of Nottingham,-University of Nottingham,"	UK-UK-UK
+p5400-blythe.pdf	School of Design-Northumbria University-Northumbria University	UK
+p5678-leeA.pdf	Indiana University-Indiana University	USA
+p5412-schlesingerA.pdf	School of Interactive Computing and GVU Center-School of Interactive Computing and GVU Center	USA
+p5346-yuanA.pdf	Rutgers University-Rutgers University	USA
+p5545-shannon.pdf	University-University-University-University-University-University-University of-University of-University-University	USA-USA-USA-USA-USA
+p5439-woodA.pdf	Northumbria University-Northumbria University-Open Lab-Newcastle University-Newcastle University-Open Lab-Newcastle University-Newcastle University	UK-UK-UK
+p5386-elsdenA.pdf	Open Lab-Newcastle University-Newcastle University-University of Edinburgh-University of Edinburgh-Northumbria University-Northumbria University	UK-UK-UK
+p5361-widdicksA.pdf	"School of Computing and Communications, Lancaster University,-School of Computing and Communications, Lancaster University,-School of Computing and Communications, Lancaster University,-Computer Laboratory, University of Cambridge,-Computer Laboratory, University of Cambridge,-Computer Laboratory, University of Cambridge,-Computer Laboratory, University of Cambridge,"	UK-UK
+p5580-wauckA.pdf	University of California at-University of California at-University of Illinois at Urbana-University of Illinois at Urbana-Northwestern University-Northwestern University	USA
+p5655-mcgillA.pdf	"Glasgow Interactive Systems Section, School of Computing Science, University of Glasgow,-Glasgow Interactive Systems Section, School of Computing Science, University of Glasgow,-Glasgow Interactive Systems Section, School of Computing Science, University of Glasgow,"	UK
+p5331-gongA.pdf	"Dartmouth College, South  University of Technology, University of Waterloo-Dartmouth College, South  University of Technology, University of Waterloo-Dartmouth College, South  University of Technology, University of Waterloo"	China-USA-Canada
+p5462-boyA.pdf	"NYU School of Law,-NYU School of Law,"	USA
+p5271-millerA.pdf	"Department of Computer Science, University of Saskatchewan-Department of Computer Science, University of Saskatchewan-Department of Computer Science, University of Saskatchewan"	Canada
+p5295-licoppeA.pdf	"ParisTech, Université Paris--School of Management and-King's College London,"	UK-France-Japan
+p5592-xiaAFL.pdf	University of Toronto-University of Toronto	Canada
+p5475-dimaraA.pdf	"Inria,-Univ. Paris-Sud, CNRS, Inria,-Univ. Paris-Sud, CNRS, Inria,-Inria,"	France-France-France
+p5428-nguyenA.pdf	Portland State University-Portland State University-Adobe Research	USA-USA
+p5318-pohlA.pdf	University of Hannover-University of Hannover	Germany
+p5373-khovanskaya.pdf	Department of-Cornell University-Cornell University-Department of-University of-University of-Cornell University-Cornell University-San Jose State University-San Jose State University	USA
+p5313-suzuki.pdf	"Cyber Interface Laboratory, The University of Tokyo, Tokyo,-Cyber Interface Laboratory, The University of Tokyo, Tokyo,-Cyber Interface Laboratory, The University of Tokyo, Tokyo,-Cyber Interface Laboratory, The University of Tokyo, Tokyo,"	Japan-Japan
+p5485-alper-ramaswamyA.pdf	"Visualization Literacy at Elementary School-Inria,-Microsoft Research,"	Turkey-France-USA
+p5643-arora.pdf	"DGP Lab, University of Toronto, Toronto, ON,-DGP Lab, University of Toronto, Toronto, ON,-DGP Lab, University of Toronto, Toronto, ON,-Autodesk Research, Toronto, ON,"	Canada-Canada
+p5556-kharrufaA.pdf	"Group Spinner: Recognizing & Visualizing Learning in the-Open Lab, Newcastle University-Open Lab, Newcastle University-Open Lab, Newcastle University-Newcastle University-Newcastle University-Kingston University,-Kingston University,"	UK
+p5498-duA.pdf	University of Maryland-University of Maryland	USA
+p5568-zhuA.pdf	"Key Laboratory of Pervasive Computing, Ministry of Education-Key Laboratory of Pervasive Computing, Ministry of Education-Tsinghua National Laboratory for Information Science and Technology-Tsinghua National Laboratory for Information Science and Technology-Department of Computer Science and Technology, Tsinghua University, Beijing, ,-Department of Computer Science and Technology, Tsinghua University, Beijing, ,-Department of Computer Science and Technology, Tsinghua University, Beijing, ,-Hong Kong University of Science and Technology, Hong Kong-Hong Kong University of Science and Technology, Hong Kong"	China-Hong Kong
+p5669-rietzlerAFL.pdf	"Institute of Mediainformatics, Ulm University, Ulm,-Institute of Mediainformatics, Ulm University, Ulm,-Institute of Mediainformatics, Ulm University, Ulm,"	Germany
+p5245-hongA.pdf	School of Interactive Computing-Georgia Institute of Technology	USA
+p5703-royA.pdf	"Singapore Management University, Singapore-Singapore Management University, Singapore-Yale-NUS College, Singapore-NUS-HCI Lab, National University of Singapore, Singapore-NUS-HCI Lab, National University of Singapore, Singapore-NUS-HCI Lab, National University of Singapore, Singapore-Chalmers University of Technology, Gothenburg,-Chalmers University of Technology, Gothenburg,"	Singapore-Sweden
+p5307-otsuki.pdf	University of Tsukuba-University of Tsukuba	Japan-Japan
+p5619-cattanA.pdf	"Univ. Grenoble Alpes, LIG & GIPSA-lab"	France-France
+p5284-krekhovA.pdf	Group-Group-University of Duisburg-Essen-University of Duisburg-Essen-University of Duisburg-Essen-University of Duisburg-Essen-University of Duisburg-Essen-University of Duisburg-Essen-Group-Group-University of Duisburg-Essen-University of Duisburg-Essen	Germany
+p5452-peirisA.pdf	",,,Keio University Graduate School of Media Design,  National Chiao Tung University, Taiwan-,,,Keio University Graduate School of Media Design,  National Chiao Tung University, Taiwan-,,,Keio University Graduate School of Media Design,  National Chiao Tung University, Taiwan"	Japan-Taiwan
+p5221-moser.pdf	School of Information-University of Michigan-University of Michigan-School of Information-University of Michigan-University of Michigan-School of Information-University of Michigan-University of Michigan	USA
+p5630-fruchardA.pdf	"Université Paris-Saclay-LRI, Univ. Paris-Sud, CNRS,-Inria, Université Paris-Saclay-Inria, Université Paris-Saclay"	France-France
+p5605-klamkaA.pdf	"Technische Universit¨at Dresden,-Interactive Media Lab Dresden"	Germany
+p5457-walkerA.pdf	Michigan Technological University-Michigan Technological University	USA
+p5690-henleyA.pdf	Department of Computer Science-University of Memphis-University of Memphis	USA

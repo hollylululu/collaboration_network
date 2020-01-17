@@ -1,0 +1,47 @@
+file	affiliations	country
+p5996-gannon.pdf	Autodesk Research-Carnegie Mellon University-Carnegie Mellon University	USA
+p3167-krishna.pdf	Stanford University-Yahoo	USA
+p1822-qaurooni.pdf	Indiana University Bloomington	USA
+p5114-miau.pdf	Columbia University-Columbia University	USA
+p4309-korayem.pdf	"School of Informatics and Computing-Naval Surface Warfare Olin College-Center, Crane Division-Indiana University-Indiana University"	USA
+p2026-lessel.pdf	"DFKI GmbH, Saarbr¨ucken Graduate School of Computer Science, Saarland University-DFKI GmbH, Saarbr¨ucken Graduate School of Computer Science, Saarland University-DFKI GmbH, Saarbr¨ucken Graduate School of Computer Science, Saarland University"	Germany
+p2958-crivellaro.pdf	"Open Lab, Newcastle University-Open Lab, Newcastle University-Open Lab, Newcastle University-Microsoft Research"	UK-UK
+p1692-choi.pdf	"SwimTrain: Exploring Exergame Design for Group Fitness-KAIST, ∗Microsoft Research Asia"	China-Korea
+p5704-you.pdf	"(cid:)Institute of Information Systems and Applications, National Tsing Hua University, Hsinchu, Taiwan-(cid:)Institute of Information Systems and Applications, National Tsing Hua University, Hsinchu, Taiwan-(cid:)Institute of Information Systems and Applications, National Tsing Hua University, Hsinchu, Taiwan-†Intel-NTU CCC Center, ‡Dept. of Computer Science and Information Engineering,-and ∗Dept. of Electrical Engineering, National Taiwan University, Taipei, Taiwan-and ∗Dept. of Electrical Engineering, National Taiwan University, Taipei, Taiwan-(cid:)Taipei City Psychiatric Center, Taipei City Hospital Songde Branch, Taipei, Taiwan"	Taiwan
+p770-gomes.pdf	"Lab, Queen’s-s University,-s University,"	Canada
+p261-sarkar.pdf	Labels for Computer Vision-University of Cambridge-University of Cambridge-Microsoft Research-Department of Neurology-University Hospital Bern-University Hospital Bern-Department of Medicine-University Hospital Basel-University Hospital Basel-VU University Medical Center-VU University Medical Center-VU University Medical Center	Switzerland-UK-Netherlands
+p1857-lee.pdf	"Aalto University,-Aalto University,-Aalto University,-Aalto University,"	Finland-Finland
+p5126-yoo.pdf	"School of Computing, KAIST"	Korea-USA-USA-USA
+p1934-mott.pdf	"The Information School-MintViz Lab | MANSiD-University of Colorado, Boulder-University of Colorado, Boulder-DUB Group-University of Washington-University of Washington-Research Center-University Stefan cel-University Stefan cel"	USA-USA-Romania
+p2406-wang.pdf	Center for Human Computer-College of Computing and	USA
+p2669-marshall.pdf	"School of Computer Science-University of Nottingham,-University of Nottingham,-School of Applied Psychology-University College Cork,-University College Cork,-University College Cork,-School of Computer Science-University of Nottingham,-University of Nottingham,"	UK-Ireland-UK
+p433-bian.pdf	"School o-Research Center-dong Universit-Unive-ong University,-ong University,"	China-China-China-USA
+p3155-newell.pdf	School of Computer Science-McGill University-McGill University-School of Computer Science-McGill University-McGill University	Canada
+p5620-kim.pdf	"User Experience Lab, Seoul National University, Seoul, South-User Experience Lab, Seoul National University, Seoul, South-User Experience Lab, Seoul National University, Seoul, South-Department of Otorhinolaryngology, Seoul National University Bundang Hospital, Seongnam, South-Department of Otorhinolaryngology, Seoul National University Bundang Hospital, Seongnam, South-Department of Otorhinolaryngology, Seoul National University Bundang Hospital, Seongnam, South-Center for Medical Informatics, Seoul National University Bundang Hospital, Seongnam, South-Center for Medical Informatics, Seoul National University Bundang Hospital, Seongnam, South-Center for Medical Informatics, Seoul National University Bundang Hospital, Seongnam, South"	Korea-Korea-Korea
+p458-hicks.pdf	UC San Diego Design Lab-UC San Diego Design Lab	USA
+p3806-bacher.pdf	"Disney Research, ETH Zurich, McGill University, IST Austria-Disney Research, ETH Zurich, McGill University, IST Austria-Disney Research, ETH Zurich, McGill University, IST Austria"	Austria-Canada-Switzerland
+p1491-zhang.pdf	"Human-Computer Interaction Institute, Electrical and Computer Engineering Department-Human-Computer Interaction Institute, Electrical and Computer Engineering Department-Carnegie Mellon University-Carnegie Mellon University"	USA
+p2882-semaan.pdf	School of Information Studies-Syracuse University-Syracuse University	USA
+p5191-mauderer.pdf	"University of St Andrews,-University of St Andrews,-University of St Andrews,-University of St Andrews,-University of Dundee,-University of Dundee,"	UK-UK-UK
+p3049-skatova.pdf	The University of Nottingham-The University of Nottingham-The Insight Lab	UK-UK-UK
+p1415-taylor.pdf	University of Dundee-University of Dundee-School of Arts and Media-University of Salford-University of Salford	UK-UK-UK-UK
+p59-gupta.pdf	University of Toronto-University of Toronto-University of Toronto-University of Toronto	Canada-Canada
+p3299-xu.pdf	Princeton University-Princeton University-Max Planck Institute for-Max Planck Institute for	Germany-USA
+p3694-kim.pdf	"Department of Industrial Design, KAIST"	Korea
+p4770-tang.pdf	Microsoft Research	USA
+p908-kazi.pdf	Autodesk Research-INTRODUCTION	Canada
+p200-finnegan.pdf	University of Bath-University of Bath-Department of-University of Bath-University of Bath-Department of-University of Bath-University of Bath	UK
+p2693-reinecke.pdf	"Engineering, DUB Group-University of Washington-University of Washington-School of Computing-University of Dundee-University of Dundee-School of Information-University of Michigan-University of Michigan"	UK-USA
+p4746-hiniker.pdf	"Human Centered Design and Engineering, Computer Science and Engineering-University of Washington-University of Washington"	USA
+p4758-park.pdf	"Department of Knowledge Service Engineering, KAIST-†Department of Electrical and Computer Engineering, Khalifa University-†Department of Electrical and Computer Engineering, Khalifa University-†Department of Electrical and Computer Engineering, Khalifa University"	UAE-Korea
+p5874-kerlin.pdf		UK-UK-UK-UK-UK-UK
+p1449-loksa.pdf	"The Information School,-University of Washington-University of Washington-DUB Group-School of EECS,-Oregon State University-Oregon State University"	USA
+p5658-zhang.pdf	"Computer Science & Engineering, Human Centered Design & Engineering-DUB Group, University of Washington-DUB Group, University of Washington-DUB Group, University of Washington"	USA
+p4166-solomon.pdf	University of Michigan-University of Michigan	USA
+p498-serrano.pdf	University of Toulouse - IRIT-University of Toulouse - IRIT-University of Bristol-University of Bristol-University of Manitoba-University of Manitoba	France-UK-Canada
+p2623-doroudi.pdf	Carnegie Mellon University-Carnegie Mellon University-Microsoft Research	USA
+p4979-disalvo.pdf	"School of Literature, Media, and Communication-Georgia Institute of Technology-Center for Urban Innovation-School of Public Policy-Georgia Institute of Technology"	USA-USA
+p2497-chang.pdf	Human-Computer Interaction Institute-Carnegie Mellon University-Carnegie Mellon University	USA
+p1221-xiao.pdf	"Microsoft Research-One Microsoft Way, Redmond, WA-Carnegie Mellon University, HCI Institute-Carnegie Mellon University, HCI Institute-Carnegie Mellon University, HCI Institute"	USA
+p3931-deterding.pdf	"University of York, York,-University of York, York,"	UK
+p1033-petrelli.pdf	Sheffield Hallam University-Sheffield Hallam University	UK-Italy-Italy

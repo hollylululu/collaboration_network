@@ -1,0 +1,51 @@
+file	affiliations	country
+p610-blackwell.pdf	University of Michigan	USA
+p648-hiniker.pdf	University of Washington	USA
+p5765-perumal.pdf	University of Toronto	Canada
+p2319-freeman.pdf	University of Glasgow-Nokia Technologies	Finland-UK
+p2857-deber.pdf	Tactual Labs-Tactual Labs-University of Toronto-University of Toronto	Canada-USA-Canada
+p4390-silvennoinen.pdf	University of Jyvaskyla	Finland
+p5958-mennicken.pdf	University of Zurich-Microsoft Research	USA-Switzerland
+p1561-kasahara.pdf	Sony-University of Tokyo-YCAM Interlab	Japan-Japan
+p5138-rendl.pdf	University of Applied Sciences Upper Austria-Microsoft Research-Joanneum Research	USA-Austria
+p2175-swaminathan.pdf	Hasso Plattner Institute	Germany
+p1538-genc.pdf	"Koc University-Optical Microsystems Laboratory-Timing, Memory and Decision Making Laboratory"	Turkey
+p5698-newbold.pdf	UCL-University Loyola	UK-UK-UK-Spain
+p4435-dalsgaard.pdf	Aarhus University	Denmark
+p3607-yip.pdf	University of Washington-University of Washington-University of Maryland-College Park-Carnegie Mellon University-Carnegie Mellon University	USA-USA-USA
+p3438-dominguez.pdf	North Carolina State University-University of Wisconsin-Stout	USA-USA
+p4337-leavitt.pdf	University of Southern California-Harvard University	USA-USA
+p2307-kim.pdf	KAIST	Korea
+p3988-suh.pdf	University of Washington-University of Washington-Arizona State University	USA
+p2093-nguyen.pdf	Portland State University	USA
+p1-liccardi.pdf	University of Oxford-MIT	UK-USA
+p5104-lee.pdf	University of Wisconsin Madison	USA-USA-USA
+p1200-cecchinato.pdf	University College London-Microsoft Research	UK
+p540-marforio.pdf	ETH Zurich-Telefonica Research	Spain-Switzerland
+p3352-liao.pdf	University of Illinois at Urbana Champaign-GESIS-University of Koblenz Landau	USA-USA-Germany
+p4098-law.pdf	University of Waterloo-Harvard University	USA
+p3919-wisniewski.pdf	University of Central Florida-Pennsylvania State University	USA-USA
+p4997-ekbia.pdf	Indiana University Bloomington-UC Irvine	USA-USA
+p487-luyten.pdf	Hasselt University	Belgium
+p2520-koyama.pdf	University of Tokyo	Japan
+p3311-gould.pdf	University College London	UK
+p1991-gu.pdf	University of Cambridge-Dexta Robotics	UK-China
+p1786-kuznetsov.pdf	Arizona State University	USA-USA
+p284-rooksby.pdf	University of Glasgow	UK
+p1084-suh.pdf	University of Washington	USA
+p3670-bach.pdf	Microsoft Research-Edinburgh Napier University-Univesity of Calgary	France-USA-UK-Canada
+p4086-wu.pdf	University of Illinois at Urbana Champaign	USA
+p360-starbird.pdf	University of Washington	USA
+p331-talhouk.pdf	Newcastle University-American University of Beirut-Microsoft Research	UK-Lebanon
+p2417-rodger.pdf	Newcastle University	UK-UK
+p5286-luger.pdf	Microsoft Research	UK-UK
+p897-zhang.pdf	Purdue University	USA
+p3970-eickhoff.pdf	Hasso Plattner Institute	Germany
+p1548-fakourfar.pdf	University of Calgary-University of New Brunswick	Canada-Canada
+p1717-mark.pdf	MIT-Microsoft Research-UC Irvine	USA-USA-USA
+p4423-yoo.pdf	University of Washington-Seattle Pacific University-Global Solidarity Corporation	USA-USA-USA
+p1245-muller.pdf	University of Konstanz	Germany
+p2996-bopp.pdf	University of Basel	Switzerland
+p919-girotto.pdf	Arizona State University-Carleton University-New York University	USA-Canada-USA
+p2258-hahn.pdf	Carnegie Mellon University-Bosch Corporate Research	USA-USA
+p4459-disalvo.pdf	Georgia Tech	USA

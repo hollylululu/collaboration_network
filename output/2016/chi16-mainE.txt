@@ -1,0 +1,51 @@
+file	affiliations	country
+p3793-robinson.pdf	Swansea University-University Grenoble Alpes	France-UK
+p3533-diaz-tula.pdf	University of Sao Paulo	Brazil
+p5433-battle.pdf	MIT-Microsoft Research	USA
+p758-kajastila.pdf	Aalto University	Finland
+p475-neate.pdf	Swansea University-BBC R&D	UK-UK
+p409-ramakers.pdf	Autodesk Research-Hasselt University	Canada-Belgium
+p3706-jang.pdf	Stanford University-MIT	USA-USA
+p2681-ketcheson.pdf	Queen's University	Canada
+p4111-ikeda.pdf	KDDI R&D Laboratories-Stanford University	Japan-USA
+p1957-hettiarachchi.pdf	University of Toronto	Canada
+p3748-ur.pdf	Carnegie Mellon University-Penn State University	USA
+p5372-yuksel.pdf	Tufts University-Worcester Polytechnic Institute-Bucknell University-Google	USA
+p1109-epstein.pdf	University of Washington	USA
+p5003-zhao.pdf	Inria-Autodesk Research-Hong Kong University of Science and Technology-Hong Kong University of Science and Technology	Hong Kong-USA-France
+p864-barkhuus.pdf	Stockholm University-Stockholm University	Sweden
+p5897-spielberg.pdf	Disney Research-Carnegie Mellon University-MIT	USA
+p5836-uddin.pdf	University of Saskatchewan-Autodesk Research	Canada-Canada
+p4142-lomas.pdf	UC San Diego-Cargegie Mellon University	USA
+p1952-kurauchi.pdf	University of Sao Paulo-Boston University	Brazil-USA
+p1705-lindlbauer.pdf	"TU Berlin, Berlin-Aarhus University"	Germany-Denmark
+p699-kim.pdf	KAIST	Korea-Korea
+p2783-kogan.pdf	University of Colorado Boulder	USA
+p5421-matejka.pdf	Autodesk Research	Canada
+p2635-mamykina.pdf	Columbia University-Harvard University-Sassafras Tech Collective	USA-USA-USA
+p2764-nakagaki.pdf	MIT	USA
+p4533-locascio.pdf	PubMetic-Carnegie Mellon University-Yahoo	USA-USA-USA
+p152-sonne.pdf	Aarhus University-University College London	UK-Denmark
+p4663-lafreniere.pdf	Autodesk Research-University of Saskatchewan-University of Canterbury	Canada-New Zealand
+p3956-rogerson.pdf	Microsoft Research Centre for Social NUI-The University of Melbourne-The University of Melbourne	Australia
+p4320-von-zezschwitz.pdf	University of Munich	Germany
+p1968-azmandian.pdf	Microsoft Research-University of Waterloo-University of Southern California	USA-Canada-USA
+p445-brule.pdf	LTCI-CNRS-Telecom Paris Tech-Paris Saclay University-INRIA-IJA Toulouse-University of Toulouse	France
+p177-kulshreshth.pdf	University of Central Florida	USA-USA
+p1515-nandakumar.pdf	Microsoft Research-University of Washington	USA
+p5933-fischer.pdf	University of Nottingham-University of Southampton	UK
+p3822-arefin-shimon.pdf	Colorado State University-Colorado State University	USA
+p1486-matias.pdf	MIT-University of Washington	USA
+p272-kim.pdf	Seoul National University-Penn State University-Microsoft Research	Korea-USA-Korea-USA
+p1769-hofmann.pdf	Colorado State University-Carnegie Mellon University	USA
+p1573-akkil.pdf	University of Tampere	Finland-Finland
+p4228-kuo.pdf	National Taiwan University	Taiwan
+p2729-barrio.pdf	Microsoft Research-Microsoft Research-Columbia University-Columbia University	USA
+p4838-wilson.pdf	University of Glasgow	UK
+p575-bakhshi.pdf	Yahoo	USA
+p5240-phelan.pdf	University of Michigan	USA
+p1681-altimira.pdf	"RMIT University-University of Canterbury,-University of South Australia"	Australia-New Zealand
+p372-chandra.pdf	University of Michigan	USA
+p4699-yu.pdf	Tsinghua University-Google	China-USA
+p3834-nebeling.pdf	Carnegie Mellon Universit-Microsoft Research	USA-USA
+p4781-rintel.pdf	Microsoft Research-Social Shaping Research	UK-UK-UK

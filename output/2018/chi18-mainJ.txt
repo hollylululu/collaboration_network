@@ -1,0 +1,51 @@
+file	affiliations	country
+paper661.pdf	RWTH Aachen University-RWTH Aachen University	Germany
+paper113.pdf	"Zhejiang University, Hangzhou,-Zhejiang University, Hangzhou,-Georgia Institute of Technology, GA,"	China-USA
+paper649.pdf	"Graduate School of Convergence Science and Technology, Seoul National University-Graduate School of Convergence Science and Technology, Seoul National University-Graduate School of Convergence Science and Technology, Seoul National University-Human Centered Computing Lab-Human Centered Computing Lab"	Korea
+paper517.pdf	"University College London, UCLIC, Gower Street, London,-University College London, UCLIC, Gower Street, London,-University College London, UCLIC, Gower Street, London,-University College London, UCLIC, Gower Street, London,-University of Sussex, Children & Technology Lab, School of Psychology,-University of Sussex, Children & Technology Lab, School of Psychology,-University of Sussex, Children & Technology Lab, School of Psychology,-University of Sussex, Children & Technology Lab, School of Psychology,"	UK-UK
+paper271.pdf	"University of Stuttgart, Stuttgart,-University of Stuttgart, Stuttgart,"	Germany-Germany-USA
+paper265.pdf	"+HCI Group, University of Bremen, ,-+HCI Group, University of Bremen, ,-+HCI Group, University of Bremen, ,-*PSA Research Group, Northwestern University,-*PSA Research Group, Northwestern University,-*PSA Research Group, Northwestern University,"	Germany-USA
+paper503.pdf	The Open University-The Open University-The Open University-The Open University-The Open University-The Open University-Northumbria University-Northumbria University	UK-UK-UK-UK
+paper259.pdf	"Design Lab, School of Architecture, Design and Planning, The University of Sydney,-Design Lab, School of Architecture, Design and Planning, The University of Sydney,-Design Lab, School of Architecture, Design and Planning, The University of Sydney,-Design Lab, School of Architecture, Design and Planning, The University of Sydney,"	Germany-Australia
+paper258.pdf		Korea-Korea
+paper264.pdf	"Department of Computer Science, Cornell University-Department of Computer Science, Cornell University-Department of Computer Science, Cornell University-Department of Computer & Information Science, University of Pennsylvania-Department of Computer & Information Science, University of Pennsylvania-Department of Computer & Information Science, University of Pennsylvania-Paul G. Allen School of Computer Science & Engineering, University of Washington-Paul G. Allen School of Computer Science & Engineering, University of Washington-Paul G. Allen School of Computer Science & Engineering, University of Washington-Microsoft Research Redmond"	USA
+paper502.pdf	"Information Science, Department of Communication, Cornell University,-Information Science, Department of Communication, Cornell University,-Information Science, Department of Communication, Cornell University,-Computer Science, Stanford University, emurnane@stanford.edu-Computer Science, Stanford University, emurnane@stanford.edu-Department of Communication, University of Cincinnati, changpf@ucmail.uc.edu-Department of Communication, University of Cincinnati, changpf@ucmail.uc.edu-Department of Communication, University of Cincinnati, changpf@ucmail.uc.edu"	USA
+paper516.pdf	Columbia University-Columbia University	USA
+paper270.pdf	"Dept. of Informatics, Umeå University-Dept. of Informatics, Umeå University"	Sweden
+paper648.pdf	Future University Hakodate-Future University Hakodate-Keio University-Keio University-Support Inc.	Japan-Japan-Japan
+paper112.pdf	Sheffield Hallam University-Sheffield Hallam University	UK
+paper106.pdf	"Center for Cognitive Psychology and Methodology, Department of Psychology, University of Basel-Center for Cognitive Psychology and Methodology, Department of Psychology, University of Basel-Center for Cognitive Psychology and Methodology, Department of Psychology, University of Basel-Center for Cognitive Psychology and Methodology, Department of Psychology, University of Basel"	Switzerland
+paper660.pdf	University of Saskatchewan-University of Saskatchewan	Canada
+paper489.pdf	School of Information-University of Michigan-University of Michigan	USA
+paper68.pdf	"* Design, Department of Engineering, Aarhus University, Aarhus, Denmark-* Design, Department of Engineering, Aarhus University, Aarhus, Denmark-* Design, Department of Engineering, Aarhus University, Aarhus, Denmark-Ω Department of Oncology, Herning Hospital, Herning, Denmark"	Denmark
+paper40.pdf	School of Architecture-Carnegie Mellon University-Carnegie Mellon University-University of Colorado Boulder-University of Colorado Boulder-ATLAS Institute-University of Colorado Boulder-University of Colorado Boulder	USA
+paper54.pdf	"Institute of Media Informatics, Ulm University, Ulm,-Institute of Media Informatics, Ulm University, Ulm,-Institute of Media Informatics, Ulm University, Ulm,-MIT Media Lab, Cambridge, MA"	Germany-USA
+paper338.pdf	"Johann Bernoulli Institute, University of Groningen-Johann Bernoulli Institute, University of Groningen-Johann Bernoulli Institute, University of Groningen"	Netherlands
+paper310.pdf	Crowdsourcing vs Laboratory-Style Social Acceptability-Crowdsourcing vs Laboratory-Style Social Acceptability-University of Manitoba-University of Manitoba-University of Waterloo-University of Waterloo	Canada-Canada
+paper83.pdf	"*Pennsylvania State University, †Fu Jen University-*Pennsylvania State University, †Fu Jen University"	USA-Taiwan
+paper476.pdf	School of Interactive Computing-Georgia Institute of Technology	USA
+paper462.pdf	"University of California, Santa Cruz-University of California, Santa Cruz"	USA
+paper97.pdf	"University of Washington-University of Washington-School of Computer Science, Institute for-School of Computer Science, Institute for-Human-Centered Design & Engineering"	Iran-USA
+paper304.pdf	Georgia Institute of Technology-Microsoft Research	USA-USA
+paper474.pdf	New Jersey Institute of Technology-University of Cincinnati-University of Cincinnati-Thompson Rivers University-Thompson Rivers University	USA-USA-Canada
+paper81.pdf	"University of South , Adelaide,-University of South , Adelaide,-Aalto University, Espoo,-Aalto University, Espoo,"	Australia-Finland
+paper312.pdf	Georgia Institute of Technology	USA
+paper306.pdf	",,, Madeira-ITI, Instituto Superior Técnico – University of Lisbon, University of Porto, CIPESA-,,, Madeira-ITI, Instituto Superior Técnico – University of Lisbon, University of Porto, CIPESA"	Portugal-Uganda
+paper95.pdf	Carnegie Mellon University-Carnegie Mellon University-Human-Computer Interaction Institute	China-USA
+paper460.pdf	"Institute of Mediainformatics-Ulm University, Ulm,-Ulm University, Ulm,"	Germany
+paper448.pdf	"LRI, Univ. Paris-Sud, CNRS,-Inria, Université Paris-Saclay-Inria, Université Paris-Saclay"	France
+paper42.pdf	"Department of Computer Science and Technology-Key Laboratory of Pervasive Computing, Ministry of Education-Key Laboratory of Pervasive Computing, Ministry of Education-Global Innovation eXchange Institute, Tsinghua University, Beijing, ,-Global Innovation eXchange Institute, Tsinghua University, Beijing, ,-Global Innovation eXchange Institute, Tsinghua University, Beijing, ,-Hong Kong University of Science and Technology, Hong Kong-Hong Kong University of Science and Technology, Hong Kong"	China-Hong Kong
+paper56.pdf	"University of Maryland-University of Maryland-College Park,-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University"	USA-USA-USA-USA
+paper110.pdf		USA
+paper662.pdf	"Department of Computer Science and Engineering, HKUST-School of Creative Media, City University of Hong Kong-School of Creative Media, City University of Hong Kong-School of Creative Media, City University of Hong Kong-Megvii Inc. US"	Hong Kong-USA
+paper104.pdf	School of Interactive Arts and Technology-Simon Fraser University-Simon Fraser University	Canada
+paper138.pdf		USA
+paper500.pdf	Hong Kong University of Science and Technology-Hong Kong University of Science and Technology-University of Minnesota-University of Minnesota	USA-Hong Kong
+paper266.pdf	"New York University-New York University-University of California, Santa Cruz-University of California, Santa Cruz"	USA-USA
+paper272.pdf	Indiana University–Purdue-Indiana University–Purdue-University Indianapolis-University Indianapolis-Indiana University–Purdue-Indiana University–Purdue-University Indianapolis-University Indianapolis-Indiana University–Purdue-Indiana University–Purdue-University Indianapolis-University Indianapolis	USA-USA-USA
+paper514.pdf	"¹Open Lab, Newcastle University, Newcastle upon Tyne, , j.hodge@ncl.ac.uk; k.morrissey@ncl.ac.uk-¹Open Lab, Newcastle University, Newcastle upon Tyne, , j.hodge@ncl.ac.uk; k.morrissey@ncl.ac.uk-¹Open Lab, Newcastle University, Newcastle upon Tyne, , j.hodge@ncl.ac.uk; k.morrissey@ncl.ac.uk-²Media Technology & Interaction Design, KTH Royal Institute of Technology, Stockholm, , balaam@kth.se"	UK-Sweden
+paper528.pdf	"Department of Computer Science and Technology-Key Laboratory of Pervasive Computing, Ministry of Education-Key Laboratory of Pervasive Computing, Ministry of Education-Global Innovation eXchange Institute, Tsinghua University, Beijing, ,-Global Innovation eXchange Institute, Tsinghua University, Beijing, ,-Global Innovation eXchange Institute, Tsinghua University, Beijing, ,"	China
+paper299.pdf	Lancaster University-Lancaster University-University of Bristol-University of Bristol-Saarland University-Saarland University-University of Copenhagen-University of Copenhagen-Aalborg University-Aalborg University-Stanford University-Stanford University	UK-Denmark-Germany-Netherlands-USA
+paper298.pdf	RWTH Aachen University-RWTH Aachen University	Germany
+paper529.pdf	University of-University of-University of-University of-University of-University of-Honda Research Institute	Japan-Canada
+paper273.pdf	Disney Research Pittsburgh-Carnegie Mellon University-Carnegie Mellon University	USA

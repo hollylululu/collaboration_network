@@ -1,0 +1,207 @@
+C1	C2	weight
+Canada	USA	42
+Denmark	Finland	5
+Romania	USA	2
+USA	UK	15
+Denmark	Ireland	2
+Denmark	UK	8
+Ireland	UK	9
+Germany	UK	16
+Austria	Canada	3
+Sweden	USA	4
+Mexico	USA	1
+USA	Hong Kong	5
+Germany	Sweden	3
+Germany	Belgium	3
+Germany	USA	27
+Belgium	USA	4
+Singapore	Hong Kong	2
+Germany	Canada	7
+Spain	UK	5
+Korea	Canada	4
+Brazil	Canada	1
+Sweden	Italy	3
+France	Canada	23
+Italy	Finland	1
+Slovenia	Canada	1
+Slovenia	UK	1
+Canada	UK	19
+Germany	Denmark	11
+India	USA	12
+Finland	UK	7
+Switzerland	USA	8
+Austria	USA	5
+Spain	Switzerland	1
+Mainland China	UK	3
+France	UK	11
+France	USA	8
+UK	USA	16
+Lebanon	UK	1
+Canada	Belgium	1
+Japan	USA	8
+USA	France	1
+France	Hong Kong	1
+Brazil	USA	3
+New Zealand	Canada	9
+Korea	USA	22
+New Zealand	Australia	2
+China	USA	33
+India	UK	4
+Greece	USA	1
+Australia	UK	4
+Namibia	India	1
+Namibia	USA	1
+Israel	USA	7
+Bulgaria	UK	1
+Spain	USA	1
+Sweden	Denmark	4
+Taiwan	Japan	2
+Switzerland	UK	8
+Korea	Japan	1
+Malaysia	UK	3
+Japan	Canada	5
+Finland	USA	8
+Sweden	Singapore	4
+Sweden	Turkey	1
+Singapore	Turkey	1
+Denmark	Switzerland	3
+Taiwan	USA	8
+China	India	1
+Netherlands	Korea	1
+Netherlands	Canada	7
+Netherlands	UK	7
+Hong Kong	UK	1
+Korea	UK	1
+Qatar	Finland	1
+Germany	Korea	2
+Denmark	Korea	1
+Denmark	Germany	5
+Denmark	Austria	2
+Germany	Austria	7
+Sweden	Germany	3
+New Zealand	USA	1
+Portugal	UK	2
+China	Korea	1
+Netherlands	Switzerland	1
+Switzerland	Canada	2
+Switzerland	Austria	1
+Canada	Austria	1
+UAE	Korea	1
+Italy	UK	4
+Denmark	USA	4
+Netherlands	USA	6
+France	Finland	1
+Finland	Canada	2
+Sweden	UK	13
+Ecuador	UK	2
+Germany	Switzerland	2
+Norway	Finland	1
+Norway	UK	2
+Germany	Portugal	2
+Germany	Finland	6
+Portugal	Finland	1
+Portugal	USA	1
+Singapore	USA	3
+Denmark	Japan	1
+Denmark	Egypt	1
+Japan	Egypt	2
+Sweden	China	1
+South Africa	USA	1
+Germany	Greece	2
+Greece	UK	2
+Italy	USA	2
+Italy	Denmark	1
+China	Japan	2
+Netherlands	Finland	2
+China	Hong Kong	5
+UK	Hong Kong	1
+Finland	Australia	3
+Australia	USA	5
+Korea	Australia	1
+Japan	Finland	2
+Malaysia	Canada	1
+Portugal	Canada	1
+Romania	Spain	2
+Qatar	USA	2
+Denmark	Spain	1
+China	Canada	3
+France	Japan	1
+Japan	UK	1
+Turkey	France	1
+Turkey	USA	1
+Switzerland	Brazil	1
+Spain	Austria	1
+Austria	UK	3
+France	Brazil	1
+UAE	USA	3
+Cyprus	UK	1
+Germany	Hong Kong	1
+Germany	Singapore	1
+France	New Zealand	1
+Philippines	USA	1
+Switzerland	Korea	1
+Finland	Korea	2
+Germany	France	2
+Ireland	Finland	1
+Israel	France	1
+Hungary	USA	1
+Germany	Australia	3
+Germany	Japan	3
+Taiwan	China	1
+Taiwan	Canada	1
+Singapore	Canada	2
+Paraguay	USA	1
+Germany	Brazil	1
+Denmark	Canada	2
+Sweden	Costa Rica	1
+Rwanda	USA	1
+Denmark	Netherlands	1
+Tanzania	USA	1
+Singapore	Korea	1
+Switzerland	China	1
+USA	Pakistan	1
+Pakistan	UK	1
+Vietnam	Canada	1
+Vietnam	USA	1
+New Zealand	UK	2
+Denmark	Australia	2
+Sweden	Ireland	1
+New Zealand	Japan	1
+Denmark	Singapore	1
+Denmark	France	1
+Taiwan	Korea	2
+Argentina	USA	1
+Germany	Spain	1
+Germany	Netherlands	2
+Spain	Netherlands	1
+Switzerland	Finland	1
+Germany	South Africa	1
+South Africa	UK	1
+Netherlands	Taiwan	1
+Ecuador	USA	2
+Korea	Finland	1
+Sweden	India	1
+India	Denmark	1
+Germany	Cyprus	2
+Portugal	Cyprus	1
+Romania	Canada	1
+Spain	Canada	1
+Portugal	Austria	1
+Denmark	Qatar	1
+Australia	Finland	1
+Japan	Australia	1
+Cyprus	Greece	1
+Saudi Arabia	UK	1
+Taiwan	Netherlands	1
+China	Austria	1
+Japan	Austria	1
+Iran	USA	1
+Uganda	Portugal	1
+Hong Kong	USA	1
+USA	Netherlands	1
+USA	Denmark	1
+Netherlands	Denmark	1
+UK	Denmark	1
+Qatar	Switzerland	1
+Singapore	UK	1
+Norway	Greece	1

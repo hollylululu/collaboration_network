@@ -1,0 +1,51 @@
+file	affiliations	country
+p1374-echtler.pdf	Bauhaus Universitat Weimar	Germany
+p5298-bailly.pdf	LTCI-CNRS-Telecom ParisTech-University Paris Saclay-University Lille	France-France
+p1114-park.pdf	University of Maryland College Park	USA
+p5169-huang.pdf	Hong Kong Polytechnic University	Hong Kong
+p3007-birk.pdf	University of Saskatchewan-University of Trier	Canada-Germany
+p5548-reno.pdf	Penn State University	USA
+p1656-gao.pdf	Rutgers University-Rutgers University	USA
+p3428-sarasua.pdf	Universitat Pompeu Fabra-University of London	UK-Spain
+p4464-mcnaney.pdf	Newcastle University	UK-UK-UK
+p2492-d-angelo.pdf	Northwestern University-Northwestern University	USA
+p3736-buschek.pdf	University of Munich	Germany
+p2474-kirk.pdf	Newcastle University-Royal College of Art	UK-UK
+p4861-lee.pdf	Georgia Tech	USA
+p1176-gruning.pdf	University of Texas at Austin-Microsoft Research	USA-UK
+p1608-houben.pdf	University College London-Eindhoven University of Technology	UK-Netherlands
+p1324-preist.pdf	University of Bristol-Hong Kong Polytechnic University	UK-Hong Kong
+p840-simbelis.pdf	Royal Institute of Technology-SICS	Sweden-Sweden
+p5040-asenov.pdf	ETH Zurich	Switzerland
+p3852-kubo.pdf	University of Tsukuba-University of Tsukuba	Japan
+p2209-jack.pdf	Cornell University	USA
+p6058-saakes.pdf	KAIST	Korea
+p4413-taylor.pdf	Carnegie Mellon University	USA
+p1379-schneegass.pdf	University of Stuttgart-Saarland University-Max Planck Institute for Informatics	Germany
+p2869-hinckley.pdf	Microsoft Research-KAIST	USA-Korea-UK
+p2487-chattopadhyay.pdf	Microsoft Research-Indiana University	USA-UK
+p3625-dow.pdf	Newcastle University	UK
+p1152-kiene.pdf	University of Washington-Microsoft Research	USA
+p2087-wallace.pdf	University of Waterloo	Canada
+p2895-haimson.pdf	UC Irvine-University of Colorado Boulder-IUPUI	USA-USA
+p4734-worgan.pdf	University of Bristol-University of Copenhagen-University of Sussex	UK-UK
+p1163-benford.pdf	"Mixed Reality Laboratory, The University of Nottingham, Nottingham,-Mixed Reality Laboratory, The University of Nottingham, Nottingham,-Mixed Reality Laboratory, The University of Nottingham, Nottingham,-Mixed Reality Laboratory, The University of Nottingham, Nottingham,"	UK
+p5543-garimella.pdf	Carnegie Mellon University-Aalto University-Qatar Computing Research Institute	Finland-Qatar
+p3722-yang.pdf	Rutgers University-Aalto University	USA-Finland
+p237-fast.pdf	Stanford University	USA
+p4238-oakley.pdf	Jacobs University-Technical University of Denmark-UNIST	Korea-Germany-Denmark
+p3248-schneider.pdf	University of British Columbia	Canada
+p5482-chi.pdf	Google-UC Berkeley	USA
+p5470-zagermann.pdf	University of Applied Sciences Upper Austria-Aarhus University-University of Konstanz	Denmark-Austria-Germany
+p4298-ruoti.pdf	Sandia National Laboratories-Brigham Young University	USA
+p1798-heffernan.pdf	University of Melbourne	Australia-Australia-Australia
+p5444-adnan.pdf	University of Leeds-Heriot Watt University	UK-UK-UK
+p1270-simm.pdf	Lancaster University	UK
+p3498-scaffidi.pdf	Oregon State University-National Instruments	USA-USA
+p4610-xia.pdf	University of Toronto-University of Toronto-Autodesk Research	Canada
+p4599-kazi.pdf	Autodesk Research	USA
+p2447-wozniak.pdf	Chalmers University of Technology-Cornell University-Lodz University of Technology-University of Stuttgart	Sweden-USA-Germany
+p1757-hara.pdf	University of Maryland College Park	USA
+p2845-pfeuffer.pdf	Lancaster University-Lancaster University	UK
+p5862-markussen.pdf	University of Copenhagen	Denmark
+p5595-smeddinck.pdf	University of Bremen-University of Saskatchewan-University of Lincoln	Germany-UK-Canada

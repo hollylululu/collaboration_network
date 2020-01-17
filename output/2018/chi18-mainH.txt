@@ -1,0 +1,51 @@
+file	affiliations	country
+paper600.pdf		USA
+paper614.pdf	"Stanford University, Brown University-Stanford University, Brown University"	USA
+paper172.pdf	"University of Dundee,-University of Dundee,"	UK
+paper34.pdf	University of Washington-University of Washington-University of California-University of California-Stanford University-Stanford University	USA-USA-USA
+paper20.pdf	"Department of Computer Science, Stony Brook University, NY,-Department of Computer Science, Stony Brook University, NY,-Department of Computer Science, Stony Brook University, NY,-Department of Computer Science, University of North Carolina at Chapel Hill, NC,-Department of Computer Science, University of North Carolina at Chapel Hill, NC,-Department of Computer Science, University of North Carolina at Chapel Hill, NC,"	USA-USA
+paper358.pdf	"School of Information, Mechanical Engineering-University of California, Berkeley-University of California, Berkeley"	USA
+paper402.pdf	"Human Computer Interaction Group, TU Wien, Vienna, Austria"	Portugal-Austria
+paper364.pdf		USA
+paper370.pdf	"School of Informatics, Computing, & Engineering, Indiana University, Bloomington-School of Informatics, Computing, & Engineering, Indiana University, Bloomington-School of Informatics, Computing, & Engineering, Indiana University, Bloomington-School of Design, The Hong Kong Polytechnic University, Hong Kong-School of Design, The Hong Kong Polytechnic University, Hong Kong-School of Design, The Hong Kong Polytechnic University, Hong Kong"	Hong Kong-USA
+paper416.pdf	Department of Informatics-Indiana University-Indiana University-School of Library and-Simmons College-Department of Mathematics-Claﬂin University-Claﬂin University	USA
+paper459.pdf	"College of Information Studies-University of Maryland, College Park-University of Maryland, College Park-University of Maryland, College Park-Human Centered Design and Engineering-University of Washington-University of Washington"	USA
+paper317.pdf	"Institute,-Hamad Bin Khalifa University;-Hamad Bin Khalifa University;-and Turku School of Economics-Institute,-IT University of Copenhagen-IT University of Copenhagen-Institute,-Hamad Bin Khalifa University-Hamad Bin Khalifa University-Institute,-Institute,-Hamad Bin Khalifa University-Hamad Bin Khalifa University-Hamad Bin Khalifa University-Hamad Bin Khalifa University-Hamad Bin Khalifa University-Hamad Bin Khalifa University"	Denmark-Qatar
+paper471.pdf	Lancaster University-Lancaster University-Lancaster University-Lancaster University-Chalmers University of-Chalmers University of-Institutes of	UK-UK-Sweden-Sweden
+paper84.pdf	University of Colorado Boulder-University of Colorado Boulder-Department of Computer Science-University of New Mexico-University of New Mexico	USA
+paper90.pdf	HCI Group-HCI Group-HCI Group-University of Konstanz-University of Konstanz-University of Konstanz-University of Konstanz-University of Konstanz-University of Konstanz-Visualization Group-University of Konstanz-University of Konstanz-HCI Group-University of Konstanz-University of Konstanz	Germany
+paper465.pdf	"Graduate Institute of Networking and Multimedia,-Department of Computer Science and Information Engineering-National Taiwan University, Taipei, Taiwan-National Taiwan University, Taipei, Taiwan-Department of Ophthalmology, National Taiwan University Hospital, Taipei, Taiwan-Department of Ophthalmology, National Taiwan University Hospital, Taipei, Taiwan-Department of Ophthalmology, National Taiwan University Hospital, Taipei, Taiwan"	Taiwan
+paper303.pdf	"Eindhoven University of Technology, Department of Industrial Design-Eindhoven University of Technology, Department of Industrial Design-Eindhoven University of Technology, Department of Industrial Design"	Netherlands
+paper47.pdf	"Indiana University, Bloomington, IN, , {rakhasan, emhassan, djcran, kapadia}@indiana.edu-Indiana University, Bloomington, IN, , {rakhasan, emhassan, djcran, kapadia}@indiana.edu-Clemson University, Clemson, SC, , {yifang, caine}@g.clemson.edu-Clemson University, Clemson, SC, , {yifang, caine}@g.clemson.edu-Oberlin College, Oberlin, OH, , hoyle@oberlin.edu"	USA-USA-USA
+paper53.pdf	Department of Information Science-University of Colorado Boulder-University of Colorado Boulder-Department of Communication-University of Colorado Boulder-University of Colorado Boulder	USA
+paper129.pdf	Microsoft Research	USA-Germany
+paper115.pdf	Institute of Applied Computer Science	Germany
+paper101.pdf	"Department of Computer-Department of Advertising and-National Tsing Hua University,-National Tsing Hua University,-National Tsing Hua University-National Tsing Hua University-Fu Jen University-Fu Jen University-University of California, Davis-University of California, Davis"	Taiwan-USA
+paper667.pdf	‡ Hunter College-Ψ City College of New York-Φ Cornell University-Φ Cornell University	USA
+paper539.pdf	"University of Stuttgart, Stuttgart, , {ﬁrstname.lastname}@vis.uni-stuttgart.de-University of Stuttgart, Stuttgart, , {ﬁrstname.lastname}@vis.uni-stuttgart.de-Aarhus University, Aarhus, Denmark, jensemil@cs.au.dk-Aarhus University, Aarhus, Denmark, jensemil@cs.au.dk-The University of Melbourne, Melbourne, , zsarsenbayev@student.unimelb.edu.au-The University of Melbourne, Melbourne, , zsarsenbayev@student.unimelb.edu.au-University of Helsinki, Helsinki, , giulio.jacucci@helsinki.ﬁ-University of Helsinki, Helsinki, , giulio.jacucci@helsinki.ﬁ"	Germany-Denmark-Australia-Finland
+paper263.pdf	University of Bremen-University of Bremen-University of Kaiserslautern-University of Kaiserslautern-Harvard Medical School	Germany-Germany-USA-USA-USA
+paper505.pdf	"University of Stuttgart, Stuttgart, , {ﬁrstname.lastname}@vis.uni-stuttgart.de-University of Stuttgart, Stuttgart, , {ﬁrstname.lastname}@vis.uni-stuttgart.de-Olin College of Engineering, Needham MA, US, {ﬁrstname.lastname}@students.olin.edu"	Germany-USA
+paper511.pdf	Simon Fraser University-Simon Fraser University-Design Lab-UC San Diego	Canada-USA
+paper277.pdf	"Harvard University, Cambridge, MA,-Harvard University, Cambridge, MA,-Microsoft Research, Redmond, WA,"	USA-USA
+paper288.pdf	"Google Research & Machine Intelligence, Mountain View, CA, Unites States-Lancaster University, Lancaster,-Lancaster University, Lancaster,"	UK-USA
+paper289.pdf	"University of California, Davis, CA,-University of California, Davis, CA,"	USA-USA
+paper510.pdf	Northwestern University-Northwestern University-University of Washington-University of Washington	USA-USA
+paper276.pdf	"Center for Ubiquitous Computing, University of Oulu,-Center for Ubiquitous Computing, University of Oulu,-Center for Ubiquitous Computing, University of Oulu,-Finnish Institute of Occupational Health, , Oulu University Hospital,-Finnish Institute of Occupational Health, , Oulu University Hospital,-Finnish Institute of Occupational Health, , Oulu University Hospital,-School of Computing and Information Systems, The University of Melbourne,-School of Computing and Information Systems, The University of Melbourne,-School of Computing and Information Systems, The University of Melbourne,-Faculty of Arts and Science, Kyushu University,-Faculty of Arts and Science, Kyushu University,"	Finland-Finland-Australia-Japan
+paper262.pdf	University of North Carolina at Charlotte-University of North Carolina at Charlotte-Department of Software and Information Systems	USA
+paper504.pdf	Adobe Research-Paul G. Allen School-University of Washington-University of Washington-The Information School-University of Washington-University of Washington	USA
+paper538.pdf	Columbia University-Columbia University	USA
+paper100.pdf	"Entertainment Computing Group-University of Duisburg-Essen,-University of Duisburg-Essen,-Entertainment Computing Group-University of Duisburg-Essen,-University of Duisburg-Essen,"	Germany-Germany
+paper666.pdf		USA-USA-USA
+paper114.pdf	School of Information-University of Michigan-University of Michigan-University of Michigan-University of Michigan	USA-USA
+paper128.pdf	"Institute of Mediainformatics-Ulm University, Ulm,-Ulm University, Ulm,"	Germany
+paper52.pdf	Cornell University-Cornell University	USA
+paper46.pdf	"University of South , Adelaide,-University of South , Adelaide,-University of Canterbury,-University of Canterbury,"	Australia-New Zealand
+paper464.pdf	University of Colorado-University of Colorado-University of Colorado-University of Colorado-University of Colorado-University of Colorado	USA
+paper91.pdf	Rochester Institute of Technology-Rochester Institute of Technology	USA-USA
+paper302.pdf	IT University of Copenhagen-IT University of Copenhagen	Denmark
+paper316.pdf	†Adobe Research-∗Durham University-∗Durham University	USA-USA-UK
+paper85.pdf	UC Berkeley	USA
+paper470.pdf	The Open University-The Open University-The Open University-The Open University-The Open University-The Open University	UK-UK-UK
+paper458.pdf	Northumbria University-Northumbria University	UK
+paper328.pdf	"∗Institute of Media Informatics, Ulm University, Ulm,-∗Institute of Media Informatics, Ulm University, Ulm,-∗Institute of Media Informatics, Ulm University, Ulm,-∗∗HCI Games Group, Games Institute, University of Waterloo, Waterloo,-∗∗HCI Games Group, Games Institute, University of Waterloo, Waterloo,-∗∗HCI Games Group, Games Institute, University of Waterloo, Waterloo,-∗∗HCI Games Group, Games Institute, University of Waterloo, Waterloo,"	Germany-Canada
+paper300.pdf	"University College London, London, ; Lancaster University, Lancaster,-University College London, London, ; Lancaster University, Lancaster,-University College London, London, ; Lancaster University, Lancaster,"	UK

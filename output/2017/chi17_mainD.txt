@@ -1,0 +1,41 @@
+file	affiliations	country
+p1794-whitingAFL.pdf	"Ningbo Institute of Technology, Zhejiang University University of Utah-Ningbo Institute of Technology, Zhejiang University University of Utah-Ningbo Institute of Technology, Zhejiang University University of Utah-Dartmouth College University of Pennsylvania-Dartmouth College University of Pennsylvania-Dartmouth College University of Pennsylvania"	USA-China
+p1544-shaerA.pdf	Women’s College Community-Wellesley College-Wichita State University-Wichita State University	USA
+p1634-bagroyATS.pdf	College Campuses-College of Computing	India-USA
+p1471-lopesA.pdf	Hasso Plattner Institute	Germany
+p1620-jakobiA.pdf	"Lab Field Study-Bonn-Rhein-Sieg University of Applied Science, Sankt Augustin,-Bonn-Rhein-Sieg University of Applied Science, Sankt Augustin,-Fraunhofer Institute for Applied Information Technology, Sankt Augustin,-University of Siegen, Siegen-University of Siegen, Siegen"	Germany-Germany-Germany
+p1558-tekinAFL.pdf	Mixed Reality Lab-Department of Linguistics and-University of Basel-University of Basel-School of Computer Science-University of Nottingham-University of Nottingham	Switzerland-UK
+p1831-besanconA.pdf	Univ. Paris Saclay & Inria-Univ. Paris Saclay & Inria-Inria	France-France-France
+p1483-sobelA.pdf	"Human Centered Design & Engineering, The Information School-Human Centered Design & Engineering, The Information School-DUB Group, University of Washington, Seattle, WA,-DUB Group, University of Washington, Seattle, WA,-DUB Group, University of Washington, Seattle, WA,"	USA
+p1447-shoreyA.pdf	Carleton University-Carleton University-Carleton University-Carleton University	Canada-Canada
+p1497-bergstrom-lehtovirtaA.pdf	"University of Copenhagen, Denmark-University of Copenhagen, Denmark"	Denmark
+p1877-gebruA.pdf	"Stanford University, University of Michigan-Stanford University, University of Michigan"	USA
+p1805-fanA.pdf	School of Interactive Arts & Technology        Centre for Research on Early Child Health and Education-Simon Fraser University                                           Simon Fraser University-Simon Fraser University                                           Simon Fraser University--  Avenue                                              University Drive--  Avenue                                              University Drive	Canada
+p1530-boweyA.pdf	"Department of Computer Science, University of Saskatchewan-Department of Computer Science, University of Saskatchewan-Department of Computer Science, University of Saskatchewan"	Canada
+p1855-vashisthaA.pdf	University of Washington-University of Washington-University of Washington-University of Washington-University of Washington-University of Washington	USA
+p1781-maA.pdf	"Jacobs Institute, Cornell Tech-College of Computing and-Informatics, Drexel University-Informatics, Drexel University-The IT University of-The IT University of-Jacobs Institute, Cornell Tech"	USA-Denmark
+p1660-macleodA.pdf	School of Informatics & Computing-Indiana University-Indiana University	USA
+p1607-hsuA.pdf	"The Robotics Institute, Carnegie Mellon University, Pittsburgh, U.S.A.-The Robotics Institute, Carnegie Mellon University, Pittsburgh, U.S.A.-The Robotics Institute, Carnegie Mellon University, Pittsburgh, U.S.A."	USA
+p1756-tewellA.pdf	"City, University of London-City, University of London-City, University of London-City, University of London-University of Melbourne-University of Melbourne"	UK-Australia
+p1714-smithA.pdf	Indiana University-Indiana University-Indiana University-Indiana University-Indiana University-Indiana University	USA-USA-USA
+p1688-manuel.pdf	Open Lab-Newcastle University-Newcastle University	UK
+p1431-culbertsonA 15.36.50.pdf	"Department of Information Science, Department of Computer Science, Cornell University-Department of Information Science, Department of Computer Science, Cornell University-Department of Information Science, Department of Computer Science, Cornell University"	USA
+p1583-beheshti.pdf	Northwestern University-Northwestern University	USA
+p1768-maurielloA.pdf	"Makeability Lab | Human-Computer Interaction Lab-Department of Computer Science, Department of Bioengineering-University of Maryland, College Park-University of Maryland, College Park-University of Maryland, College Park"	USA
+p1459-rooA.pdf	"Inria,-Inria,-Univ. Bordeaux,-Inria,"	France-France-France-France
+p1577-schwindA.pdf	"VIS, University of Stuttgart-VIS, University of Stuttgart"	Germany
+p1867-morrisA.pdf	"Microsoft Research, Redmond, WA,-Carnegie Mellon University, Pittsburgh, PA,-Carnegie Mellon University, Pittsburgh, PA,-Northwestern University, Evanston, IL,-Northwestern University, Evanston, IL,-University of Washington, Seattle, WA,-University of Washington, Seattle, WA,-University of California, Berkeley, CA,-University of California, Berkeley, CA,-West Virginia University, Morgantown, WV,-West Virginia University, Morgantown, WV,"	USA
+p1441-vorvoreanuA.pdf	Purdue University-Purdue University-Purdue University-Purdue University	USA
+p1702-zhouA.pdf	"Department of Computer Science, Dalhousie University, Halifax,-Department of Computer Science, Dalhousie University, Halifax,-Department of Computer Science, Dalhousie University, Halifax,"	Canada
+p1674-chungA.pdf	"Human Centered Design & Engineering, Computer Science & Engineering, The Information School-Human Centered Design & Engineering, Computer Science & Engineering, The Information School-DUB Group, University of Washington-DUB Group, University of Washington-DUB Group, University of Washington"	USA
+p1571-lesselA.pdf	Saarland University-Saarland University	Germany
+p1843-girottoA.pdf	"School of Computing, Informatics,-Arizona State University-Arizona State University-Rory Meyers College of Nursing-New York University-New York University"	USA-USA
+p1595-snow.pdf	University of Southampton-University of Southampton-University of Southampton-University of Southampton-University of Southampton-University of Southampton	UK-UK-UK
+p1419-hoangA.pdf	"Microsoft Research Centre for SocialNUI, *Melbourne School of Health Sciences-Microsoft Research Centre for SocialNUI, *Melbourne School of Health Sciences-The University of Melbourne, Melbourne,-The University of Melbourne, Melbourne,"	Australia
+p1518-sahibzadaA.pdf	"Bauhaus-Universität Weimar, Bauhausstr. ,  Weimar,"	Germany
+p1726-johnsonA.pdf	"Google, Inc.-Google, Inc.-Google, Inc.-Google, Inc.-Northwestern University-Northwestern University"	USA-USA-USA
+p1817-fraserA.pdf	"Autodesk Research-Design Lab, UC San Diego-Design Lab, UC San Diego"	USA
+p1508-yoshinoA.pdf	Yamaguchi University-Yamaguchi University	Japan-Japan
+p1743-wilsonA.pdf	"Glasgow Interactive Systems Section, School of Computing Science-University of Glasgow, G QQ-University of Glasgow, G QQ"	UK
+p1731-ranasingheA.pdf	"Keio-NUS CUTE Center, Interactive & Digital Media Institute, National University of Singapore-Keio-NUS CUTE Center, Interactive & Digital Media Institute, National University of Singapore-Keio-NUS CUTE Center, Interactive & Digital Media Institute, National University of Singapore-Keio-NUS CUTE Center, Interactive & Digital Media Institute, National University of Singapore-School of Industrial Design & School of Interactive Computing, Georgia Institute of Technology-School of Industrial Design & School of Interactive Computing, Georgia Institute of Technology"	Singapore-USA
+p1647-guiA.pdf	"Department of Informatics                                            School of Animation-Department of Informatics                                            School of Animation-University of California, Irvine                                           Shenzhen Polytechnic-University of California, Irvine                                           Shenzhen Polytechnic-networking  sites  such  as  Facebook  and  Twitter.  (e.g.-application  in  .  Like  Facebook,  WeChat  supports  a"	USA-China

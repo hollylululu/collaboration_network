@@ -1,0 +1,41 @@
+file	affiliations	country
+p4561-kimA.pdf		Korea-Korea-Korea
+p4344-moserA.pdf	Sale Groups on Facebook-Sale Groups on Facebook-University of Michigan-University of Michigan-University of Michigan-University of Michigan	USA-USA
+p4326-lyu.pdf	"State Key Laboratory of Computer Science, Institute of-State Key Laboratory of Computer Science, Institute of-State Key Laboratory of Computer Science, Institute of-School of Digital Media and Design Arts, Beijing-University of Posts and Telecommunications, Beijing,-University of Posts and Telecommunications, Beijing,-Beijing Key Lab of Human-Computer Interaction, Institute-Beijing Key Lab of Human-Computer Interaction, Institute-Boston University, Boston,-Boston University, Boston,-Pennsylvania State University, University Park,-Pennsylvania State University, University Park,"	China-China-China-USA-China-USA
+p4370-bellotti.pdf	"Palo Alto Research Center-Jack Baskin School of-UC Santa Cruz, CA,-Google"	USA
+p4507-leA.pdf	"∗The University of Iowa, Iowa City, IA,-∗The University of Iowa, Iowa City, IA,-‡Qatar Computing Research Institute, Qatar"	USA-Qatar
+p4358-moserA.pdf	University of Michigan-University of Michigan-University of Washington-University of Washington	USA
+p4534-nelimarkkaA.pdf	"Helsinki Institute for Information Technology HIIT,-Department of Computer Science, Aalto University,-Department of Computer Science, Aalto University,-Department of Computer Science, Aalto University,-Department of Computer Science, University of Helsinki,-Department of Computer Science, University of Helsinki,-Department of Computer Science, University of Helsinki,-School of Information Studies, Syracuse University,-School of Information Studies, Syracuse University,-School of Information Studies, Syracuse University,"	Finland-USA
+p4599-alkhatibA.pdf	Computer Science Department and CASBS-Stanford University-Stanford University	USA
+p4692-kangAFL.pdf	University Of Central Florida-University Of Central Florida-University Of Central Florida-University Of Central Florida-University Of Central Florida-University Of Central Florida	USA
+p4383-tokuda.pdf	"School of Engineering and Informatics, University of Sussex, Brighton,-School of Engineering and Informatics, University of Sussex, Brighton,-School of Engineering and Informatics, University of Sussex, Brighton,"	UK
+p4424-alakarppaA.pdf	University of Lapland-University of Lapland	Finland
+p4520-guiA.pdf	"University of California, Irvine                   Purdue University                  Arizona State university-University of California, Irvine                   Purdue University                  Arizona State university-Facebook,  helped  individuals  seek  assistance,  develop"	USA
+p4454-foongA.pdf	University of California-University of California-University of Illinois at-University of Illinois at-Northwestern University-Northwestern University	USA
+p4703-swearnginA.pdf	"Computer Science & Engineering, The Information School-DUB Group, University of Washington-DUB Group, University of Washington-DUB Group, University of Washington"	USA
+p4627-krauseAemb.pdf	"ICSI, University of California,-ICSI, University of California,-Delta Lab-Northwestern University-Northwestern University-Carnegie Mellon University-Carnegie Mellon University-University of Illinois-University of Illinois-Huazhong University of-Huazhong University of-University of California,-University of California,"	USA-China
+p4640-buschekA.pdf	University of Munich (LMU)-University of Munich (LMU)-University of Munich (LMU)-University of Munich (LMU)	Germany-Germany
+p4314-ochiai.pdf	"University of Tsukuba-University of Tsukuba-The University of Tokyo-The University of Tokyo-Pixie Dust Technologies, Inc."	Japan-USA
+p4680-eardleyA.pdf	University of Bristol-University of Bristol-Cardiff School of Art and Design-Cardiff Metropolitan University-Cardiff Metropolitan University	UK-UK
+p4405-serranoA.pdf	University of Toulouse - IRIT-University of Toulouse - IRIT-University of Bristol-University of Bristol-University of Manitoba-University of Manitoba	France-UK-Canada
+p4617-huangA.pdf	"SALT Lab-School of Information Studies-Syracuse University, U.S.A-Syracuse University, U.S.A-Human-Computer Interaction Institute-Language Technologies Institute-Carnegie Mellon University-Carnegie Mellon University"	USA
+p4430-haleA.pdf	"Oxford Internet Institute, University of Oxford-Oxford Internet Institute, University of Oxford-Oxford Internet Institute, University of Oxford-The Alan Turing Institute-Barcelona Institute for Global Health (ISGlobal)-CIBERESP and Universitat Pompeu Fabra"	UK-Spain
+p4727-besanconA.pdf	University Paris Saclay-University Paris Saclay-University Paris Saclay-University Paris Saclay-Inria	France
+p4548-plankA.pdf	"Univ. of Applied Sciences Upper Austria {thomas.plank,hans-christian.jetter,thomas.luger}@fh-ooe.at-Aarhus University, roman.raedle@cc.au.dk, clemens@cavi.au.dk-Aarhus University, roman.raedle@cc.au.dk, clemens@cavi.au.dk-Human-Computer Interaction Group, University of Konstanz, harald.reiterer@uni-konstanz.de-Human-Computer Interaction Group, University of Konstanz, harald.reiterer@uni-konstanz.de-Human-Computer Interaction Group, University of Konstanz, harald.reiterer@uni-konstanz.de"	Denmark-Austria-Germany
+p4654-corstenA.pdf	RWTH Aachen University-RWTH Aachen University	Germany
+p4290-maezawaAFL.pdf		Japan
+p4417-carrascalA.pdf	"Human Media Lab, Queen’s University-Human Media Lab, Queen’s University-Human Media Lab, Queen’s University"	Canada
+p4574-nebelingA.pdf	University of Michigan School of Information-University of Michigan School of Information-University of Michigan School of Information	USA
+p4667-vatavuA.pdf	MintViz Lab MANSiD Research Center-MintViz Lab MANSiD Research Center-University Stefan cel Mare of Suceava-University Stefan cel Mare of Suceava	Romania
+p4479-yuA.pdf	"Key Laboratory of Pervasive Computing, Ministry of Education-Key Laboratory of Pervasive Computing, Ministry of Education-Tsinghua National Laboratory for Information Science and Technology-Tsinghua National Laboratory for Information Science and Technology-Department of Computer Science and Technology, Tsinghua University, Beijing, ,-Department of Computer Science and Technology, Tsinghua University, Beijing, ,-Department of Computer Science and Technology, Tsinghua University, Beijing, ,-Samsung Beijing R&D Center, Beijing, ,"	China 
+p4715-giannisakisA.pdf	"LTCI, CNRS, Telecom ParisTech, Universit´e Paris-Saclay, Paris-Sorbonne Universit´es, UPMC Univ Paris , CNRS, ISIR, Paris,-Inria,"	France-France-France
+p4501-tang.pdf	University of Calgary-University of Calgary	Canada
+p4284-sunA.pdf	"Jacobs Institute, Cornell Tech"	USA
+p4302-greenhalgh.pdf	School of Computer Science-The University of Nottingham-The University of Nottingham	UK
+p4585-dombrowskiA.pdf	"Human-Centered Computing-Indiana University, IUPUI-Indiana University, IUPUI"	USA
+p4396-berardA.pdf	"Univ. Grenoble Alpes, CNRS, LIG"	France
+p4741-chandraA.pdf	University of Michigan-University of Michigan-Cornell University-Cornell University-University of Michigan-University of Michigan	USA
+p4489-oogjes.pdf	"Simon Fraser University, Surrey, British Columbia,-Simon Fraser University, Surrey, British Columbia,-Eindhoven University of Technology, Eindhoven,-Eindhoven University of Technology, Eindhoven,"	Canada-Netherlands
+p4443-hupfeldA.pdf	Eindhoven University of Technology-Eindhoven University of Technology-Department of Industrial Design-Edinburgh College of Art-Edinburgh University-Edinburgh University	Netherlands-UK
+p4331-lampinen.pdf	Stockholm University-Stockholm University	Sweden
+p4468-popeA.pdf		UK-UK-UK

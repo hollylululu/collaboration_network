@@ -1,0 +1,101 @@
+file	affiliations	country
+paper99.pdf	University of Glasgow-University of Glasgow	UK
+paper478.pdf	"Meiji University-Meiji University-Shinshu University-Shinshu University-National Institute of Informatics-Honda Research Institute  Co., Ltd."	Japan-Japan-Japan-Japan-Japan
+paper336.pdf	"Hasso Plattner Institute, Potsdam,"	Germany
+paper450.pdf	"Meiji University,-Meiji University,-Kagawa University,-Kagawa University,-The University of Electro-Communications-The University of Electro-Communications"	Japan
+paper444.pdf	"University of Washington – Seattle, WA-University of Washington – Seattle, WA-Human Centered Design & Engineering"	USA
+paper322.pdf	University of Washington-University of Washington	USA
+paper493.pdf	University of Chicago and University of Maryland (†)-University of Chicago and University of Maryland 	USA
+paper66.pdf	"Supporting Distributed Small Group Decision-making-University of Washington, dub group, Seattle, WA  {rayhong, miasuh, zachry}@uw.edu-University of Washington, dub group, Seattle, WA  {rayhong, miasuh, zachry}@uw.edu-Microsoft Research, Redmond, WA  nath@microsoft.com"	USA-USA-Korea
+paper72.pdf	Northumbria University-Northumbria University	UK
+paper487.pdf	"Department of Computer Science-Aalto University, Espoo,-Aalto University, Espoo,"	Finland
+paper108.pdf	Stanford University-Stanford University	USA
+paper652.pdf	Massachusetts Institute of Technology-Google Research	USA
+paper134.pdf	"University of Illinois at Urbana-Champaign, Ulsan National Institute of Science and Technology,-University of Illinois at Urbana-Champaign, Ulsan National Institute of Science and Technology,-University of Illinois at Urbana-Champaign, Ulsan National Institute of Science and Technology,-Adobe Research"	Korea-USA
+paper120.pdf	Northwestern University-Northwestern University-Stanford University-Stanford University	USA-USA
+paper646.pdf	"Aalto University,-Aalto University,-University of Cambridge,-University of Cambridge,"	Finland-UK
+paper518.pdf	University of Colorado Boulder-University of Colorado Boulder-Microsoft Research-Microsoft Research-Microsoft Research	USA-USA-USA
+paper242.pdf	University of Illinois at Urbana-Champaign-University of Illinois at Urbana-Champaign	USA
+paper524.pdf	"Hasselt University – tUL – imec, Expertise Centre for Digital Media, Diepenbeek, Belgium-Hasselt University – tUL – imec, Expertise Centre for Digital Media, Diepenbeek, Belgium-Hasselt University – tUL – Flanders Make, Expertise Centre for Digital Media, Diepenbeek, Belgium-Hasselt University – tUL – Flanders Make, Expertise Centre for Digital Media, Diepenbeek, Belgium"	Belgium
+paper530.pdf	Aarhus University-Aarhus University-Aarhus University-Aarhus University-University of Bayreuth-University of Bayreuth	Germany-Denmark
+paper256.pdf	The StoryLab-Texas A&M University-Texas A&M University-The StoryLab-Texas A&M University-Texas A&M University	USA
+paper281.pdf	"University of Calgary, Calgary,-University of Calgary, Calgary,"	Canada-Germany
+paper295.pdf	Language Technologies Institute and Human-Computer Interaction Institute-Carnegie Mellon University-Carnegie Mellon University	USA
+paper294.pdf	"UC San Diego, Carnegie Mellon University-UC San Diego, Carnegie Mellon University-UC San Diego, Carnegie Mellon University"	USA
+paper280.pdf	"University of Stuttgart-University of Stuttgart-Munich University of Applied Sciences-Munich University of Applied Sciences-Max Planck Institute for Informatics, Saarland Informatics Campus"	Germany-Germany-Germany-Germany
+paper531.pdf	University of Washington-University of Washington-University of Washington-University of Washington	USA
+paper257.pdf	Simon Fraser University-Simon Fraser University-Autodesk Research	Canada-Canada-Canada
+paper243.pdf	"HCI Lab, University of New Brunswick, Fredericton, NB,-HCI Lab, University of New Brunswick, Fredericton, NB,-HCI Lab, University of New Brunswick, Fredericton, NB,-Play & Interactive Experiences for Learning Lab, New Mexico State University, Las Cruces, NM,-Play & Interactive Experiences for Learning Lab, New Mexico State University, Las Cruces, NM,-Play & Interactive Experiences for Learning Lab, New Mexico State University, Las Cruces, NM,-Interface Ecology Lab, Texas A&M University, College Station, TX,-Interface Ecology Lab, Texas A&M University, College Station, TX,-Interface Ecology Lab, Texas A&M University, College Station, TX,-Interface Ecology Lab, Texas A&M University, College Station, TX,-Interaction Lab, University of Saskatchewan, Saskatoon, SK,-Interaction Lab, University of Saskatchewan, Saskatoon, SK,-Interaction Lab, University of Saskatchewan, Saskatoon, SK,-RICELab, University of Calgary, Calgary, AB,-RICELab, University of Calgary, Calgary, AB,-RICELab, University of Calgary, Calgary, AB,-HCI Institute / Entertainment Technology Center, Carnegie Mellon University, Pittsburgh, PA,-HCI Institute / Entertainment Technology Center, Carnegie Mellon University, Pittsburgh, PA,-HCI Institute / Entertainment Technology Center, Carnegie Mellon University, Pittsburgh, PA,-HCI Institute / Entertainment Technology Center, Carnegie Mellon University, Pittsburgh, PA,"	Canada-USA-USA-Canada-Canada-USA
+paper525.pdf	"DGP Lab, University of Toronto, Toronto, Ontario, , {seongkook, daniel}@dgp.toronto.edu-DGP Lab, University of Toronto, Toronto, Ontario, , {seongkook, daniel}@dgp.toronto.edu-DGP Lab, University of Toronto, Toronto, Ontario, , {seongkook, daniel}@dgp.toronto.edu-University of Toronto, Toronto, Ontario, , chr.chung@mail.utoronto.ca-University of Toronto, Toronto, Ontario, , chr.chung@mail.utoronto.ca-HCI Lab, KAIST, Daejeon, Republic of , geehyuk@gmail.com"	Canada-Canada-Korea
+paper519.pdf	Exertion Games Lab-RMIT University-RMIT University	Australia
+paper121.pdf	The Hebrew University of-The Hebrew University of-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-New York University-New York University-Carnegie Mellon University-Carnegie Mellon University-The Hebrew University of-The Hebrew University of	USA-Israel
+paper647.pdf	DFKI GmbH Aalto University-DFKI GmbH Aalto University	Finland
+paper653.pdf	"University of Stuttgart, Stuttgart, , {ﬁrstname.lastname}@vis.uni-stuttgart.de-University of Stuttgart, Stuttgart, , {ﬁrstname.lastname}@vis.uni-stuttgart.de"	Germany
+paper135.pdf	"Munich University of Applied-Munich University of Applied-University of Tampere,-University of Tampere,"	Germany-Germany-Finland
+paper109.pdf	"School of Design, Social Sciences-Newcastle University-Newcastle University-Open Lab-Northumbria University, Newcastle upon Tyne,-Northumbria University, Newcastle upon Tyne,"	UK-UK
+paper486.pdf	"Singapore University of Technology and Design, Singapore-Singapore University of Technology and Design, Singapore-Augmented Human Lab"	Singapore
+paper73.pdf	"Group vs Individual: Impact of TOUCH and TILT-Group vs Individual: Impact of TOUCH and TILT-School of Public Health and Health Systems-University of Waterloo, Waterloo, ON,-University of Waterloo, Waterloo, ON,-School of Computer Science-University of Guelph, Guelph, ON,-University of Guelph, Guelph, ON,"	Canada-Canada
+paper67.pdf	University of Washington-University of Washington-University of the Philippines-University of the Philippines-University of the Philippines-University of the Philippines-University of the Philippines-University of the Philippines-University of Washington-University of Washington-University of the Philippines-University of the Philippines-University of Washington-University of Washington	USA-Philippines
+paper492.pdf	Michigan State University-Michigan State University-Michigan State University and-Michigan State University and-Nova Southeastern University-Nova Southeastern University	USA
+paper445.pdf	"University of Saskatchewan, ,-University of Saskatchewan, ,-Universit´e de Lille, ,-Inria, ,-University of Canterbury, New Zealand-University of Canterbury, New Zealand"	Canada-France-France
+paper323.pdf	"BioSENSE, UC Berkeley School of Information-BioSENSE, UC Berkeley School of Information"	USA
+paper337.pdf	"Paul G. Allen School of Computer Science & Engineering, DUB Group-Paul G. Allen School of Computer Science & Engineering, DUB Group-University of Washington-University of Washington"	USA
+paper451.pdf	"School of Computing, KAIST, {minsuk, hyeungshik.jung, juhokim}@kaist.ac.kr-Department of Communication Systems, EPFL, leonore.guillain@epﬂ.ch-Computer Science, Stanford University, {vhare, maneesh}@cs.stanford.edu-Computer Science, Stanford University, {vhare, maneesh}@cs.stanford.edu"	USA-Korea-Switzerland
+paper479.pdf	Brown University-Brown University-Massachusetts Institute of Technology	USA
+paper98.pdf	"and Design Lab,-Northwestern University-Northwestern University-Center for Cancer and-Medical Center-Department of Pediatric-Thrombosis Center"	USA
+paper309.pdf	"College of Computer and Information Science-Bouvé College of Health Sciences-Northeastern University, Boston,-Northeastern University, Boston,"	USA
+paper321.pdf	"IBM Watson Health-School of Information, University of Michigan"	USA
+paper447.pdf	Complexity Group-Department of Electronics-University of Southampton-University of Southampton-+UCL Interaction Centre-University College London-University College London-University College London-Laboratory-Laboratory-University of Nottingham-University of Nottingham-†Departments of Computing-Imperial College London	UK-UK-UK-UK
+paper453.pdf	University of Toronto & University of Illinois at Chicago-University of Toronto & University of Illinois at Chicago	USA
+paper335.pdf	Hong Kong University of Science and Technology-Hong Kong University of Science and Technology-Microsoft Research Peking University-Microsoft Research Peking University-Microsoft Research Peking University	Hong Kong-China
+paper59.pdf	"Microsoft Research, Redmond, WA,-Vanderbilt University, University of Washington-Vanderbilt University, University of Washington"	USA
+paper290.pdf	Kingston University London-Kingston University London-Kingston University London-Kingston University London	UK-UK
+paper291.pdf	Stanford University-Stanford University	USA
+paper285.pdf	Autodesk Research-Carnegie Mellon University-Carnegie Mellon University	USA
+paper508.pdf	"Department of Communications and Networking-Graduate School of Culture Technology-Aalto University,-Aalto University,"	Finland-Korea
+paper252.pdf	"MIT Media Lab, Chibitronics-MIT Media Lab-MIT Media Lab"	USA
+paper534.pdf	Purdue University-Purdue University	USA
+paper520.pdf	"Microsoft Research, Redmond, WA,-University of Washington, Seattle, WA,  | Stanford University, Stanford, CA,-University of Washington, Seattle, WA,  | Stanford University, Stanford, CA,"	USA-USA
+paper246.pdf	Interactive Systems Group-OFFIS - Institute for IT-University of Oldenburg-University of Oldenburg-Max Planck Institute for	Germany-Germany-Germany
+paper118.pdf	"Microsoft Research, University of Surrey, Royal College of Art, Edinburgh University-Microsoft Research, University of Surrey, Royal College of Art, Edinburgh University-Microsoft Research, University of Surrey, Royal College of Art, Edinburgh University-Microsoft Research, University of Surrey, Royal College of Art, Edinburgh University"	UK
+paper642.pdf	Tableau Research-University of Washington-University of Washington-University of Washington-University of Washington	USA
+paper124.pdf	University of Central Florida-University of Central Florida-Marquette University-Marquette University-University of Central Florida-University of Central Florida	USA-USA-USA
+paper130.pdf	Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-HCI Institute-HCI Institute-HCI Institute	USA
+paper656.pdf	"Google, woodruff@acm.org-Google and Human Centered Design & Engineering, University of Washington, sefox@uw.edu-Google and Human Centered Design & Engineering, University of Washington, sefox@uw.edu-Google and Human Centered Design & Engineering, University of Washington, sefox@uw.edu-Google and Human Centered Design & Engineering, University of Washington, sefox@uw.edu-Department of Anthropology, CSU Long Beach, steven.rousso-schindler@csulb.edu-Google, jeffwarshaw@google.com"	USA
+paper483.pdf	"University of Copenhagen, Denmark-University of Copenhagen, Denmark-Roskilde University, Denmark-Roskilde University, Denmark"	Denmark
+paper76.pdf	Microsoft Research	USA
+paper62.pdf	University of Siegen-University of Siegen-University of Applied Sciences-University of Applied Sciences-University of Siegen-University of Siegen-University of Siegen-University of Siegen-University of Siegen-University of Siegen-University of Siegen-University of Siegen	Germany-Germany-Germany-Germany-Germany-Germany
+paper497.pdf	Aarhus University  University of Applied Sciences Upper Austria  University of Konstanz-Aarhus University  University of Applied Sciences Upper Austria  University of Konstanz-Microsoft Research	Germany-Denmark
+paper89.pdf	"Hasso Plattner Institute, ETH Zurich"	Denmark-Switzerland
+paper468.pdf	"Computer Science & Engineering, University of Washington-Computer Science & Engineering, University of Washington, Seattle"	Canada-USA
+paper326.pdf	Texas A&M University-Texas A&M University-Texas A&M University-Texas A&M University-Texas A&M University-Texas A&M University-Texas A&M University-Texas A&M University	USA
+paper440.pdf	University College London-University College London-University College London-University of Oxford-University of Oxford-University of Oxford-University of Oxford	UK-UK-UK
+paper454.pdf	"CCRMA, Stanford University-CCRMA, Stanford University-Adobe Research"	USA-USA
+paper332.pdf	"University of Copenhagen-University of Copenhagen-School of Informatics and Computing,-Indiana University-Indiana University"	USA
+paper369.pdf	"Autodesk Research, Toronto Ontario"	Canada
+paper433.pdf	"Ulm University, Ulm, , steffen.maurer@de.bosch.com-Ulm University, Ulm, , steffen.maurer@de.bosch.com-Hamburg University of Applied Science, Hamburg, , katrin.wolf@acm.org-Hamburg University of Applied Science, Hamburg, , katrin.wolf@acm.org"	Germany-Germany-Germany-Germany
+paper355.pdf	University of Washington-University of Washington-Northwestern University-Northwestern University-University of Washington-University of Washington	USA-USA-USA
+paper341.pdf	"University of Basel, Department of Psychology, Center for Cognitive Psychology & Methodology-University of Basel, Department of Psychology, Center for Cognitive Psychology & Methodology-University of Basel, Department of Psychology, Center for Cognitive Psychology & Methodology-University of Basel, Department of Psychology, Center for Cognitive Psychology & Methodology"	Switzerland
+paper427.pdf	University of Tokyo-University of Tokyo-University of Tokyo / Sony CSL-University of Tokyo / Sony CSL	Japan-Japan
+paper39.pdf	"School of Interactive Arts and Technology, Simon Fraser University, Surrey, BC,-School of Interactive Arts and Technology, Simon Fraser University, Surrey, BC,-School of Interactive Arts and Technology, Simon Fraser University, Surrey, BC,"	Canada
+paper396.pdf	UC San Diego	USA
+paper382.pdf	"Open Lab, Newcastle University-Open Lab, Newcastle University-Open Lab, Newcastle University-Northumbria University-Northumbria University"	UK-UK
+paper11.pdf	"Carnegie Mellon University,-Carnegie Mellon University,"	USA
+paper619.pdf	"University of Stuttgart,-University of Stuttgart,-Université Grenoble Alpes-University of Bristol-University of Bristol"	France-Germany-UK
+paper157.pdf	University of Memphis-University of Memphis-Microsoft-University of Memphis-University of Memphis	USA
+paper631.pdf	Cornell University-Cornell University-Cornell University-Cornell University-Microsoft Research-Cornell University-Cornell University-Cornell University-Cornell University	USA-USA-USA-USA-USA-USA
+paper625.pdf	The Open University-The Open University-The Open University-The Open University	UK-UK
+paper6.pdf	Drexel University-Drexel University-Drexel University-Drexel University-Drexel University-Drexel University-Drexel University-Drexel University-Drexel University-Drexel University	USA-USA-USA-USA-USA
+paper143.pdf	UC Berkeley EECS-UC Berkeley EECS-UC Berkeley EECS	USA-USA-USA
+paper194.pdf	"University of Central Florida-University of Central Florida-University of Central Florida-University of Central Florida-Pennsylvania State University-Pennsylvania State University-University Park, PA-University Park, PA"	USA-USA-USA
+paper180.pdf	University of Münster-University of Münster-University of Münster-University of Münster-University of Innsbruck-University of Innsbruck	Germany-Austria
+paper209.pdf	Training Using the Microsoft HoloLens-Oxford Brookes University-Oxford Brookes University	UK-Finland
+paper547.pdf	"School of Information,-University of Michigan,-University of Michigan,-Information School,-University of Washington,-University of Washington,-Department of Psychology,-Tsinghua University,-Tsinghua University,"	China-USA
+paper221.pdf	Lappeenranta University of-Lappeenranta University of-Dublin City University-Dublin City University-Lancaster University-Lancaster University	Ireland-Finland-UK
+paper235.pdf	"Universities in the  have sought to mitigate this behavior,-Open Lab, Newcastle University-Open Lab, Newcastle University-Open Lab, Newcastle University"	Sweden-UK-UK
+paper553.pdf	Yale University-Yale University-Institute for Creative Technologies-University of Southern California-University of Southern California-Gallaudet University-Gallaudet University-University G. d’Annunzio-University G. d’Annunzio	USA-USA-USA-Italy
+paper584.pdf	"Royal Holloway University of-Royal Holloway University of-Royal Holloway University of-Royal Holloway University of-Open Lab, Newcastle-University-University"	UK-UK-UK
+paper590.pdf	MIT Media Lab Adobe Research-MIT Media Lab Adobe Research	USA
+paper591.pdf	"University of Zurich, Zurich, Switzerland-University of Zurich, Zurich, Switzerland"	Switzerland
+paper585.pdf	Dept. of Human Centered-University of Washington-University of Washington	USA
+paper234.pdf	"Computer  Science  & Engineering,  Human  Centered  Design  & Engineering,  The Information  School-Computer  Science  & Engineering,  Human  Centered  Design  & Engineering,  The Information  School-DUB  Group-University  of Washington-University  of Washington"	USA

@@ -1,0 +1,41 @@
+file	affiliations	country
+p2394-millerA.pdf	"Microsoft Research-Department of Computer-Open Lab, Newcastle University-Open Lab, Newcastle University-Open Lab, Newcastle University-Science, University of-Science, University of"	USA-UK-Canada
+p2583-ledoA.pdf	User Interface Research Group-Autodesk Research-Department of Computer Science-University of Calgary-University of Calgary	Canada
+p2488-kun-park.pdf	"Wonder Lab, KAIST"	Korea
+p2493-paavilainenA.pdf	University of Tampere-University of Tampere-University of Tampere-University of Tampere-University of Tampere-University of Tampere-University of Tampere-University of Tampere-University of Tampere-University of Tampere-University of Tampere-University of Tampere	Finland
+p2594-santiniA.pdf	University of T¨ubingen-University of T¨ubingen-University of T¨ubingen-University of T¨ubingen-University of T¨ubingen-University of T¨ubingen	Germany-Germany-Germany
+p2757-dillahuntA.pdf	School of Information-University of Michigan-University of Michigan	USA
+p2639-von-zadowA.pdf	GIAnT: Visualizing Group Interaction at Large Wall Displays-Interactive Media Lab Dresden-Technische Universit¨at Dresden	Germany
+p2672-niksiratA.pdf	"∗School of information, Kochi University of Technology,-∗School of information, Kochi University of Technology,-∗School of information, Kochi University of Technology,-†Center for Human-Engaged Computing, Kochi University of Technology,-†Center for Human-Engaged Computing, Kochi University of Technology,-†Center for Human-Engaged Computing, Kochi University of Technology,-‡Educational Technology Department, Faculty of Speciﬁc Education, South Valley University, Egypt-‡Educational Technology Department, Faculty of Speciﬁc Education, South Valley University, Egypt-‡Educational Technology Department, Faculty of Speciﬁc Education, South Valley University, Egypt"	Japan-Denmark-Egypt
+p2648-wongsuphasawatA.pdf	"* University of Washington, Seattle, WA-* University of Washington, Seattle, WA-+ Tableau Research, Seattle, WA"	USA
+p2416-jungA.pdf	"HCI Lab, KAIST-HCI Lab, KAIST-HCI Lab, KAIST"	Korea-Korea-Korea
+p2426-cornelio-martinez.pdf	"University of Sussex,-University of Sussex,"	UK
+p2405-fong.pdf	"National Center for Human Factors in Healthcare, Washington D.C-Emergency Medicine, Georgetown University School of Medicine, Washington D.C-Emergency Medicine, Georgetown University School of Medicine, Washington D.C-Emergency Medicine, Georgetown University School of Medicine, Washington D.C"	USA
+p2792-sorcarACR.pdf	Stanford University-Stanford University-Stanford University-Stanford University-Stanford University-Stanford University-Georgia Institute of Technology	USA
+p2685-zhu.pdf	KTH Royal Institute of Technology	Sweden-China-China
+p2805-fridmanAT3.pdf	Massachusetts Institute of Technology-Toyota Collaborative Safety Research Center	USA
+p2558-mott.pdf	"Microsoft Research, Redmond, WA,-The Information School | DUB Group, University of Washington, Seattle, WA,-The Information School | DUB Group, University of Washington, Seattle, WA,-The Information School | DUB Group, University of Washington, Seattle, WA,-The Information School | DUB Group, University of Washington, Seattle, WA,"	USA
+p2473-mueller.pdf	Exertion Games Lab-RMIT University-RMIT University	Australia
+p2628-kimA.pdf	University of Washington-University of Washington	USA
+p2382-cranshawA.pdf	"Microsoft Research, Redmond, WA,-University of Washington, Seattle, WA,-University of Washington, Seattle, WA,-University of Minnesota, Minneapolis, MN,-University of Minnesota, Minneapolis, MN,-Georgia Institute of Technology, Atlanta, GA,"	USA-USA-USA-USA
+p2696-slovakA.pdf	"Human Computer Interaction Group, Vienna University of Technology, Austria-Human Computer Interaction Group, Vienna University of Technology, Austria-Human Computer Interaction Group, Vienna University of Technology, Austria"	Austria
+p2499-britton.pdf	School of Information Studies-Syracuse University-Syracuse University	USA
+p2571-andristA.pdf	"() Microsoft Research, Redmond, WA,-() Department of Computer Sciences, University of Wisconsin–Madison, Madison, WI,-() Department of Computer Sciences, University of Wisconsin–Madison, Madison, WI,-() Department of Computer Sciences, University of Wisconsin–Madison, Madison, WI,"	USA-USA
+p2546-huang.pdf	"CHI Lab, Department of Computing, Hong Kong Polytechnic University-CHI Lab, Department of Computing, Hong Kong Polytechnic University-CHI Lab, Department of Computing, Hong Kong Polytechnic University-CHI Lab, Department of Computing, Hong Kong Polytechnic University"	Hong Kong
+p2511-houA.pdf	School of Information-University of Michigan-University of Michigan-Law School-University of Michigan-University of Michigan	USA
+p2359-curmiA.pdf	"Lancaster University-Lancaster University-School of Computing and-University LA YX-University LA YX-School of Computing and-University, LA WA-University, LA WA"	UK
+p2660-jo.pdf	"Seoul National University, Seoul, Republic of-Seoul National University, Seoul, Republic of-Microsoft Research, Redmond, WA,"	Korea-USA
+p2770-derenziAT3.pdf	"φDimagi, Inc.-ΨHarvard University-ΨHarvard University-†University of Cape Town-†University of Cape Town"	USA-South Africa
+p2449-ozgurA.pdf		Switzerland
+p2462-vandeldenA.pdf	University of Utrecht-University of Utrecht-University of Twente-University of Twente	Netherlands-Netherlands
+p2814-wangA.pdf	"Interaction Design, Department of Applied IT,-Systems, Control and Mechatronics, Department of Signals and Systems-Chalmers University of Technology, Gothenburg,-Chalmers University of Technology, Gothenburg,-University of Gothenburg, Gothenburg,-University of Gothenburg, Gothenburg,"	Sweden-Sweden
+p2606-kovacs.pdf	"Hasso Plattner Institute, Potsdam,"	Germany
+p2535-lin.pdf	National Tsing Hua University-National Tsing Hua University-National Chiao Tung University-National Chiao Tung University-National Tsing Hua University-National Tsing Hua University	Taiwan
+p2523-ohA.pdf	"Technophobia over the Google DeepMind Challenge Match-HCC Lab, GSCST-Seoul National University-Seoul National University-HCC Lab, GSCST-Seoul National University-Seoul National University-HCC Lab, GSCST-Seoul National University-Seoul National University-Sogang University-Sogang University-UX Lab, GSCST-Seoul National University-Seoul National University-HCC Lab, GSCST-Seoul National University-Seoul National University"	Korea
+p2708-barry.pdf	"*Computer Science & Statistics, Trinity College Dublin-§School of Public Health Imperial College London; †Microsoft Research Cambridge-§School of Public Health Imperial College London; †Microsoft Research Cambridge-§School of Public Health Imperial College London; †Microsoft Research Cambridge"	UK-Ireland
+p2617-vogl.pdf	"Media Interaction Lab, University of Applied Sciences Upper Austria-Media Interaction Lab, University of Applied Sciences Upper Austria-Media Interaction Lab, University of Applied Sciences Upper Austria-Google Inc., Mountain View, California,-Google Inc., Mountain View, California,"	USA-Austria
+p2371-gonzales.pdf	Indiana University-Indiana University-Indiana University-Indiana University	USA
+p2376-deyA.pdf	"University of Illinois at Urbana-Champaign, Adobe Research-University of Illinois at Urbana-Champaign, Adobe Research-University of Illinois at Urbana-Champaign, Adobe Research"	USA
+p2782-lazemA.pdf		Egypt
+p2440-al-maimaniA.pdf	University of Bristol-University of Bristol-University of Bristol-University of Bristol	UK
+p2411-xiaoA.pdf	"Department of Computer Science,  Learning, Research and Development Center (LRDC)-Department of Computer Science,  Learning, Research and Development Center (LRDC)-University of Pittsburgh, Pittsburgh, PA,-University of Pittsburgh, Pittsburgh, PA,"	USA

@@ -1,0 +1,51 @@
+file	affiliations	country
+p3066-west.pdf	University of Southampton-University of Southampton-University of Oxford-University of Oxford	UK-UK
+p4233-liang.pdf	National Taiwan University	Taiwan
+p343-kazakos.pdf	Newcastle University-Indraprastha Institute of Information Technology-PGIMER-IIPH- AJ Institute Medical Sciences	UK-India
+p5665-tsiamyrtzis.pdf	University of Houston Downtown-University of Houston-Athens University of Econ Business	Greece-USA
+p225-wang.pdf	UC Santa Barbara	USA
+p3415-carter.pdf	University of Melbourne-Microsoft Research	UK-Australia
+p5063-ahmed.pdf	Cornell University-Microsoft Research-PESIT-IIT Madras-University of Namibia-University of Pretoria	USA-India-Namibia
+p1745-bennett.pdf	University of Washington	USA
+p4274-zheng.pdf	University of Waterloo	Canada
+p1233-nuernberger.pdf	Microsoft Research-UC Santa Barbara	USA-USA
+p4896-shi.pdf	Shenkar College of Engineering and Design-University of Washington-Cornell Tech	USA-USA-Israel
+p3847-wen.pdf	Tsinghua University-Carnegie Mellon University	China-USA
+p5753-ou.pdf	MIT-Addimation	USA-USA-USA
+p4823-harbach.pdf	UC Berkeley-Google	USA-Switzerland
+p5215-bilogrevic.pdf	Google-Google	Switzerland
+p2705-bartindale.pdf	Newcastle University-University of York	UK-UK-UK
+p4933-li.pdf	Carnegie Mellon University-Disney Research-University of Washington	USA-USA-USA
+p4011-lukanov.pdf	University of Nottingham-Fadata AD	UK-UK-Bulgaria
+p2371-eslami.pdf	University of Illinois at Urbana Champaign-University of Michigan-California State University Fresno	USA
+p685-elsden.pdf	Newcastle University	UK
+p6040-shin.pdf	Michigan State University-UC San Diego-KAIST	Korea-USA-Korea-Korea-Korea-USA
+p2396-lee.pdf	Swansea University-Swansea University	UK
+p1904-rost.pdf	University of Glasgow	UK
+p2001-jia.pdf	IUPUI-University of Colorado Boulder-Cornell University	USA
+p1810-almeida.pdf	Newcastle University	UK
+p587-chang.pdf	University of Michigan-Carnegie Mellon University	USA
+p4325-freeman.pdf	Indiana University-University of Cincinnati	USA
+p4056-dickson.pdf	Always Carried Out as User-Centered Design-Indiana University-Indiana University	USA
+p5034-tausch.pdf	University of Munich	Germany-Germany-Germany
+p3637-rello.pdf	Carnegie Mellon University-Universitat Pompeu Fabra-Telefonica Research	USA-Spain
+p5257-egelman.pdf	UC Berkeley-Bar Ilan University	USA-Israel
+p2533-gorinova.pdf	Microsoft Research-University of Cambridge	UK
+p5385-pike.pdf	University of Nottingham-University of Nottingham-Department of Computer Science-University of Nottingham-University of Nottingham-The Mixed Reality Lab (MRL)-University of Nottingham-University of Nottingham	UK-UK-China
+p2920-jamison-powell.pdf	Sheffield Hallam University-Northumbria University-University College Cork-University of Lincoln	UK-UK-Ireland-UK
+p3126-aagesen.pdf	Yahoo-Malmo University	Sweden-Denmark
+p1947-palleis.pdf	University of Munich	Germany-Germany
+p2808-wang.pdf	Chalmers University of Technology	Sweden
+p4828-sonderegger.pdf	University of Fribourg-EPFL	Switzerland
+p3020-colusso.pdf	University of Washington	USA
+p4818-meng.pdf	Institute for Infocomm Research-City University of Hong Kong	Singapore-Hong Kong
+p5360-hogan.pdf	University of Oxford-Northwestern University	UK-USA
+p2186-ducasse.pdf	University of Toulouse-CNRS	France
+p1097-kosmalla.pdf	German Research Center for Artifical Intelligence-Aalborg University	Germany-Denmark
+p1526-huang.pdf	National Taiwan University-Keio University-Academia Sinica	Taiwan-Japan
+p4850-georges.pdf	HEC Montreal-Universite de Paris	Canada-Canada-France-Canada-Canada-Canada
+p2933-mcmillan.pdf	Stockholm University-Stockholm University	Sweden
+p130-frauenberger.pdf	Vienna University of Technology	Austria
+p2283-frey.pdf	University Bordeaux-Immersion SAS-Inria	France-France-France-France-France
+p5397-xiao.pdf	MIT	USA
+p5720-karanam.pdf	Utrecht University	Netherlands-Netherlands

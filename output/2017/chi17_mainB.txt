@@ -1,0 +1,41 @@
+file	affiliations	country
+p705-yiA.pdf	"Key Laboratory of Pervasive Computing, Ministry of Education-Key Laboratory of Pervasive Computing, Ministry of Education-Tsinghua National Laboratory for Information Science and Technology-Tsinghua National Laboratory for Information Science and Technology-Department of Computer Science and Technology, Tsinghua University, Beijing, ,-Department of Computer Science and Technology, Tsinghua University, Beijing, ,-Department of Computer Science and Technology, Tsinghua University, Beijing, ,-Department of Computer Science, Stony Brook University, Stony Brook, NY,-Department of Computer Science, Stony Brook University, Stony Brook, NY,-Department of Computer Science, Stony Brook University, Stony Brook, NY,"	China-USA
+p484-leeA.pdf	Department of Industrial Design	Korea
+p556-sunA.pdf	Hong Kong University of-Hong Kong University of-Hong Kong University of-Hong Kong University of-Hong Kong University of-Hong Kong University of	Hong Kong
+p531-chakrabortyA.pdf	"Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.-Bangladesh University of Engineering and Technology, Dhaka, Bangladesh."	India
+p497-riveraA.pdf	Human-Computer Interaction Institute-Carnegie Mellon University-Carnegie Mellon University-College of Imaging Arts and Sciences-Golisano College of Computing-Rochester Institute of Technology	USA
+p773-pargman.pdf	"School of Computer Science and Communication, KTH Royal Institute of Technology, ,-School of Computer Science and Communication, KTH Royal Institute of Technology, ,-School of Architecture and the Built Environment, KTH Royal Institute of Technology, ,-School of Architecture and the Built Environment, KTH Royal Institute of Technology, ,"	Sweden-Sweden
+p906-ahmed.pdf	"Department of Information Science, Cornell University, Ithaca, NY, ,-Department of Information Science, Cornell University, Ithaca, NY, ,-Department of Information Science, Cornell University, Ithaca, NY, ,-Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh,-Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh,-Mathematics, Statistics and Computer Science, Marquette University, Milwaukee, WI,-Mathematics, Statistics and Computer Science, Marquette University, Milwaukee, WI,-Department of Information Science, University of Colorado Boulder, CO,-Department of Information Science, University of Colorado Boulder, CO,-Department of Information Science, University of Colorado Boulder, CO,-The Jacobs Institute, Cornell Tech, NY,"	USA-India
+p667-meyer.pdf	OFFIS Institute for Informatics-Carl von Ossietzky University-Carl von Ossietzky University	Germany-Germany
+p760-gaoA.pdf	"Department of Communication, Department of Information Science-Cornell University-Cornell University"	USA
+p472-avleA.pdf	University of Michigan-University of Michigan-University of Michigan-University of Michigan-Cornell University-Cornell University	USA
+p815-padillaA.pdf	"School of Mathematical and Computer Sciences, Heriot-Watt University-School of Mathematical and Computer Sciences, Heriot-Watt University-School of Mathematical and Computer Sciences, Heriot-Watt University"	UK-Scotland
+p867-haldar.pdf	The Information School-Department of Pediatrics-University of Washington-University of Washington-University of-University of-University of-University of	USA-USA-USA-USA
+p519-gormanAfl.pdf	University of Dundee-University of Dundee-University of Dundee-University of Dundee	Scotland
+p509-taoA.pdf	"Zhejiang University, Hangzhou,-Zhejiang University, Hangzhou,"	China
+p727-nouwensA.pdf	"LRI, Univ. Paris-Sud, CNRS,-Inria, Université Paris-Saclay-Inria, Université Paris-Saclay"	France
+p541-chengA.pdf	"Department of Computer Science, Department of City and Regional Planning, Cornell University-Department of Computer Science, Department of City and Regional Planning, Cornell University-Department of Computer Science, Department of City and Regional Planning, Cornell University"	USA
+p880-parkA.pdf	"Stamps School of Art & Design,-School of Information-University of Michigan-University of Michigan"	USA
+p919-hauteaA.pdf	∗University of Washington-∗University of Washington-†MIT Media Lab	USA
+p655-towne.pdf	Carnegie Mellon University-Carnegie Mellon University	USA
+p797-lightA.pdf	"School of Engineering and Informatics-University of Sussex, Falmer,-University of Sussex, Falmer,"	UK
+p465-isbister.pdf	University of California Santa Cruz-University of California Santa Cruz-New York University-New York University-New York University-New York University	USA-USA-USA
+p550-bardot.pdf	University of Toulouse – IRIT-University of Toulouse – IRIT	France-France
+p460-friedman.pdf	University of Washington-University of Washington-University of Washington-University of Washington	USA-USA
+p580-luriaA.pdf	Media Innovation Lab-Interdisciplinary Center-Sibley School of Mechanical-Cornell University-Cornell University-Media Innovation Lab-Interdisciplinary Center	USA-Israel
+p716-wenigA.pdf	"Digital Media Lab (TZI);-University of Bremen-University of Bremen-Interaction Lab-Google, Inc.-Google, Inc.-Hasselt University-Hasselt University"	USA-Belgium-Germany
+p810-porterA.pdf	Segal Design Institute-Northwestern University-Northwestern University-University of Colorado Boulder-University of Colorado Boulder-ATLAS Institute-University of Colorado Boulder-University of Colorado Boulder	USA
+p893-leeA.pdf	"School of Computing, KAIST,-NEC Laboratories America,-Department of Dermatology, The Catholic University of ,-Department of Dermatology, The Catholic University of ,-Department of Dermatology, The Catholic University of ,"	USA-Korea
+p931-redmilesACR.pdf	University of Maryland-University of Maryland-University of Maryland-University of Maryland-Johns Hopkins University-Johns Hopkins University	USA
+p748-zhouA.pdf	School of International Affairs-School of Interactive Computing-Georgia Institute of Technology-School of Interactive Computing-Georgia Institute of Technology	USA
+p722-ilinkinA.pdf	Gettysburg College-Gettysburg College	USA
+p841-mendezA.pdf	"†SACHI, University of St Andrews,-†SACHI, University of St Andrews,"	UK-Ecuador
+p568-rongA.pdf	"†University of Michigan, ‡Microsoft Research, ¶Northwestern University-†University of Michigan, ‡Microsoft Research, ¶Northwestern University-†University of Michigan, ‡Microsoft Research, ¶Northwestern University"	USA
+p679-hasanA.pdf	University of Manitoba-University of Manitoba-Alpen-Adria-Universität Klagenfurt	Canada-Austria
+p853-castelli.pdf	"Bonn-Rhein-Sieg University of Applied Science, Sankt Augustin,-Bonn-Rhein-Sieg University of Applied Science, Sankt Augustin,-University of Siegen, Siegen-University of Siegen, Siegen-Fraunhofer Institute for Applied Information Technology, Sankt Augustin,"	Germany-Germany-Germany
+p448-cila.pdf	"Amsterdam University of Applied Sciences, Digital Life Centre, Amsterdam, The ,-Amsterdam University of Applied Sciences, Digital Life Centre, Amsterdam, The ,-Delft University of Technology, Department of Industrial Design, Delft, The ,-Delft University of Technology, Department of Industrial Design, Delft, The ,-Delft University of Technology, Department of Industrial Design, Delft, The ,"	Netherlands
+p629-kelleyA.pdf	School of Interactive Computing-Georgia Institute of Technology	USA
+p692-sun.pdf	"Department of Computer Science and Technology, Tsinghua University, Beijing, ,-Department of Computer Science and Technology, Tsinghua University, Beijing, ,-Department of Computer Science and Technology, Tsinghua University, Beijing, ,-Key Laboratory of Pervasive Computing, Ministry of Education-Key Laboratory of Pervasive Computing, Ministry of Education-Tsinghua National Laboratory for Information Science and Technology-Tsinghua National Laboratory for Information Science and Technology"	China
+p642-eikey.pdf	"The Pennsylvania State University-The Pennsylvania State University-University Park, PA-University Park, PA"	USA
+p736-deloatchA.pdf	Department of Computer Science-University of Illinois-University of Illinois	USA
+p828-greisA.pdf	"VIS, University of Stuttgart,-VIS, University of Stuttgart,"	Germany

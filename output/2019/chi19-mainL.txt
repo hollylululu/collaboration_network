@@ -1,0 +1,51 @@
+file	affiliations	country
+paper115.pdf	Indiana University-Indiana University-Indiana University-Indiana University-University of Maryland-University of Maryland-College Park, MD,-Indiana University-Indiana University	USA-USA-USA-USA
+paper101.pdf	Univ. Lille,-Inria, Lille,-Univ. Lille,-Univ. Lille,	France-France-France
+paper667.pdf	University of Oldenburg-University of Oldenburg-Delft University of Technology-Delft University of Technology-Delft University of Technology-Delft University of Technology	Netherlands-Netherlands-Netherlands-France-Netherlands-Germany-Netherlands-Netherlands-Netherlands
+paper698.pdf	University of Stuttgart-University of Stuttgart-University of Stuttgart-University of Stuttgart-University of Stuttgart-University of Stuttgart-University of Stuttgart-University of Stuttgart-University of Stuttgart-University of Stuttgart-University of Stuttgart-University of Stuttgart-University of Regensburg-University of Regensburg	Germany-Germany-Germany-Germany-Germany-Germany-Germany
+paper049.pdf	Florida State University-Florida State University	
+paper061.pdf	MIT Media Lab-Emerson College-Versed Education Group-University of Washington-University of Washington-MIT Media Lab	USA-USA-USA-USA-USA-USA
+paper075.pdf	University of Washington-University of Washington-Google Research	
+paper539.pdf		USA-USA-USA-USA
+paper263.pdf	UC San Diego-UC San Diego	USA-USA
+paper505.pdf	School of Electronic Engineering and Computer Science-School of Electronic Engineering and Computer Science-Cognitive Science Research Group-Queen Mary University of London-Queen Mary University of London-Cognitive Science Research Group-Queen Mary University of London-Queen Mary University of London-Queen Mary University of London,-Queen Mary University of London,-Department of Drama-Victorian College of the Arts-University of Melbourne-University of Melbourne	UK-UK-UK-UK-Australia
+paper511.pdf	Univ. Paris-Sud, CNRS,-Inria, Université Paris-Saclay-Inria, Université Paris-Saclay	France
+paper277.pdf	Department of Information Science	USA
+paper288.pdf	Department of Communication Studies-Northwestern University-Northwestern University	USA
+paper289.pdf	School of Computer Science-Carleton University-Carleton University-School of Computer Science-Carleton University-Carleton University	Canada-Canada
+paper510.pdf	School of Computing and-Lancaster University-Lancaster University-School of Computing and-Lancaster University-Lancaster University-School of Computer Science and-Trinity College Dublin	
+paper276.pdf	Carnegie Mellon University, Human-Computer Interaction Institute-Carnegie Mellon University, Human-Computer Interaction Institute-Carnegie Mellon University, Human-Computer Interaction Institute	
+paper262.pdf	University of California, Berkeley-University of California, Berkeley-University of California, Berkeley-University of California, Berkeley	
+paper504.pdf		
+paper538.pdf	Media Effects Research Laboratory-Media Effects Research Laboratory-Penn State University-Penn State University-University Park, PA,-University Park, PA,-Media Effects Research Laboratory-Media Effects Research Laboratory-Penn State University-Penn State University-University Park, PA,-University Park, PA,	USA-USA
+paper074.pdf	UC Santa Cruz, LinkedIn	
+paper060.pdf	Aalto University-Aalto University-Aalto University-Aalto University	Finland-Finland
+paper048.pdf	Stanford University-Stanford University-Stanford University-Stanford University-Stanford University-Stanford University	
+paper699.pdf	Saarland University-Saarland University-Saarland University-Saarland University-INTRODUCTION	Germany-Germany
+paper100.pdf	University of Southampton, ECS-University of Southampton, ECS-University of Southampton, ECS-University of Southampton, ECS-The Open Data Institute-University of Southampton-University of Southampton	UK-UK-UK-UK
+paper666.pdf	College of Information Science and Engineering,-Faculty of Management Information, Hannan University-Faculty of Management Information, Hannan University-University-University-Ritsumeikan University-Ritsumeikan University-University-University	United Kingdom-United Kingdom-Japan-Japan
+paper672.pdf	National Taiwan University-National Taiwan University-University-University-University, NTUST-University, NTUST-Dartmouth College-University of Calgary-University of Calgary-Dartmouth College-National Taiwan University-National Taiwan University	
+paper114.pdf	University of Dundee-University of Dundee-Berlin University of the-Berlin University of the	UK-UK-Germany-Germany
+paper128.pdf	MIT Media Lab-MIT Media Lab-MIT Media Lab-MIT Media Lab	
+paper464.pdf	Keio University-Keio University-The Kyoto College of Graduate-Keio University-Keio University-Keio University-Keio University-Keio University-Keio University-University of Melbourne-University of Melbourne	
+paper302.pdf	Goldsmiths, University of London-Goldsmiths, University of London-Goldsmiths, University of London-Goldsmiths, University of London-Goldsmiths, University of London-Goldsmiths, University of London-Goldsmiths, University of London-Goldsmiths, University of London-Goldsmiths, University of London-Goldsmiths, University of London-Goldsmiths, University of London-Goldsmiths, University of London-Goldsmiths, University of London-Goldsmiths, University of London-Royal College of Art-Royal College of Art	UK-UK-UK-UK-UK-UK-UK-UK-UK
+paper316.pdf	School of Interactive Arts and Technology-Simon Fraser University,-Simon Fraser University,	Canada
+paper470.pdf	University of Washington-University of Washington-Health Research Institute-Northeastern University-Northeastern University	USA-USA-USA
+paper458.pdf	Department of Informatics, University of California, Irvine-Department of Informatics, University of California, Irvine-Department of Informatics, University of California, Irvine	United States
+paper328.pdf	University of Florida-University of Florida	Korea-USA-Korea-Korea
+paper300.pdf	Stony Brook University-Stony Brook University-Stony Brook University-Stony Brook University-Stony Brook University-Stony Brook University-Stony Brook University-Stony Brook University-Stony Brook University-Stony Brook University	
+paper466.pdf	School of Computing and Communications, Lancaster University, Lancaster,-School of Computing and Communications, Lancaster University, Lancaster,-School of Computing and Communications, Lancaster University, Lancaster,	UK
+paper472.pdf	The Information School-University of Washington-University of Washington-School of Information Studies-Syracuse University-Syracuse University-The Information School-University of Washington-University of Washington	USA-USA-USA
+paper314.pdf	Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Institute, Carnegie Mellon University-Paul G. Allen School of Computer-Science, University of Washington-Science, University of Washington	
+paper499.pdf	Infrastructuring of Support for University-School-Infrastructuring of Support for University-School-Infrastructuring of Support for University-School-Open Lab, Newcastle University-Open Lab, Newcastle University-Open Lab, Newcastle University-Open Lab, Newcastle University-Open Lab, Newcastle University-Open Lab, Newcastle University	UK-UK
+paper658.pdf	UCL Interaction Centre,-Group, Computer Science-University College London,-University College London,-University College London,-UCL Interaction Centre,-University College London,-University College London,-University College London,-Dept., Universidad Carlos III de-Universidad Loyola	UK-UK
+paper664.pdf	Queensland University of Technology-Queensland University of Technology-Queensland University of Technology-Queensland University of Technology-Queensland University of Technology-Queensland University of Technology	
+paper102.pdf	University of Toulouse-University of Toulouse-University of Bristol-University of Bristol-HCI Lab-University of Manitoba-University of Manitoba-University of Toulouse-University of Toulouse	France-UK-Canada-France
+paper116.pdf	The University of Melbourne-The University of Melbourne-The University of Melbourne-The University of Melbourne-The University of Melbourne-The University of Melbourne-The University of Melbourne-The University of Melbourne	Australia-Australia-Australia-Australia
+paper670.pdf	Eindhoven University of Technology-Eindhoven University of Technology-Eindhoven University of Technology-Eindhoven University of Technology-Eindhoven University of Technology-Eindhoven University of Technology	Netherlands-Netherlands-Netherlands
+paper076.pdf	Media Design School,-University of Auckland-University of Auckland-University of Bath-University of Bath-University of Auckland-University of Auckland-University of Auckland-University of Auckland	UK
+paper062.pdf	University of Washington; University of Maryland, College Park; Montgomery Blair High School;-University of Washington; University of Maryland, College Park; Montgomery Blair High School;-University of Washington; University of Maryland, College Park; Montgomery Blair High School;-University of Washington; University of Maryland, College Park; Montgomery Blair High School;-University of Michigan; Singapore Management University-University of Michigan; Singapore Management University	
+paper089.pdf	Google, Mountain View, CA,-†Google, Seattle, WA,	USA-USA-USA
+paper248.pdf	University of Washington-University of Washington-University of Washington-University of Washington	
+paper274.pdf	Google Pixel-Google-Google-Google-Google	
+paper512.pdf	Worcester Polytechnic Institute	

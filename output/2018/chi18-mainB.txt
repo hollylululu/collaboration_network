@@ -1,0 +1,101 @@
+file	affiliations	country
+paper71.pdf	"Goldsmiths, University of London-Goldsmiths, University of London"	UK-Canada
+paper484.pdf	"University of Southampton,-University of Southampton,-University of Oxford,-University of Oxford,-University of Southampton,-University of Southampton,"	UK-UK-UK
+paper490.pdf	School of Design-School of Design-School of Design-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University	USA-USA-USA
+paper65.pdf	"Human Centred Computing - University of Copenhagen, Denmark-Human Centred Computing - University of Copenhagen, Denmark"	Denmark
+paper645.pdf	"∗Ubiquitous Computing Lab, Interdisciplinary Center (IDC) Herzliya, Herzliya, Israel-∗Ubiquitous Computing Lab, Interdisciplinary Center (IDC) Herzliya, Herzliya, Israel"	France-Israel
+paper123.pdf	Adobe Research-Georgia Institute of Technology-Adobe Systems Inc.-Adobe Systems Inc.	USA
+paper137.pdf	Worcester Polytechnic Institute-Bucknell University-Bucknell University-Worcester Polytechnic Institute-Worcester Polytechnic Institute	USA-USA-USA-USA
+paper651.pdf	Northeastern University-Northeastern University-Central European University-Central European University-Rutgers University-Rutgers University-Northeastern University-Northeastern University	USA-Hungary
+paper269.pdf		Germany-Denmark
+paper255.pdf	"LMU Munich, Munich University of Applied Sciences; Munich,-LMU Munich, Munich University of Applied Sciences; Munich,"	Germany
+paper533.pdf	University of St Andrews-University of St Andrews-University of St Andrews-University of St Andrews-University of Saskatchewan-University of Saskatchewan	UK-UK-Canada
+paper527.pdf	University of Colorado Boulder-University of Colorado Boulder	USA
+paper241.pdf	"Hasso Plattner Institute-Exertion Games Lab, RMIT University-Exertion Games Lab, RMIT University-Exertion Games Lab, RMIT University"	Germany-Australia
+paper296.pdf	"Spotify, University of California Santa Cruz-Spotify, University of California Santa Cruz"	USA-USA
+paper282.pdf	"School of Computing-Clemson University-Clemson University-SWPS University of Social Sciences & Humanities-SWPS University of Social Sciences & Humanities-Ulm University-Ulm University-Interactive Technologies Laboratory-Interactive Technologies Laboratory-Institute of Cartography and Geoinformation, ETH Zürich-Vienna University of Technology-Vienna University of Technology"	Austria-Germany-USA
+paper283.pdf	"Microsoft Research, Redmond, WA,"	USA
+paper297.pdf	"Eindhoven University of Technology,-Eindhoven University of Technology,"	Netherlands-Netherlands
+paper526.pdf	"Lancaster University, , {o.bates,a.friday,n.a.davies}@lancaster.ac.uk-Lancaster University, , {o.bates,a.friday,n.a.davies}@lancaster.ac.uk-University of Westminster, , {allenj,m.piecyk,m.piotrowsk}@westminster.ac.uk-University of Westminster, , {allenj,m.piecyk,m.piotrowsk}@westminster.ac.uk-University of Southampton, , {t.j.cherrett,f.n.mcleod,t.bektas,thuba.nguyen}@soton.ac.uk-University of Southampton, , {t.j.cherrett,f.n.mcleod,t.bektas,thuba.nguyen}@soton.ac.uk-University College London, , s.wise@ucl.ac.uk-University College London, , s.wise@ucl.ac.uk-University College London, , s.wise@ucl.ac.uk"	UK-UK-UK-UK
+paper240.pdf	University of Michigan School of Information; Eastside Community Network-University of Michigan School of Information; Eastside Community Network-University of Michigan School of Information; Eastside Community Network	USA
+paper254.pdf	". Information School, University of Washington, Seattle, WA,-. Information School, University of Washington, Seattle, WA,-. Information School, University of Washington, Seattle, WA,-. Human Centered Design and Engineering, University of Washington, Seattle, WA,-. Human Centered Design and Engineering, University of Washington, Seattle, WA,-. Human Centered Design and Engineering, University of Washington, Seattle, WA,"	USA-USA
+paper532.pdf	University of Washington-University of Washington-Stanford University-Stanford University-University of Washington-University of Washington	USA
+paper268.pdf	"University of British Columbia, Vancouver, BC-University of British Columbia, Vancouver, BC-University of Calgary, Calgary, AB-University of Calgary, Calgary, AB-International Computer Science Institute, Berkeley, CA-University of California, Berkeley, CA-University of California, Berkeley, CA"	USA-Canada
+paper136.pdf	"Institute of Health &-Open Lab, Newcastle"	UK-Sweden
+paper650.pdf	"Human Centered Computing-Indiana University, IUPUI-Indiana University, IUPUI-The Information School-Department of Pediatrics-University of Washington-University of Washington"	USA-USA-USA
+paper644.pdf	Stanford University-Stanford University-Microsoft Research	USA-USA
+paper122.pdf		USA
+paper64.pdf	Portland State University-Portland State University-Adobe Research	USA-USA
+paper491.pdf	"Lancaster University, Lancaster, , r.mcnaney@lancaster.ac.uk-Lancaster University, Lancaster, , r.mcnaney@lancaster.ac.uk-Northumbria University, Newcastle upon Tyne, , john.vines@northumbria.ac.uk-Northumbria University, Newcastle upon Tyne, , john.vines@northumbria.ac.uk-Newcastle University, Newcastle upon Tyne, , a.r.dow@ncl.ac.uk-Newcastle University, Newcastle upon Tyne, , a.r.dow@ncl.ac.uk-University of Western , Bristol,-University of Western , Bristol,"	UK
+paper485.pdf	"University of Illinois at Urbana-Champaign, USC Institute for Creative Technologies-University of Illinois at Urbana-Champaign, USC Institute for Creative Technologies-University of Illinois at Urbana-Champaign, USC Institute for Creative Technologies"	USA
+paper70.pdf	University of Colorado-University of Colorado-University of Colorado-University of Colorado-University of Colorado-University of Colorado	USA
+paper58.pdf	West Virginia University-West Virginia University-Microsoft Research-Microsoft Research	USA-USA-USA
+paper452.pdf	Madeira Interactive Technologies Institute	Portugal
+paper334.pdf	University of Haifa-University of Haifa-University of Haifa-University of Haifa	Israel
+paper320.pdf	*Disney Research-†MIT Media Lab-‡Carnegie Melon University-‡Carnegie Melon University	USA
+paper446.pdf	Hasso Plattner Institute	Germany
+paper308.pdf	Queensland University of Technology (QUT)-Queensland University of Technology (QUT)	Australia
+paper442.pdf	"Open Lab,-School of Design,-School of Computing,-Newcastle University,-Newcastle University,-Northumbria University,-Northumbria University,"	UK-Sweden-UK
+paper324.pdf	"DUB Group, University of Washington | *Seattle University-DUB Group, University of Washington | *Seattle University-DUB Group, University of Washington | *Seattle University"	USA
+paper330.pdf	Umm Al-Qura University and Rutgers University-Umm Al-Qura University and Rutgers University-Rutgers University-Rutgers University	USA
+paper456.pdf	"Two-Factor Authentication at a University-Two-Factor Authentication at a University-Carnegie Mellon University, *University of California, Berkeley-Carnegie Mellon University, *University of California, Berkeley"	USA
+paper318.pdf	Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University	USA
+paper74.pdf	"School of Computer Science∗-School of Biological Sciences†-University of Manchester,-University of Manchester,-University of Maastricht, NL-University of Maastricht, NL-School of Science and the-University,-University,"	UK-Netherlands
+paper481.pdf	"Open Lab, School of Computing-Open Lab, School of Computing-Newcastle University,-Newcastle University,"	UK
+paper495.pdf	MIT Media Lab	USA-USA
+paper60.pdf		USA
+paper48.pdf	University of Michigan-University of Michigan-University of Michigan-University of Michigan	USA-USA
+paper126.pdf	"Stanford University,  Facebook,  Massachusetts Institute of Technology-Stanford University,  Facebook,  Massachusetts Institute of Technology-Stanford University,  Facebook,  Massachusetts Institute of Technology-Stanford University,  Facebook,  Massachusetts Institute of Technology"	USA
+paper640.pdf	"†Human Factors Research Group-*Mixed Reality Laboratory-*Mixed Reality Laboratory-School of Computer Science-University of Nottingham,-University of Nottingham,-University of Nottingham,-University of Nottingham,"	UK-UK
+paper654.pdf	"Microsoft Research, Redmond, WA,-Stanford University, Stanford, CA,-Stanford University, Stanford, CA,"	USA-USA
+paper132.pdf	"HCI Lab, KAIST-HCI Lab, KAIST-HCI Lab, KAIST"	Korea-Korea-Korea
+paper552.pdf	"†University of Washington-†University of Washington-§The Jacobs Institute, Cornell Tech"	USA
+paper546.pdf	University of Bristol-University of Bristol-Queen Mary University of London-Queen Mary University of London	UK-UK
+paper220.pdf	"University of California, Berkeley-University of California, Berkeley"	USA
+paper208.pdf	University of Waterloo-University of Waterloo-Microsoft Research	USA-Canada
+paper181.pdf	"Dartmouth College, Shanghai Jiao Tong University, University of Science and Technology of ,-Dartmouth College, Shanghai Jiao Tong University, University of Science and Technology of ,-Dartmouth College, Shanghai Jiao Tong University, University of Science and Technology of ,-University of Calgary, Carnegie Mellon University, Stony Brook University-University of Calgary, Carnegie Mellon University, Stony Brook University"	China-USA
+paper195.pdf	UC San Diego-Carnegie Mellon University-Carnegie Mellon University-Harvard University-Harvard University	USA
+paper7.pdf	"Open Lab, Newcastle University,-Open Lab, Newcastle University,-Open Lab, Newcastle University,"	UK
+paper624.pdf	"Max Planck Institute for Informatics, Saarland Informatics Campus,-Graduate School of Information Science and Technology, Osaka University,-Graduate School of Information Science and Technology, Osaka University,-Graduate School of Information Science and Technology, Osaka University,"	Germany-Japan
+paper142.pdf	"Univ. Paris-Sud, CNRS, INRIA, Université Paris-Saclay"	France
+paper156.pdf	Uppsala University-Uppsala University-Swedish University of-Swedish University of-Royal Institute of Technology	Sweden-Sweden-Sweden
+paper630.pdf		India
+paper618.pdf	Microsoft Research India-Microsoft Research India-Microsoft Research India-Microsoft Research India-Microsoft Research India	India
+paper383.pdf	University of Saskatchewan-University of Saskatchewan-University of Saskatchewan-University of Saskatchewan-University of Saskatchewan-University of Saskatchewan	Canada
+paper10.pdf	Michigan State University-Michigan State University-Department of Media and Information	USA
+paper397.pdf	"Queensland University of Technology (QUT) Brisbane,-Queensland University of Technology (QUT) Brisbane,"	Australia
+paper38.pdf	University of Edinburgh-University of Edinburgh-University of Edinburgh-University of Edinburgh-Columbia University-Columbia University-University of Edinburgh-University of Edinburgh-Microsoft Research	UK-USA
+paper340.pdf	MIT Media Lab-Tsinghua University-Tsinghua University-MIT Media Lab	USA-China-USA
+paper426.pdf	"Dartmouth College, National Taiwan University of Science and Technology, University of Calgary,-Dartmouth College, National Taiwan University of Science and Technology, University of Calgary,-Dartmouth College, National Taiwan University of Science and Technology, University of Calgary,-Shanghai Jiao Tong University, Beijing University of Posts and Telecommunications, Tsinghua University-Shanghai Jiao Tong University, Beijing University of Posts and Telecommunications, Tsinghua University"	China-Canada-USA-Taiwan
+paper432.pdf	"University of Illinois at Urbana-Champaign, Adobe Research, University of Michigan-University of Illinois at Urbana-Champaign, Adobe Research, University of Michigan-University of Illinois at Urbana-Champaign, Adobe Research, University of Michigan"	USA
+paper354.pdf	"University College London,     ICRI Cities, UCL    IXDS    Microsoft Research,-University College London,     ICRI Cities, UCL    IXDS    Microsoft Research,-University College London,     ICRI Cities, UCL    IXDS    Microsoft Research,-University College London,     ICRI Cities, UCL    IXDS    Microsoft Research,-University College London,     ICRI Cities, UCL    IXDS    Microsoft Research,"	USA-UK
+paper368.pdf	University of Tsukuba-University of Tsukuba	Japan
+paper418.pdf	The Context of College Students’ Facebook Use and-The Context of College Students’ Facebook Use and-Department of Informatics-University of California Irvine-University of California Irvine	USA
+paper424.pdf	"School of Information, Computer Science and Engineering-University of Michigan, Ann Arbor,-University of Michigan, Ann Arbor,"	USA
+paper342.pdf	School of Information-University of Michigan-University of Michigan-Ross School of Business-University of Michigan-University of Michigan-School of Information-University of Michigan-University of Michigan	USA-USA-USA
+paper356.pdf	University of Toronto-University of Toronto-University of Toronto-University of Toronto-University of Toronto-University of Toronto	Canada-Canada-Canada
+paper430.pdf	Microsoft Research	USA
+paper12.pdf	Admixed Portrait: Design to Understand Facebook-Northumbria University-Northumbria University-Newcastle University-Newcastle University	UK-UK
+paper381.pdf	"GroupLens Research,-University of Minnesota,-University of Minnesota,"	USA
+paper395.pdf	"University of Lincoln, School of-University of Lincoln, School of-University of Lincoln, School of"	UK-Switzerland
+paper168.pdf	BMW Group-BMW Group	Germany-Germany-Germany
+paper140.pdf	"National University of Singapore, Singapore-National University of Singapore, Singapore-University of Calgary, Calgary,-University of Calgary, Calgary,"	Canada-Singapore
+paper626.pdf	†Department of Computer Science-Michigan Technological University-Michigan Technological University-‡Department of Engineering-University of Cambridge-University of Cambridge	UK-USA
+paper5.pdf	Delft University of Technology-Delft University of Technology	Netherlands
+paper632.pdf	"University, Seoul, South-University, Seoul, South"	Korea-Korea
+paper154.pdf	"InnoVis Group-University of Calgary,-University of Calgary,-Université Paris-Saclay,-University of St Andrews,-University of St Andrews,-SACHI Group"	Canada-France-UK
+paper183.pdf	College of Computer and Information Science-Bouvé College of Health Sciences-Northeastern University-Northeastern University	USA
+paper197.pdf	"New Oriental Education & Technology Group, Cornell University Information Science-New Oriental Education & Technology Group, Cornell University Information Science-New Oriental Education & Technology Group, Cornell University Information Science"	USA
+paper578.pdf	Purdue University-Purdue University	USA
+paper550.pdf	"Interactive Systems Group, OFFIS - Institute for IT, Oldenburg,-Interactive Systems Group, OFFIS - Institute for IT, Oldenburg,-Media Informatics and Multimedia Systems, University of Oldenburg, Oldenburg,-Media Informatics and Multimedia Systems, University of Oldenburg, Oldenburg,-University of Tampere, Tampere,-University of Tampere, Tampere,"	Germany-Germany-Finland
+paper236.pdf	"University Paris-Saclay, Paris,-University Paris-Saclay, Paris,-Sorbonne Universit´e, CNRS, ISIR"	France-France
+paper222.pdf	University-University-Department of-University-University-Nara Institute of-Science Labs.-University of-University of	Japan
+paper544.pdf	Stanford University-Stanford University-Stanford University-Stanford University	USA
+paper593.pdf	"Human-Centered Computing-Indiana University-Purdue-Indiana University-Purdue-University Indianapolis,-University Indianapolis,-Sciences, University of Illinois-Sciences, University of Illinois-Simon Fraser University,-Simon Fraser University,"	USA-Canada
+paper587.pdf	"University of British Columbia, Vancouver,-University of British Columbia, Vancouver,"	Canada
+paper586.pdf		USA-USA-USA
+paper592.pdf	"Koc¸ University, Istanbul,-Koc¸ University, Istanbul,-Department of Psychology-Koc¸ University, Istanbul,-Koc¸ University, Istanbul,-Arc¸elik Research Center for-Koc¸ University, Istanbul,-Koc¸ University, Istanbul,"	Turkey
+paper223.pdf	University of Toronto-University of Toronto-Microsoft Research-Inria-INTRODUCTION	USA-France-Canada
+paper545.pdf	Stanford University-Stanford University-Stanford University-Stanford University-University of Colorado-University of Colorado-Catholic University-Catholic University-Foothill College-Mission College	USA-Paraguay
+paper551.pdf	Universidade Federal Rural de	Germany-Brazil
+paper237.pdf	"State Key Laboratory of Computer Science, Institute of-State Key Laboratory of Computer Science, Institute of-State Key Laboratory of Computer Science, Institute of-Beijing Key  Lab of  Human-Computer Interaction,  Institute-Beijing Key  Lab of  Human-Computer Interaction,  Institute-School of Computer and Control Engineering, University of-School of Computer and Control Engineering, University of-School of Computer and Control Engineering, University of-Pennsylvania State University, University Park,-Pennsylvania State University, University Park,-Google Inc., Mountain View,-Google Inc., Mountain View,"	China-China-China-USA-USA

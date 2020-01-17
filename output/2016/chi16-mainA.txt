@@ -1,0 +1,51 @@
+file	affiliations	country
+p2773-kaufman.pdf	Dartmouth College-Carnegie Mellon University-Carnegie Mellon University	USA-USA
+p2819-elsden.pdf	Newcastle University-Newcastle University	UK
+p2599-almeida.pdf	Newcastle University	UK
+p1126-centivany.pdf	University of Michigan-University of Toronto	USA-Canada
+p4502-srinivas.pdf	"Department of Informatics-University of California, Irvine-School of Informatics and Computing, IUPUI"	USA-USA-USA
+p4956-oulasvirta.pdf	Aalto University-University of Copenhagen	Finland-Denmark
+p1011-kushlev.pdf	University of Virginia-University of British Columbia-University of British Columbia	USA-Canada-Canada
+p1055-metatla.pdf	"Queen Mary University of-Queen Mary University of-Goldsmiths, University of-Goldsmiths, University of-Queen Mary University of-Queen Mary University of-Queen Mary University of-Queen Mary University of-Queen Mary University of-Queen Mary University of"	UK
+p3390-vatavu.pdf	University Stefan cel Mare of Suceava-University of Washington	Romania-USA
+p5494-nebeling.pdf	"Human-Computer Interaction Institute, Carnegie Mellon University"	USA
+p3215-vaniea.pdf	The University of Edinburgh-Indiana University	UK-USA
+p3143-cai.pdf	Microsoft Research-Microsoft Research-MIT	USA
+p4447-gerling.pdf	University of Lincoln-University of Copenhagen-University College Cork	UK-Ireland-Denmark
+p4189-gonzalez.pdf	Univ Paris Sud-Univ Paris Saclay - Telecom Paris Tech	France-France-France
+p6008-saegusa.pdf	University of Washington-University of Washington-University of Washington-University of Washington	USA
+p2111-chancellor.pdf	Georgia Tech	USA
+p876-jones.pdf	Brigham Young University	USA
+p3103-mishra.pdf	University of Washington - Seattle Children's Hospital	USA-USA-USA
+p2124-rennick-egglestone.pdf	University of Nottingham - University of Manchester - Bangor University	UK-UK-UK-UK
+p3522-wittenhagen.pdf	RWTH Aachen University	Germany
+p1362-zhou.pdf	Dalhousie University - Federal University of Sao Carlos	Germany
+p3473-bonny.pdf	foundry10 	USA-USA-USA
+p2612-d-ignazio.pdf	Emerson Engagement Lab-MIT	USA-USA-USA-USA-USA
+p4793-le.pdf	University of Stuttgart-Lancaster University	USA
+p1996-gugenheimer.pdf	Ulm University	Germany
+p3944-canat.pdf	Koc University	Turkey
+p3272-chen.pdf	National ChengChi University	Taiwan
+p3620-irannejad-bisafar.pdf	Northeastern University-Winthrop University	USA
+p5529-brewer.pdf	Northwestern University	USA
+p1390-lindtner.pdf	Indiana University-Indiana University-Indiana University-Indiana University-University of Michigan-University of Michigan	USA-USA-USA
+p4262-feit.pdf	Aalto University	Finland
+p3870-sanger.pdf	University of Regensburg - University of Erlangen-Nuremberg-University College London	Germany-Germany-UK
+p5970-tsaknaki.pdf	Royal Institute of Technology	Sweden
+p3462-depping.pdf	University of Saskatchewan	Canada
+p1462-chilana.pdf	University of Waterloo-University of Rochester-Microsoft Research	Canada-USA
+p733-hagiya.pdf	KDDI R&D Laboratories Inc	Japan
+p1921-woodward.pdf	University of Florida-St.Catherine University - User Testing Inc - University of Maryland Baltimore County - Western Oregon University - Bowie State University	USA-USA-USA-USA
+p5645-chaudhry.pdf	University of Notre Dame-University of Colorado-Indiana University	USA
+p2401-booten.pdf	UC Berkeley	USA
+p4647-fast.pdf	Stanford University-Stanford University	USA
+p1893-bentley.pdf	Yahoo	USA
+p5849-perteneder.pdf	"University of Applied Sciences Upper Austria - Simon Fraser University,"	Canada-Austria
+p4568-solomon.pdf	University of Michigan-Michigan State University	USA-USA-USA
+p2198-steinhardt.pdf	Cornell University	USA
+p5885-li.pdf	Carnegie Mellon University-University of Washington-University of Washington-Disney Research	USA-USA-USA
+p3509-srinivasa-ragavan.pdf	Oregon State University-University of Tulsa	USA
+p1869-hosio.pdf	University of Oulu	Finland
+p1669-lampinen.pdf	"Stockholm University-University of California, Berkeley"	Sweden-USA
+p5015-elsden.pdf	Newcastle University	UK
+p2050-jakobsen.pdf	University of Copenhagen	Denmark

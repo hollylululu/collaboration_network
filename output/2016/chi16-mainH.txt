@@ -1,0 +1,51 @@
+file	affiliations	country
+p5731-vasilevitsky.pdf	The Hebrew University of Jerusalem	Israel
+p3545-tixier.pdf	Troyes University of Technology	France-France
+p3061-lu.pdf	University of Pittsburgh-IBM Research	USA-USA
+p981-caine.pdf	Clemson University	USA
+p969-gooch.pdf	The Open University-Institute of Education-Concordia University	UK-Canada-UK
+p1250-tregillus.pdf	University of Nevada	USA
+p5506-morris.pdf	Microsoft Research-The University of Washington-MIT-North Carolina State University-University of Colorado Boulder	USA
+p1909-mohd-noor.pdf	Universiti Kuala Lumpur-University of Glasgow	UK-Malaysia
+p5945-uriu.pdf	Keio University-Simon Fraser University	Japan-Japan-Canada
+p3906-andalibi.pdf	Drexel University-Georgia Tech-UC Irvine	USA
+p5324-pollack.pdf	University of Washington-Seattle Children's Hospital	USA-USA-USA
+p5228-dupree.pdf	University of Waterloo	Canada
+p2430-mayer.pdf	New Jersey Institute of Technology-Cornell Tech-Tampere University of Technology	Finland-USA
+p165-sobel.pdf	University of Washington	USA
+p2778-everitt.pdf	Lancaster University	UK
+p3572-carcedo.pdf	National University of Singapore-Chalmers University of Technology-Yale NUS College-Koc University	Sweden-Singapore-Turkey
+p3025-guy.pdf	Yahoo-IBM Research	Israel
+p101-sleeper.pdf	Carnegie Mellon University-University of Maryland College Park	USA
+p2390-kizilcec.pdf	Stanford University	USA
+p71-yu.pdf	Tsinghua University	China
+p4687-schramm.pdf	University of Saskatchewan-University of Canterbury	Canada-New Zealand
+p4806-harbach.pdf	UC Berkeley-Google	USA
+p2038-putnam.pdf	DePaul University-Rosalind Franklin University	USA-USA
+p3378-zhang.pdf	MIT-Microsoft Research	USA
+p1632-gloss.pdf	Uppsala University-Stockholm University	Sweden-Sweden
+p113-kairam.pdf	Stanford University-Yahoo	USA
+p5675-goel.pdf	Inglemoor High School-University of Washington-Southern Methodist University	USA
+p661-shaer.pdf	New York University-Wellesley College-PersonalGenomes.org	USA-USA-USA
+p509-bader.pdf	University of Stuttgart-Stuttgart Media University-BMW-BTK University of Art and Design	Germany
+p1338-tian.pdf	UC Berkeley	USA
+p4509-mekler.pdf	University of Basel-University of Copenhagen	Denmark-Switzerland
+p3584-burrows.pdf	University of Bristol-University College Dublin	UK-Ireland-UK
+p6028-devendorf.pdf	Google-UC Berkeley	USA-USA
+p3227-ur.pdf	Brown University-Carnegie Mellon University-University of Zurich	USA-Switzerland
+p3595-mcnally.pdf	University of Maryland College Park	USA
+p1138-matias.pdf	Microsoft Research	USA
+p89-zhao.pdf	University of Michigan	USA-USA-USA
+p4044-gray.pdf	Purdue University	USA
+p2348-hsiao.pdf	University of Washington-Northeastern University-National Tsing Hua University	USA-Taiwan
+p3324-tasse.pdf	Hewlett Packard Labs-HP Labs and HP ArcSight-Carnegie Mellon University	USA-USA-USA
+p384-hudson.pdf	University of Waterloo	Canada-Canada
+p2098-de-choudhury.pdf	Microsoft Research-Johns Hopkins University-Georgia Tech-Qntfy.io	USA
+p2014-gupta.pdf	University of Western Australia-Ecole des Mines de Nantes-CSIRO	Australia-Australia-Australia
+p5909-de-freitas.pdf	Carnegie Mellon University-Peking University-Coimbatore Institute of Technology	USA-China-India
+p2970-boehner.pdf	Georgia Tech	USA
+p2549-odom.pdf	Simon Fraser University-Eindhoven University of Technology-KAIST	Canada-Korea-Netherlands
+p1504-chen.pdf	University of Washington-Oculus Research	USA-USA
+p4538-kim.pdf	University of Illinois at Urbana Champaign-Ulsan National Institute of Science and Technology	USA-Korea
+p3339-mahoney.pdf	University of Lincoln-Northumbria University	UK-UK
+p321-brown.pdf	Georgia Tech	USA

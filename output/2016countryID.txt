@@ -1,0 +1,25 @@
+Country	ID	Color
+USA	0	Red
+Mexico	1	Yellow
+China	2	White
+Canada	3	Red
+Germany	4	Blue
+Sweden	5	Blue
+Belgium	6	Blue
+Singapore	7	White
+UK	8	Blue
+Spain	9	Blue
+Korea	10	White
+Brazil	11	Yellow
+Italy	12	Blue
+France	13	Blue
+Finland	14	Blue
+Slovenia	15	Blue
+Denmark	16	Blue
+India	17	White
+Switzerland	18	Blue
+Austria	19	Blue
+Lebanon	20	Blue
+Japan	21	White
+New Zealand	22	Green	
+Australia	23	Green

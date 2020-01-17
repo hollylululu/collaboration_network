@@ -1,0 +1,56 @@
+Country	ID	Color	pubCount
+Canada	0	#e6194B	225
+USA	1	#e6194B	1306
+Denmark	2	#42d4f4	70
+Finland	3	#42d4f4	62
+Romania	4	#42d4f4	5
+UK	5	#42d4f4	495
+Ireland	6	#42d4f4	11
+Germany	7	#42d4f4	228
+Austria	8	#42d4f4	21
+Sweden	9	#42d4f4	67
+Mexico	10	#fabebe	1
+Hong Kong	11	#fffac8	20
+Belgium	12	#42d4f4	11
+Singapore	13	#fffac8	16
+Spain	14	#42d4f4	13
+Korea	15	#fffac8	97
+Brazil	16	#fabebe	9
+Italy	17	#42d4f4	14
+France	18	#42d4f4	114
+Slovenia	19	#42d4f4	1
+India	20	#fffac8	22
+Switzerland	21	#42d4f4	37
+Mainland China	22	#fffac8	67
+Lebanon	23	#fffac8	1
+Japan	24	#fffac8	96
+New Zealand	25	#a9a9a9	15
+Australia	26	#a9a9a9	78
+Greece	27	#42d4f4	4
+Namibia	28	#aaffc3	1
+Israel	29	#fffac8	16
+Bulgaria	30	#42d4f4	1
+Taiwan	31	#fffac8	19
+Malaysia	32	#fffac8	3
+Turkey	33	#fffac8	6
+Netherlands	34	#42d4f4	40
+Qatar	35	#fffac8	4
+Portugal	36	#42d4f4	10
+UAE	37	#fffac8	5
+Ecuador	38	#fabebe	4
+Norway	39	#42d4f4	3
+Egypt	40	#aaffc3	3
+South Africa	41	#aaffc3	4
+Cyprus	42	#42d4f4	3
+Philippines	43	#fffac8	1
+Hungary	44	#42d4f4	1
+Paraguay	45	#fabebe	1
+Costa Rica	46	#e6194B	1
+Rwanda	47	#aaffc3	1
+Tanzania	48	#aaffc3	1
+Pakistan	49	#fffac8	1
+Vietnam	50	#fffac8	1
+Argentina	51	#fabebe	1
+Saudi Arabia	52	#fffac8	1
+Iran	53	#fffac8	1
+Uganda	54	#aaffc3	1

@@ -1,0 +1,51 @@
+file	affiliations	country
+paper439.pdf	Department of Computer Science-Stony Brook University-Stony Brook University-Google Inc.-Google Inc.	USA-USA
+paper405.pdf	"Institute of Health Sciences-Newcastle University,-Newcastle University,-Open Lab, School of Computing Science-Open Lab, School of Computing Science-Newcastle University,-Newcastle University,"	UK-UK
+paper363.pdf	"Inria,-Inria,-Bordeaux University,-Bordeaux University,"	France-France-France-France
+paper377.pdf	"Dept. of Computer Science, University of Oxford,-Dept. of Computer Science, University of Oxford,-Dept. of Science, Technology, Engineering & Public Policy, University College London,-Dept. of Science, Technology, Engineering & Public Policy, University College London,-Dept. of Science, Technology, Engineering & Public Policy, University College London,"	UK
+paper411.pdf	"Department of Industrial Design, KAIST"	Korea
+paper388.pdf	"New York University Abu Dhabi, UAE-New York University Abu Dhabi, UAE"	UAE
+paper33.pdf	"Saarland University, Saarland Informatics Campus,-Saarland University, Saarland Informatics Campus,"	Germany
+paper27.pdf	"INESC-ID, Instituto Superior Técnico, Universidade de Lisboa-LASIGE, Faculdade de Ciências, Universidade de Lisboa"	Portugal
+paper149.pdf	"Electrical Engineering and Computer Sciences, University of California, Berkeley-Electrical Engineering and Computer Sciences, University of California, Berkeley"	USA
+paper161.pdf	"National Institute of Advanced Industrial Science and Technology (AIST),"	Japan
+paper607.pdf	"in Self-Perception on Snapchat, Facebook, and Offline-University of California at Santa Cruz,-University of California at Santa Cruz,-University of California at Santa Cruz,-University of California at Santa Cruz,"	USA
+paper613.pdf	"Department of Industrial Design, Eindhoven University of Technology-Department of Industrial Design, Eindhoven University of Technology-Department of Industrial Design, Eindhoven University of Technology"	Netherlands
+paper559.pdf	Design School Kolding	Denmark
+paper571.pdf	"Aalto University, Graduate School of Culture Technology, KAIST-Aalto University, Graduate School of Culture Technology, KAIST-Aalto University, Graduate School of Culture Technology, KAIST"	Korea-Finland
+paper217.pdf	"Department of Information Science, Department of Communication-Cornell University-Cornell University"	USA
+paper203.pdf	"Microsoft Research-Human Centered Design & Engi--neering, University of Washington,-neering, University of Washington,-City, University of London,-City, University of London,"	UK-USA
+paper565.pdf	Columbia University-Columbia University-Columbia University-Columbia University-Columbia University-Columbia University	USA-USA-USA
+paper202.pdf	University of Bristol-University of Bristol-Cardiff Metropolitan University-Cardiff Metropolitan University	UK-UK
+paper564.pdf	"University of Copenhagen, Denmark-University of Copenhagen, Denmark"	Denmark
+paper570.pdf		Korea-USA-Korea-USA
+paper216.pdf	"University of Zurich, Switzerland, {remy, huang}@ifi.uzh.ch-University of Zurich, Switzerland, {remy, huang}@ifi.uzh.ch-Lancaster University, , {o.bates, m.hazas, a.friday}@lancaster.ac.uk-Lancaster University, , {o.bates, m.hazas, a.friday}@lancaster.ac.uk-University of Birmingham, , alan@hcibook.com-University of Birmingham, , alan@hcibook.com-Aarhus University, Denmark, vthomas@cs.au.dk-Aarhus University, Denmark, vthomas@cs.au.dk"	Switzerland-UK-Denmark
+paper558.pdf	"National Taiwan University ,,, Texas A&M University-National Taiwan University ,,, Texas A&M University"	Taiwan-USA
+paper612.pdf	University of Luxembourg-University of Luxembourg-University of Luxembourg-University of Luxembourg-The French Institute of Science	France
+paper174.pdf	Human-Computer Interaction Institute-Amherst College-Carnegie Mellon University-Carnegie Mellon University	USA
+paper160.pdf	"University, Ithaca, NY-University, Ithaca, NY-University, Ithaca, NY-University, Ithaca, NY-University, Ithaca, NY-University, Ithaca, NY"	USA
+paper606.pdf	University of Toronto-University of Toronto-UC San Diego	Canada-USA
+paper148.pdf	"Virginia Tech, Wikimedia Foundation, University of Minnesota, Northwestern University-Virginia Tech, Wikimedia Foundation, University of Minnesota, Northwestern University"	USA
+paper26.pdf	University of Dundee-University of Dundee-University of Guelph-University of Guelph	Canada-Scotland
+paper32.pdf	"Design Lab, UC San Diego-Design Lab, UC San Diego-Université de Lyon, CNRS,"	France-USA
+paper389.pdf	Microsoft Research-Aarhus University-Aarhus University	Sweden-India-Denmark
+paper376.pdf	"The University of Nottingham, Nottingham,-The University of Nottingham, Nottingham,-University of Lincoln, Lincoln,-University of Lincoln, Lincoln,"	UK-UK
+paper410.pdf	Chalmers University of-Chalmers University of-RISE Research Institutes	Sweden-Sweden-Sweden-Sweden
+paper404.pdf	"School of Mathematical and Computer Sciences, Heriot-Watt University-School of Mathematical and Computer Sciences, Heriot-Watt University-School of Mathematical and Computer Sciences, Heriot-Watt University"	UK
+paper362.pdf	Cyprus University of Technology-Cyprus University of Technology-University of Siegen-University of Siegen	Portugal-Germany-Cyprus
+paper438.pdf	"University of Illinois at Urbana-Champaign, Adobe Research-University of Illinois at Urbana-Champaign, Adobe Research-University of Illinois at Urbana-Champaign, Adobe Research"	USA
+paper366.pdf	"University of Maryland, College Park, Maryland,-University of Maryland, College Park, Maryland,-University of Maryland, College Park, Maryland,-Carnegie Mellon University, Pittsburgh, Pennsylvania,-Carnegie Mellon University, Pittsburgh, Pennsylvania,-University of Chicago, Chicago, Illinois,-University of Chicago, Chicago, Illinois,"	USA
+paper400.pdf	Microsoft-The Hebrew University-The Hebrew University	Israel
+paper372.pdf	New York University-New York University-Univ. of California Santa Cruz-Univ. of California Santa Cruz	USA-USA
+paper428.pdf		Korea-Korea-USA-Korea
+paper36.pdf	"Department of Computer Science, University of Calgary,  · {first.last}@ucalgary.ca-Department of Computer Science, University of Calgary,  · {first.last}@ucalgary.ca-Department of Computer Science, University of Calgary,  · {first.last}@ucalgary.ca-School of Computing and Communications, Lancaster University,  · s.houben@lancaster.ac.uk-School of Computing and Communications, Lancaster University,  · s.houben@lancaster.ac.uk-School of Computing and Communications, Lancaster University,  · s.houben@lancaster.ac.uk-Department of Computer Science, Aarhus University, Denmark · jo.vermeulen@cs.au.dk-Department of Computer Science, Aarhus University, Denmark · jo.vermeulen@cs.au.dk-Department of Computer Science, Aarhus University, Denmark · jo.vermeulen@cs.au.dk-UCL Interaction Centre, University College London,  · n.marquardt@ucl.ac.uk-UCL Interaction Centre, University College London,  · n.marquardt@ucl.ac.uk-UCL Interaction Centre, University College London,  · n.marquardt@ucl.ac.uk-UCL Interaction Centre, University College London,  · n.marquardt@ucl.ac.uk"	Canada-UK-Denmark
+paper22.pdf	Segal Design Institute-Northwestern University-Northwestern University	USA
+paper399.pdf	Aarhus University-Aarhus University-Aarhus University-Aarhus University	Denmark
+paper602.pdf	"Color Lab,. Department of Industrial Design, KAIST-Color Lab,. Department of Industrial Design, KAIST"	Korea
+paper164.pdf	Cheriton School of Computer Science-University of Waterloo-University of Waterloo	Canada
+paper170.pdf	University of Washington-University of Washington-University of Pittsburgh-University of Pittsburgh	USA-USA-USA-USA
+paper616.pdf	"Socioeconomic Inequalities in the Non/use of Facebook-Lehigh University, Bethlehem, PA-Lehigh University, Bethlehem, PA"	USA
+paper158.pdf	"Announcing Pregnancy Loss on Facebook:-College of Computing and Informatics, Drexel University-College of Computing and Informatics, Drexel University-College of Computing and Informatics, Drexel University"	USA
+paper9.pdf	MIT Center for Civic Media-MIT Center for Civic Media	USA
+paper212.pdf	University of Maryland-University of Maryland-Facebook Inc.-Facebook Inc.-Facebook Inc.-Facebook Inc.	USA
+paper574.pdf	Georgia Institute of Technology	USA

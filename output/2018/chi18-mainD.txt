@@ -1,0 +1,51 @@
+file	affiliations	country
+paper636.pdf	Purdue University-Purdue University	USA
+paper1.pdf	School of Interactive Computing-Georgia Institute of Technology-Human-Computer Interaction Institute-Carnegie Mellon University-Carnegie Mellon University	USA-USA
+paper622.pdf	"University of Washington, Seattle-University of Washington, Seattle"	China-USA
+paper144.pdf	University  of Washington-University  of Washington	USA
+paper391.pdf	"Group Facilitation Agent-Northeastern University, Boston, MA,-Northeastern University, Boston, MA,"	USA-USA
+paper385.pdf	"Université Paris-Saclay-LRI, Univ. Paris-Sud, CNRS,-Inria, Université Paris-Saclay-Inria, Université Paris-Saclay-University of British Columbia-University of British Columbia"	France-Canada-France
+paper16.pdf	"University of Illinois, University of Michigan, Adobe Research-University of Illinois, University of Michigan, Adobe Research-University of Illinois, University of Michigan, Adobe Research"	USA
+paper408.pdf	"University of Bath,  University of Auckland, New Zealand-University of Bath,  University of Auckland, New Zealand"	UK-New Zealand
+paper434.pdf	MIT Media Lab-MIT Media Lab-MIT Media Lab-MIT Media Lab	USA-USA-USA-USA
+paper352.pdf	Google Inc.-Google Inc.-Google Inc.-Google Inc.-University of Michigan-University of Michigan-Google Inc.-Google Inc.-University of Michigan-University of Michigan	USA-India
+paper346.pdf	University of Bristol-University of Bristol-University of Bristol-University of Bristol	UK-UK
+paper420.pdf	"Purdue University, West Lafayette, IN, , {toombsa; gray}@purdue.edu-Purdue University, West Lafayette, IN, , {toombsa; gray}@purdue.edu-Open Lab, Newcastle University, Newcastle upon Tyne, ,-Open Lab, Newcastle University, Newcastle upon Tyne, ,-Open Lab, Newcastle University, Newcastle upon Tyne, ,-Northumbria University, Newcastle upon Tyne, , john.vines@northumbria.ac.uk-Northumbria University, Newcastle upon Tyne, , john.vines@northumbria.ac.uk-KTH Royal Institute of Technology, Stockholm, , balaam@kth.se"	USA-UK-UK-Sweden
+paper350.pdf	Department of Information Sciences and Technology-George Mason University-George Mason University	USA
+paper436.pdf	"University of Stuttgart, Stuttgart, , {ﬁrstname.lastname}@vis.uni-stuttgart.de-University of Stuttgart, Stuttgart, , {ﬁrstname.lastname}@vis.uni-stuttgart.de-Munich University of Applied Sciences, Munich, , {ﬁrstname.lastname}@hm.edu-Munich University of Applied Sciences, Munich, , {ﬁrstname.lastname}@hm.edu"	Germany-Germany-Germany
+paper422.pdf	University of Toronto and-University of Toronto and-University of Toronto-University of Toronto-University of Toronto and Inria-University of Toronto and Inria-University of Toronto and Inria	Canada
+paper344.pdf	"School of Computing Science, University of Glasgow,-School of Computing Science, University of Glasgow,-School of Computing Science, University of Glasgow,"	UK
+paper378.pdf	University of Copenhagen University College Dublin-University of Copenhagen University College Dublin-University of Copenhagen University College Dublin	Ireland-Denmark
+paper393.pdf	"Department of Computer Science, University of Oxford,-Department of Computer Science, University of Oxford,-Department of Computer Science, University of Oxford,"	UK
+paper14.pdf	"Sorbonne Université, CNRS, ISIR-University of Copenhagen-University of Copenhagen"	Denmark-France
+paper387.pdf	"National Tsing Hua University-National Tsing Hua University-National Tsing Hua University,-National Tsing Hua University,-University of California, Davis-University of California, Davis"	Korea-USA-Taiwan
+paper28.pdf	"UCL Interaction Centre, University College London, London,-UCL Interaction Centre, University College London, London,-UCL Interaction Centre, University College London, London,-UCL Interaction Centre, University College London, London,-Department of Computer Science, University of Bristol, Bristol,-Department of Computer Science, University of Bristol, Bristol,-Department of Computer Science, University of Bristol, Bristol,"	UK-UK
+paper634.pdf	University of Manitoba-University of Manitoba-University of Manitoba-University of Manitoba-University of Manitoba-University of Manitoba	Canada-Canada-Canada
+paper152.pdf	"Goldsmiths, University of London-Goldsmiths, University of London-University of Birmingham-University of Birmingham"	UK-UK
+paper146.pdf	"Columbia University,-Columbia University,-Department of Biomedical-Columbia University,-Columbia University,-Department of Biomedical"	USA-USA
+paper620.pdf	"Pennsylvania State University-Pennsylvania State University-Indiana University Bloomington-Indiana University Bloomington-University Park, PA,-University Park, PA,"	USA-USA
+paper3.pdf	"Northwestern University, Evanston, IL,-Northwestern University, Evanston, IL,"	USA-Argentina
+paper608.pdf	"North Carolina State University, Raleigh, NC,-North Carolina State University, Raleigh, NC,-Stack Exchange, Inc., New York, NY,"	USA-USA
+paper191.pdf	Northern Arizona University-Northern Arizona University	USA-Brazil
+paper185.pdf	University of Toronto-University of Toronto-Autodesk Research	Canada-Canada
+paper224.pdf	"Department of Computer Science and Department of Digital Design and Information Studies-Aarhus University, Denmark-Aarhus University, Denmark"	Denmark
+paper542.pdf	"Department of Industrial Design,-Department of Computer Science,-Dartmouth College,-Tung University, Taiwan-Tung University, Taiwan"	USA-Korea-Taiwan
+paper556.pdf	"Centrum Wiskunde & Informatica (The ),  University of Oldenburg (),-Centrum Wiskunde & Informatica (The ),  University of Oldenburg (),-Telefonica Research (Spain),  University of Bremen (),  OFFIS - Institute for IT ()-Telefonica Research (Spain),  University of Bremen (),  OFFIS - Institute for IT ()-Telefonica Research (Spain),  University of Bremen (),  OFFIS - Institute for IT ()"	Spain-Netherlands-Germany
+paper230.pdf	"Graduate School of Culture Technology, KAIST Aalto University,-Graduate School of Culture Technology, KAIST Aalto University,-Graduate School of Culture Technology, KAIST Aalto University,"	Finland-Korea
+paper218.pdf	"Department of Industrial Design, KAIST"	Korea
+paper581.pdf	"Jacobs Institute, Cornell Tech"	USA
+paper595.pdf	"Human Computer Interaction Group, TU Wien (Vienna University of Technology), Austria-Human Computer Interaction Group, TU Wien (Vienna University of Technology), Austria-Human Computer Interaction Group, TU Wien (Vienna University of Technology), Austria-University of California at Irvine, US-University of California at Irvine, US"	USA-Austria
+paper594.pdf	University of Washington-University of Washington-Tufts University-Tufts University	USA-USA-USA-USA-USA-USA
+paper580.pdf	"‡∗UC Berkeley, Berkeley, CA,-(cid:)∗UC Los Angeles, Los Angeles, CA,"	USA-USA
+paper219.pdf	"School of Mechanical Engineering, Purdue University-School of Mechanical Engineering, Purdue University-School of Mechanical Engineering, Purdue University"	USA
+paper557.pdf	Research with Stigmatized Groups-Siena College-Indiana University-Indiana University-Pennsylvania State University-Pennsylvania State University-Group and Organization Interfaces:	USA
+paper231.pdf	"University of California, San Diego-University of California, San Diego"	USA
+paper225.pdf	"IUPUI, Indianapolis, ,  Northwestern University, Evanston,-IUPUI, Indianapolis, ,  Northwestern University, Evanston,"	USA
+paper543.pdf	University of Chicago (†) and University of Illinois at Chicago (∗)-University of Chicago (†) and University of Illinois at Chicago (∗)	USA
+paper184.pdf	ETH Zurich Aarhus University Aalto University University of Eastern  University of St Andrews-ETH Zurich Aarhus University Aalto University University of Eastern  University of St Andrews	Finland-UK-Switzerland
+paper190.pdf	"Department of Psychology,-Department of Computer Science,-University of Saskatchewan-University of Saskatchewan-University of Trier-University of Trier"	Canada-Germany
+paper609.pdf	"Université de Lille,  Inria,-Université de Lille,  Inria,"	France
+paper147.pdf	"Aalto University, Helsinki,-Aalto University, Helsinki,"	Finland
+paper2.pdf	"University College London, London,-University College London, London,-University College London, London,"	UK
+paper621.pdf	"Play & Interactive Experiences for Learning Lab, New Mexico State University, Las Cruces, NM,-Play & Interactive Experiences for Learning Lab, New Mexico State University, Las Cruces, NM,-Play & Interactive Experiences for Learning Lab, New Mexico State University, Las Cruces, NM,-Transformative Play Lab, Department of Informatics, University of California, Irvine, CA,-Transformative Play Lab, Department of Informatics, University of California, Irvine, CA,-Transformative Play Lab, Department of Informatics, University of California, Irvine, CA,-Transformative Play Lab, Department of Informatics, University of California, Irvine, CA,-HCI Institute / Entertainment Technology Center, Carnegie Mellon University, Pittsburgh, PA,-HCI Institute / Entertainment Technology Center, Carnegie Mellon University, Pittsburgh, PA,-HCI Institute / Entertainment Technology Center, Carnegie Mellon University, Pittsburgh, PA,-HCI Institute / Entertainment Technology Center, Carnegie Mellon University, Pittsburgh, PA,"	USA-USA-USA
+paper635.pdf		USA

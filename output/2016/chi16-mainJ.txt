@@ -1,0 +1,51 @@
+file	affiliations	country
+p2271-mcinnis.pdf	Cornell University	USA
+p993-kwon.pdf	University of Konstanz-University of Konstanz-Microsoft Research	Germany-USA
+p4315-gorm.pdf	IT University of Copenhagen	Denmark
+p420-groeger.pdf	Max Planck Institute for Informatics-Saarland University	Germany
+p2982-birk.pdf	University of Saskatchewan	Canada
+p5686-krause.pdf	New York University-IBM Research	USA-USA-USA
+p5824-claes.pdf	KU Leuven-iMinds	Belgium
+p1833-mann.pdf	University of St. Andrews-UCLAN	UK
+p852-brown.pdf	University of Stockholm-University of Gothenburg	Sweden-Sweden
+p3649-burstyn.pdf	Queen's University	Canada
+p3761-holz.pdf	Microsoft Research-Yahoo	USA
+p1157-chancellor.pdf	Gorgia Tech	USA
+p3659-pandey.pdf	New York University	USA
+p2832-wilkinson.pdf	University of York-Microsoft Research-Newcastle University	UK-UK-UK
+p2562-dalsgaard.pdf	Aarhus University-University of Munich	Germany-Denmark
+p5608-gutwin.pdf	University of Saskatchewan-University of Canterbury-Autodesk Research	Canada-New Zealand
+p2062-martinez-maldonado.pdf	University of Technology Sydney-Griffith UniversityThe University of Sydney	Australia-Australia-Australia
+p83-quinn.pdf	University of Canterbury-Google	USA-New Zealand
+p2461-robert.pdf	University of Michigan	USA
+p4032-lindley.pdf	Lancaster University	UK
+p5274-desjardins.pdf	Simon Fraser University-Eindhoven University of Technology	Canada-Netherlands
+p5789-serim.pdf	University of Helsinki-Aalto University	Finland
+p3238-ochiai.pdf	University of Tsukuba-Utsunomiya University-Nagoya Institute of Technology	Japan-Japan-Japan
+p38-kim.pdf	University of Washington-Stanford University	USA
+p2538-bodker.pdf	Aarhus University	Denmark
+p2574-fiesler.pdf	College of Charleston-Georgia Tech-University of Colorado Boulder	USA-USA-USA
+p4061-costanza.pdf	University of Southampton--University of Nottingham	UK-UK
+p1620-marshall.pdf	Newcastle University	UK-UK-UK
+p4351-kim.pdf	KAIST-Harvard University	Korea-USA
+p4991-dalsgaard.pdf	Aarhus University	Denmark
+p781-zhou.pdf	Shanghai Jiao Tong University	China-China-China-China-China
+p5583-klarkowski.pdf	Queensland University of Technology	Australia
+p2383-yu.pdf	"University of Illinois at Urbana Champaign-Apropose, Inc."	USA
+p1349-buschek.pdf	University of Munich	Germany
+p2717-chan.pdf	Carnegie Mellon University-UC San Diego	USA
+p188-janzen.pdf	University of British Columbia-Facebook	Canada
+p4477-yang.pdf	Carnegie Mellon University	USA
+p3485-booth.pdf	City University London	UK
+p1211-konrad.pdf	Stanford University-Dartmouth College	USA
+p5028-hearst.pdf	UC Berkeley-UC Merced	USA
+p5812-templier.pdf	University of Zurich-ETH Zurich	Switzerland
+p3335-warr.pdf	Google	USA
+p4968-blythe.pdf	Newcastle University-Northumbria University-STEIM	UK-Netherlands
+p2162-hamilton-fletcher.pdf	University of Sussex-LabIO	UK-UK-Portugal
+p297-de-vries.pdf	University of Twente	Netherlands
+p4286-jia.pdf	Penn State University	USA
+p721-ramos.pdf	Eindhoven University of Technology-Duncan of Jordanstone College of Art and Design-Institute of Clinical Neurosciences-University of Sydney-University of Technology Sydney-Australia Research Council Centre of Excellence in Cognition and its Disorders	Australia
+p3115-niels.pdf	University of Applied Sciences Luebeck-University of Hamburg	Germany-Germany-Germany
+p4378-cherng.pdf	National Chiao Tung University	Taiwan
+p1827-jay.pdf	University of Manchester	UK

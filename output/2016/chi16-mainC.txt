@@ -1,0 +1,51 @@
+file	affiliations	country
+p1294-bossavit.pdf	Public University of Navarre-University of Southampton	UK-Spain
+p5151-arif.pdf	Ryerson University-Ryerson University-Simon Fraser University-KAIST	Canada-Canada-Korea
+p3204-de-souza.pdf	Federal University of Para-University of Sao Paulo-University of Victoria	Brazil-Canada
+p5571-khajah.pdf	University of Colorado-University of Colorado-University of Colorado-University of Colorado-University of Colorado-University of Colorado-University of Washington-University of Washington-University of Colorado-University of Colorado	USA
+p745-waycott.pdf	The University of Melbourne-Swinburne University of Technology-RDNS Institute	Australia-Australia-Australia-Australia
+p5456-pizza.pdf	Sapienza University of Rome-University of Stockhom	Italy-Sweden
+p4000-mcduff.pdf	MIT	USA
+p397-bousseau.pdf	Universite Paris Saclay-Inria-University of Calgary	France-Canada
+p3180-chang.pdf	Carnegie Mellon University-Carnegie Mellon University	USA
+p2586-burnett.pdf	Oregon State University-Hewlett Packard	USA-USA
+p4884-profita.pdf	University of Colorado Boulder-University of Maryland College Park	USA
+p2796-soden.pdf	University of Colorado Boulder	USA
+p4216-poupyrev.pdf	Google	USA
+p4550-tanaka.pdf	IUPUI-University of Colorado Boulder	USA
+p3433-williamson.pdf	University of Glasgow-University of Glasgow	UK
+p26-garbett.pdf	Newcastle University-Newcastle University	UK
+p4711-van-berkel.pdf	University of Oulu	Finland
+p1597-gaver.pdf	University of London	UK
+p4366-jarusriboonchai.pdf	Tampere University of Technology-Tampere University of Technology	Finland
+p527-melicher.pdf	Carnegie Mellon University-University of Maryland College Park	USA
+p2343-ackad.pdf	The University of Sydney	Australia-Australia-Australia
+p3131-hook.pdf	KTH-SICS	Sweden
+p3232-kramer.pdf	RWTH Aachen University-Adobe Research	Germany-USA
+p4073-mendez.pdf	University of St Andrews	UK-UK-UK
+p5710-bentley.pdf	Yahoo	USA
+p4203-hsieh.pdf	Helsinki Institute for Information Technology-University Padova	Finland-Finland-Italy
+p3683-gupta.pdf	University of Toronto-University Lille-Inria	Canada-France
+p4005-quinn.pdf	University of Canterbury	New Zealand
+p1312-friedberg.pdf	University of Waterloo	Canada
+p309-schneider.pdf	University of Munich-Center for Digital Technology and Management 	Germany
+p6014-marquez-segura.pdf	Uppsala University-Stockholm University	Sweden
+p5092-kay.pdf	University of Washington-Tufts University	USA
+p3079-dahl.pdf	SINTEF ICT	Norway
+p5180-higuch.pdf	The University of Tokyo-The University of Tokyo	Japan
+p1846-yamanaka.pdf	Meiji University 	Japan-Japan
+p2150-tanaka.pdf	University of London	UK-UK
+p1021-mehrotra.pdf	University of Birmingham-University College London-University of Calgary-University of Ljubljana	UK-Canada-Slovenia
+p635-yarosh.pdf	University of California San Diego-University of Minnesota-University of Michigan-SPARK Experience	USA-USA-USA-USA
+p3895-ashktorab.pdf	University of Maryland College Park	USA
+p4521-kay.pdf	University of Washington-Arizona State University	USA
+p3559-introne.pdf	Michigan State University-Syracuse University-University of Missouri	USA
+p791-lindlbauer.pdf	Aarhus University-TU Berlin	Germany-Denmark
+p4622-miniukovich.pdf	University of Trento	Italy
+p1067-wacker.pdf	RWTH Aachen University-RWTH Aachen University	Germany
+p5350-zhang.pdf	North Carolina State University-Platfora Inc.	USA-USA-USA
+p5409-badam.pdf	University of Maryland College Park-Purdue University--Birla Institute of Technology and Science	USA-USA-India
+p3192-chen.pdf	University of Michigan	USA
+p1282-suzuki.pdf	University of Tsukuba-University of Tsukuba	Japan
+p13-johnson.pdf	University of Minnesota-Carnegie Mellon University-Wikimedia Foundation-Hasselt University	USA-Belgium
+p957-culbertson.pdf	Cornell University	USA

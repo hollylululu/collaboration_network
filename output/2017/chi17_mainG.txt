@@ -1,0 +1,41 @@
+file	affiliations	country
+p3151-chauhan.pdf	Department of Computer Science-Utah State University-Utah State University	USA
+p3254-pfeuffer.pdf	"Microsoft Research, Redmond, WA, , {kenh, mpahud, bibuxton}@microsoft.com-Interactive Systems, Lancaster University, , k.pfeuffer@lancaster.ac.uk-Interactive Systems, Lancaster University, , k.pfeuffer@lancaster.ac.uk"	USA-UK
+p3126-vlachokyriakos.pdf	Open Lab-University-University-University-University-University-University-University-University-Univ. of-Open Lab:	UK-Germany-Greece
+p2988-leeA.pdf	"IPD Lab, Graduate School of Creative Design Engineering, UNIST-IPD Lab, Graduate School of Creative Design Engineering, UNIST"	Korea
+p3095-weigelA.pdf	"Saarland University, Saarland Informatics Campus,-Saarland University, Saarland Informatics Campus,-Google Inc., Mountain View, California,-Google Inc., Mountain View, California,"	Germany-USA
+p2964-pschetzA.pdf	University of Edinburgh-University of Edinburgh	UK
+p2890-sobelA.pdf	"University of Washington, Seattle, WA, ; Microsoft Research, Redmond, WA,-University of Washington, Seattle, WA, ; Microsoft Research, Redmond, WA,-University of Washington, Seattle, WA, ; Microsoft Research, Redmond, WA,"	USA
+p3227-xia.pdf	"Microsoft Research, Redmond, WA, , {kenh, mpahud, xiaotu, bibuxton:}@microsoft.com-Dynamic Graphics Project Lab, University of Toronto, , haijunxia@dgp.toronto.edu-Dynamic Graphics Project Lab, University of Toronto, , haijunxia@dgp.toronto.edu-Dynamic Graphics Project Lab, University of Toronto, , haijunxia@dgp.toronto.edu"	USA-Canada
+p3045-smithA.pdf	"School of Computing & Information-Systems, University of Melbourne,-Systems, University of Melbourne,-Queensland University of-Queensland University of"	Australia-Australia-Australia
+p3138-aokiA.pdf	"University of California, Berkeley-University of California, Berkeley-University of Calgary-University of Calgary"	USA-Canada
+p3188-adarA.pdf	"University of Michigan,-University of Michigan,-University of Washington-University of Washington"	USA
+p3267-suraleA.pdf	"Cheriton School of Computer Science, University of Waterloo-Cheriton School of Computer Science, University of Waterloo-Cheriton School of Computer Science, University of Waterloo"	Canada
+p3163-devitoA.pdf	Northwestern University-Northwestern University-Northwestern University-Northwestern University-Northwestern University-Northwestern University	USA-USA-USA
+p2878-zhang.pdf	Microsoft Research-University of Washington-University of Washington-Microsoft Research	USA-USA-USA
+p2853-spielA.pdf	"TU Wien (Vienna University of Technology), Austria-TU Wien (Vienna University of Technology), Austria-Bauhaus-Universitaet Weimar,"	Germany-Austria
+p2976-krafftA.pdf	"∗Massachusettts Institute of Technology, †University of Washington-∗Massachusettts Institute of Technology, †University of Washington-∗Massachusettts Institute of Technology, †University of Washington"	USA
+p3011-dingA.pdf	University of Houston-University of Houston-University of Houston-University of Houston-East  Jiaotong University-East  Jiaotong University-University of Houston-University of Houston	USA-USA-China-China-USA
+p3115-schorrA.pdf	Stanford University-Stanford University-Department of Mechanical Engineering	USA
+p2952-feinbergA.pdf	School of Library and Information Science (SILS)-The University of North Carolina at Chapel Hill-The University of North Carolina at Chapel Hill	USA
+p2904-moritzA.pdf	"University of Washington-University of Washington-Microsoft Research-DMX, Microsoft Research"	USA
+p2865-boyd.pdf	"UC Irvine-Institute of Computing-Technology, CAS; University of-Technology, CAS; University of-UC Irvine"	USA-China-USA
+p3201-jahanbakhshA.pdf	University of Illinois at Urbana-University of Illinois at Urbana	USA
+p3175-chandrasekharanA.pdf	"Georgia Institute of Technology, University of Padua-Georgia Institute of Technology, University of Padua-Georgia Institute of Technology, University of Padua"	USA-Italy
+p3120-strasnickA.pdf	"Stanford University, Stanford, CA,-Stanford University, Stanford, CA,"	USA
+p3241-riche.pdf	"Microsoft,-Figure . Diary entries from analog and digital pen usage © Microsoft"	USA-USA-USA-USA
+p3083-satoA.pdf	"Graduate School of Design, Kyushu University-Graduate School of Design, Kyushu University-Graduate School of Design, Kyushu University-Faculty of Design, Kyushu University-Faculty of Design, Kyushu University"	Japan-Japan
+p2845-ng.pdf	"Glasgow Interactive Systems Group-School of Computing Science-University of Glasgow,-University of Glasgow,"	UK-Germany
+p3106-je.pdf	"Department of Mathematical Sciences,-Tung University, Hsinchu, Taiwan-Tung University, Hsinchu, Taiwan-Department of Industrial Design,"	Korea-Korea
+p3213-chancellorAFL.pdf		USA-USA-USA-USA-Netherlands
+p2826-steinberger.pdf	Queensland University of Technology (QUT)-Queensland University of Technology (QUT)	Australia
+p3071-klasnja.pdf	Group Health Research Insttute-Arizona State University-Arizona State University	USA-USA
+p2940-zhangA.pdf	"TopoGroups: Context-Preserving Visual Illustration-Purdue University-Purdue University-University of Maryland-University of Maryland-Arizona State University-Arizona State University-Figure . The TopoGroups technique showing multiple levels of spatial aggregation of social media posts around Cleveland, OH, during the-Republican National Convention. TopoGroups supports effective comparison, correlation and analysis of multi-scale aggregates by combining them"	USA
+p2928-kraljA.pdf	University of Vienna-University of Vienna-Simon Fraser University-Simon Fraser University-University of Vienna-University of Vienna	Canada-Austria
+p2840-mokA.pdf	"Department of Mechanical Engineering* and Communication†-Stanford University, Stanford, CA,-Stanford University, Stanford, CA,"	USA
+p3022-istanceA.pdf	University of Tampere-University of Tampere	Finland
+p3057-bhattacharya.pdf	"Human Centered Design and Engineering, DUB Group, University of Washington, Seattle,-Human Centered Design and Engineering, DUB Group, University of Washington, Seattle,-Human Centered Design and Engineering, DUB Group, University of Washington, Seattle,-Human Centered Design and Engineering, DUB Group, University of Washington, Seattle,-Psychiatry and Behavioral Sciences, Duke University, Durham,-Psychiatry and Behavioral Sciences, Duke University, Durham,"	USA-USA
+p2993-yaroshA.pdf	University of Minnesota-University of Minnesota	USA
+p2916-duA.pdf	University of Maryland-University of Maryland-Tongji University-Tongji University-University of Pittsburgh-University of Pittsburgh-Hong Kong University of-Hong Kong University of-Arizona State University-Arizona State University	USA-China
+p3034-schenkA.pdf	Technical University Munich-Technical University Munich	Germany
+p2998-karolusA.pdf	University of Stuttgart-University of Stuttgart-University of Stuttgart-University of Stuttgart-Max Planck Institute for-University of Stuttgart-University of Stuttgart	Germany

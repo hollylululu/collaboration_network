@@ -1,0 +1,50 @@
+file	affiliations	country
+p4872-boyd.pdf	UC Irvine-CICESE	USA-Mexico
+p5163-kim.pdf	KAIST	Korea
+p3883-kow.pdf	City University of Hong Kong-UC Irvine-Syracuse University	Hong Kong-USA-USA
+p5203-lee.pdf	Aalto University	Finland-Finland-Finland
+p3364-tadic.pdf	University of Siegen	Germany
+p2657-teevan.pdf	Microsoft Research-Microsoft Research-Microsoft Research	USA-USA-USA
+p1187-gerritsen.pdf	Carnegie Mellon University-Simon Fraser University	USA-Canada
+p140-carter.pdf	Duquesne University-Carnegie Mellon University	USA-USA-USA-USA
+p4921-pelikan.pdf	University of Osnabruck-Linkoping University	Germany-Sweden
+p5252-waddell.pdf	Penn State University-Drama Fever	USA
+p2442-soll.pdf	University of Hamburg-Hasselt University-University of Minnesota	USA-Germany-Belgium
+p5776-pfleging.pdf	"University of Munich-Clemson University, Clemson-University of Stuttgar-University of New Hampshire"	Germany-USA-Germany-USA
+p2295-martin.pdf	Australian National University	Australia-Australia-Australia-Australia-Australia-Australia-Australia-Australia
+p3717-khurelbaatar.pdf	The University of Electro-Communications	Japan
+p4908-verame.pdf	University of Southampton	UK
+p355-ghosh.pdf	University of California Berkeley	USA
+p3038-paul.pdf	GE Global Research	USA
+p5632-epstein.pdf	University of Washington	USA
+p4401-akazue.pdf	Glasgow Caledonian University-University of Strathclyde-Heriot Watt University-University of Glasgow	UK
+p1739-mark.pdf	Microsoft Research-MIT-UC Irvine	USA-USA-USA
+p5715-yue.pdf	National University of Singapore-Hong Kong University of Science and Technology	Hong Kong-Singapore
+p803-waern.pdf	Uppsala University	Sweden
+p6053-leigh.pdf	MIT	USA-USA
+p2075-liu.pdf	Univ Paris Sud - Inria - Telecom Paris Tech	France-France-France
+p1781-kirk.pdf	University of London-Aarhus University-National Hospital for Neurology and Neurosurgery-Hounslow and Richmond Community Health Care NHS Trust	UK
+p1881-moser.pdf	University of Michigan-University of Washington	USA-USA-USA
+p3857-ma.pdf	Cornell Tech-Stanford	USA-USA-USA
+p213-kim.pdf	KAIST	Korea
+p5076-haeuslschmid.pdf	University of Munich	Germany-Germany-Germany
+p2246-brewer.pdf	Northwestern University-Northwestern University-Microsoft Research-Northwestern University-Northwestern University	USA-USA-USA
+p2220-dell.pdf	Cornell Tech-Georgia Tech	USA-USA
+p931-ishak.pdf	Simon Fraser University-Facebook	Canada-USA
+p5801-jalaliniya.pdf	University of Copenhagen	Denmark
+p3403-chan.pdf	University of Calgary-Simon Fraser University-Dartmouth College	Canada-USA
+p1256-ringland.pdf	IUPUI-UC Irvine	USA
+p623-disalvo.pdf	Georgia Tech	USA-USA
+p1980-makino.pdf	The University of Tokyo	Japan
+p515-johnson.pdf	University of Minnesota-Hasselt University	USA-Belgium
+p1403-houston.pdf	Cornell University-University of Washington	USA-USA-USA
+p4489-sarker.pdf	University of Memphis-NIDA Intramural Research Program-Troy University-University of Michigan-University of Minnesota-Western Washington University-Johns Hopkins University	USA
+p4129-tyllinen.pdf	Aalto University-Helsinki University-Apotti	Finland-Finland-Finland
+p2233-avle.pdf	University of Michigan-University of Michigan	USA
+p2136-thieme.pdf	"HXD, Microsoft-School of Applied-School of-University College-University College-University College-University,-University,-Open Lab,-University,-University,-Department of-University of Texas,-University of Texas,"	UK-UK-UK-UK
+p887-peng.pdf	Cornell University-Cornell University	USA
+p4675-seyed.pdf	University of Calgary-Dartmouth College-University of Waterloo	USA-Canada
+p3277-marzo.pdf	Sussex University-Bristol University	UK-UK
+p4562-muender.pdf	University of Bremen-University of Saskatchewan	Germany-Canada
+p3817-gordon.pdf	Google-University of Rochester	USA
+p815-lingel.pdf	University of Pennsylvania	USA

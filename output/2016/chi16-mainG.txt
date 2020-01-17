@@ -1,0 +1,51 @@
+file	affiliations	country
+p3091-chandwani.pdf	Indian Institute of Management	India
+p5984-efrat.pdf	Bezalel Academy of Arts and Design-The Hebrew University of Jerusalem	Israel
+p1385-wiseman.pdf	University Of London-University College London-BBC	UK
+p3261-cauchard.pdf	Stanford University-University Lille	USA-France
+p3781-strohmeier.pdf	Queen's University	Canada
+p2945-johnson.pdf	Newcastle University-University of Dundee-Falmouth University	UK-UK-UK
+p470-williams.pdf	Harvard University-UC Berkeley-University of London-Stanford University-KAIST	Korea-USA
+p5311-piper.pdf	Northwestern University	USA
+p1585-pasquetto.pdf	UCLA-University of Illinois at Urbana Champaign	USA
+p4587-henrikson.pdf	University of Toronto-Inria	Canada-France
+p4722-cranshaw.pdf	Microsoft Research-Microsoft Research	USA-USA-USA
+p4250-goguey.pdf	"Inria-University of Waterloo-University de Lille,"	Canada-France
+p2332-mcintosh.pdf	University of Bristol-German Research Center for Artificial Intelligence-Saarland University	UK-Germany
+p1300-hasselqvist.pdf	KTH Royal Institute of Technology	Sweden-Sweden-Sweden
+p3450-johanson.pdf	University of Saskatchewan	Canada-Canada
+p2752-tiab.pdf	 University of Copenhagen	Denmark
+p1473-richard.pdf	Penn State University-University of Pennsylvania	USA-USA
+p125-wang.pdf	University of Oklahoma-Carnegie Mellon University	USA
+p3975-bruun.pdf	Aalborg University-University of Leicester	UK
+p4945-srinivasan.pdf	"Texas A & M University-Willow Garage, Inc."	USA-USA
+p5262-alan.pdf	University of Zurich-University of Southampton	UK-Switzerland
+p4154-ponsard.pdf	University of British Columbia	Canada
+p5517-mark.pdf	UC Irvine	USA
+p827-jenkins.pdf	Georgia Tech	USA-USA
+p2908-brubaker.pdf	University of Colorado Boulder-Facebook	USA
+p3767-sahoo.pdf	"University of Sussex-University of Copenhagen,"	UK-Denmark
+p4634-hinrichs.pdf	University of St Andrews-University of Konstanz	UK-Germany
+p1644-jung.pdf	University of Washington-Carnegie Mellon University-Penn State University-UC Santa Cruz-Technion Israel Institute of Technology-Palo Alto Research Center	USA-Israel
+p673-epstein.pdf	University of Washington-FXPAL	USA
+p4658-choi.pdf	Seoul National University-Samsung Electronics	Korea-Korea
+p49-bi.pdf	Google-Google	USA
+p552-van-kleek.pdf	University of Edinburgh-University of Oxford-Univ. of Southampton	UK-UK-UK-UK
+p5921-matthews.pdf	Google	USA
+p5743-wang.pdf	Zhejiang University-MIT	China-USA-USA-USA
+p4017-marsden.pdf	Heilbronn University-Heilbronn University	Germany
+p998-ko.pdf	KAIST-University of Tokyo	Korea-Korea-Japan-Korea
+p5337-hong.pdf	Georgia Tech-Emory University	USA
+p944-zhou.pdf	Harvard University	USA-USA-USA
+p1045-sivaraman.pdf	Bexley High School-Cornell University-edX	USA
+p1729-whittaker.pdf	UC Santa Cruz-Interactables	USA-USA
+p598-zhu.pdf	Carnegie Mellon University-University of Minnesota	USA
+p2645-suzuki.pdf	University of Colorado Boulder-Stanford University	USA
+p4122-kaufman.pdf	Dartmouth College-Carnegie Mellon University	USA
+p2740-rasmussen.pdf	Aarhus University-University of Copenhagen	Denmark
+p4573-irani.pdf	UC San Diego-IG Metall	USA-Germany
+p1426-fox.pdf	University of Washington	USA
+p1072-agapie.pdf	FXPAL-University of Washington	USA
+p564-grinberg.pdf	Facebook-Cornell Tech	USA
+p248-banovic.pdf	Inria-Carnegie Mellon University	USA
+p2508-gebhardt.pdf	ETH Zurich	Switzerland

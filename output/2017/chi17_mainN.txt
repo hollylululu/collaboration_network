@@ -1,0 +1,40 @@
+file	affiliations	country
+p6658-hill.pdf	Oregon State University-Oregon State University-Heilbronn University-Heilbronn University	USA-Germany
+p6523-bardzellA.pdf	Indiana University-Indiana University-Indiana University-Indiana University-Indiana University-Indiana University	USA-USA-USA
+p6620-otterbacherA.pdf	"Open University of Cyprus-Open University of Cyprus-Information School-University of Sheffield,-University of Sheffield,-Information School-University of Sheffield,-University of Sheffield,"	UK-Cyprus
+p6220-chenAmsk.pdf	"School of Information, Computer Science & Engineering, University of Michigan, Ann Arbor-School of Information, Computer Science & Engineering, University of Michigan, Ann Arbor-School of Information, Computer Science & Engineering, University of Michigan, Ann Arbor"	USA
+p6593-khotA.pdf	"Interaction Design Lab,-University of Melbourne,-University of Melbourne,-RMIT University,-RMIT University,-Exertion Games Lab-RMIT University,-RMIT University,"	Australia-Australia-Australia
+p6304-asadA.pdf	Georgia Institute of Technology	USA
+p6330-jacobsA.pdf	MIT Media Lab-Adobe Research	USA
+p6475-gruskyA.pdf	"Computer Science, Cornell University-Computer Science, Cornell University-Chartbeat, Inc."	USA
+p6208-mikamiAFL.pdf	The University of Tokyo-The University of Tokyo-The University of Tokyo-The University of Tokyo-The University of Tokyo-The University of Tokyo	Japan-Japan-Japan
+p6608-paayA.pdf	"Department of Computer Science / Research Centre for Socio+Interactive Design-Aalborg University, Denmark-Aalborg University, Denmark"	Denmark
+p6645-taylorA.pdf	Department of Communication-Department of Information Science-Cornell University-Cornell University	USA
+p6352-hallA.pdf	"*GroupLens Research, University of Minnesota; †Northwestern University; ‡Macalester College-*GroupLens Research, University of Minnesota; †Northwestern University; ‡Macalester College-*GroupLens Research, University of Minnesota; †Northwestern University; ‡Macalester College-*GroupLens Research, University of Minnesota; †Northwestern University; ‡Macalester College"	USA
+p6363-yangA.pdf	Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-University of Pittsburgh-University of Pittsburgh	USA
+p6672-hanafiA.pdf	New York University - Abu Dhabi-New York University - Abu Dhabi	UAE-USA
+p6569-ilisescuA.pdf	University College London-University College London-University College London-University College London-University College London-University College London-University of Bath-University of Bath-University College London-University College London-University College London	UK-Italy
+p6425-mcneill.pdf	Northumbria University-Northumbria University	UK
+p6381-balestraA.pdf	New York University-New York University-UC Berkeley	USA-Israel
+p6487-jabbarA.pdf	University of Copenhagen-University of Copenhagen	Denmark
+p6317-greenA.pdf	"Department of Computer and Information Sciences, Northumbria University, Newcastle upon Tyne, .-Department of Computer and Information Sciences, Northumbria University, Newcastle upon Tyne, .-Department of Computer and Information Sciences, Northumbria University, Newcastle upon Tyne, .-Open Lab, Newcastle University, Newcastle upon Tyne, . s.bowen@ncl.ac.uk; p.c.wright@ncl.ac.uk-Open Lab, Newcastle University, Newcastle upon Tyne, . s.bowen@ncl.ac.uk; p.c.wright@ncl.ac.uk-Open Lab, Newcastle University, Newcastle upon Tyne, . s.bowen@ncl.ac.uk; p.c.wright@ncl.ac.uk-Digital Creativity Labs, Department of Theatre, Film and Television, University of York, York, . jonathan.hook@york.ac.uk-Digital Creativity Labs, Department of Theatre, Film and Television, University of York, York, . jonathan.hook@york.ac.uk-Digital Creativity Labs, Department of Theatre, Film and Television, University of York, York, . jonathan.hook@york.ac.uk-Digital Creativity Labs, Department of Theatre, Film and Television, University of York, York, . jonathan.hook@york.ac.uk"	UK-UK-UK
+p6559-kurzhalsAFL.pdf	"Visualization Research Center (VISUS)-Department of Computer Science-University of Stuttgart,-University of Stuttgart,-The University of Hong Kong, Hong Kong-The University of Hong Kong, Hong Kong"	Germany-Hong Kong
+p6342-renA.pdf	University of Southern California-University of Southern California-University of Southern California-University of Southern California	USA
+p6376-footeA.pdf	Northwestern University-Northwestern University-Northwestern University-Northwestern University-Northwestern University-Northwestern University	USA
+p6581-piyaA.pdf	"School of Mechanical Engineering, Purdue University, West Lafayette, IN,-School of Mechanical Engineering, Purdue University, West Lafayette, IN,-School of Mechanical Engineering, Purdue University, West Lafayette, IN,-College of Information Studies, University of Maryland, College Park, MD,-College of Information Studies, University of Maryland, College Park, MD,-College of Information Studies, University of Maryland, College Park, MD,"	USA-USA
+p6412-oliveiraA.pdf	University of Florida New York University ‡-University of Florida New York University ‡	USA
+p6245-d-angeloA.pdf	Northwestern University-Northwestern University-Microsoft Research	USA-USA
+p6499-sasA.pdf	Lancaster University-Lancaster University-Universiti Teknologi MARA	UK-Malaysia
+p6291-baumerA.pdf	Lehigh University-Lehigh University	USA
+p6195-foongA.pdf	"NUS-HCI Lab,-Ludwig-Maximilians-Universität,-National University of Singapore, Singapore-National University of Singapore, Singapore"	Germany-Singapore
+p6547-mohrA.pdf	Graz University of Technology Salzburg University of Applied Sciences Know Center GmbH-Graz University of Technology Salzburg University of Applied Sciences Know Center GmbH-Graz University of Technology Salzburg University of Applied Sciences Know Center GmbH	Austria
+p6184-parry-hillA.pdf	Golisano College of Computing-Rochester Institute of Technology-School of Informatics and Computing-Indiana University Bloomington-Indiana University Bloomington-HCI Institute-Carnegie Mellon University-Carnegie Mellon University	USA
+p6511-jack.pdf	Cornell University-Cornell University-Cornell University-Cornell University	USA-UAE
+p6461-taylorA.pdf	Queensland University of Technology (QUT)-Queensland University of Technology (QUT)	Australia
+p6232-srinivasa-ragavanA.pdf	Oregon State University-Oregon State University-University of Tulsa-University of Tulsa	USA-USA-USA
+p6438-kasaharaA.pdf	Yamaguchi Center for Arts and-Keio Univ.	Japan-Japan-Japan
+p6386-nassir.pdf	"Interaction Design and Human Practice Lab-University of Technology Sydney,-University of Technology Sydney,"	Australia
+p6536-higuchA.pdf	The University of Tokyo-The University of Tokyo	Japan
+p6398-durrant.pdf	Northumbria University-Northumbria University-Newcastle University-Newcastle University-University of Dundee-University of Dundee	UK-UK-UK
+p6481-mullerA.pdf	HCI Group-University of Konstanz-University of Konstanz-Aarhus University-Aarhus University-HCI Group-University of Konstanz-University of Konstanz	Denmark-Germany
+p6632-ambeA.pdf	Queensland University of Technology (QUT)-Queensland University of Technology (QUT)	Australia

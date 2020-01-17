@@ -1,0 +1,51 @@
+file	affiliations	country
+paper421.pdf	University of Washington,-University of Washington,-Snap Inc.-Snap Inc.-Snap Inc.-Snap Inc.	
+paper435.pdf	Department of Computer Science, Aalto University-Department of Computer Science, Aalto University-Department of Computer Science, Aalto University	Finland
+paper353.pdf	Cornell University-Cornell University-Cornell University-Cornell University	
+paper409.pdf	University, Taiwan-University, Taiwan-University, Taiwan-University, Taiwan-Brain Research Center-University, Taiwan-University, Taiwan-University, Taiwan-University, Taiwan	
+paper384.pdf	IPD Lab, Graduate School of Creative Design Engineering, UNIST-IPD Lab, Graduate School of Creative Design Engineering, UNIST	Korea
+paper390.pdf	Brunel University London-Brunel University London-Brunel University London-Brunel University London	United Kingdom-United Kingdom
+paper623.pdf	LRI, Univ. Paris-Sud, CNRS,-Inria,-Université Paris-Saclay-Aarhus University-Aarhus University-University of British-University of British-LRI, Univ. Paris-Sud, CNRS,-Inria,-Université Paris-Saclay	France-Canada-France
+paper145.pdf	Università della Svizzera italiana, Lugano, Switzerland-Simon Fraser University, Surrey, British Columbia,-Simon Fraser University, Surrey, British Columbia,	Japan-Canada
+paper151.pdf		United States
+paper637.pdf		
+paper179.pdf	Georgia Institute of Technology-Georgia Institute of Technology-Georgia Institute of Technology	
+paper186.pdf	School of Computer Science and-Statistics, Trinity College Dublin,-School of Public Health, Imperial-College London, London, United-School of Public Health, Imperial-College London, London, United-Microsoft Research Cambridge,-School of Computer Science and-Statistics, Trinity College Dublin,-School of Public Health, Imperial-College London, London, United-Global eHealth Unit, Department of-Imperial College London, London,	Ireland-United Kingdom-Ireland-United Kingdom
+paper192.pdf	University of Maryland-University of Maryland-College Park, MD,-SAS Institute, Inc.-SAS Institute, Inc.-University of Maryland-University of Maryland-College Park, MD,	USA-USA-USA-USA
+paper031.pdf	Social Support in Online Cancer Support Groups-School of Computer Science, Carnegie Mellon University-School of Computer Science, Carnegie Mellon University-School of Computer Science, Carnegie Mellon University	
+paper025.pdf	HCI Lab, School of Computing, KAIST-HCI Lab, School of Computing, KAIST-HCI Lab, School of Computing, KAIST-HCI Lab, School of Computing, KAIST-HCI Lab, School of Computing, KAIST-HCI Lab, School of Computing, KAIST	Korea-Korea-Korea-Korea
+paper019.pdf	Facebook-Microsoft Research-Carnegie Mellon University-Carnegie Mellon University-Microsoft Research	United States-United States-United States
+paper233.pdf	Department of Computer and Systems-Sciences, Stockholm University-Sciences, Stockholm University-International University of-International University of-Open Lab, Newcastle University-Open Lab, Newcastle University-Open Lab, Newcastle University-Department of Computer Science,-Boston University-Boston University-Microsoft Research India	Sweden-UK-USA
+paper555.pdf	University of Saskatchewan / Agriculture and Agri-Food-University of Saskatchewan / Agriculture and Agri-Food	Canada
+paper541.pdf	University of Ontario Institute of Technology-University of Ontario Institute of Technology-University of Ontario Institute of Technology-University of Ontario Institute of Technology-University of Ontario Institute of Technology-University of Ontario Institute of Technology	Canada-Canada
+paper227.pdf	The Information School-University of Washington-University of Washington-The Information School-University of Washington-University of Washington	
+paper569.pdf	Department of Information-University of Bergen-University of Bergen-Haukeland University Hospital-Haukeland University Hospital-Department of Information-University of Bergen-University of Bergen	Norway-Norway-Norway
+paper596.pdf	University of Michigan School of Information-University of Michigan School of Information-University of Michigan School of Information	
+paper582.pdf	University College London-University College London-University College London-University College London-University College London-University College London-University of Gothenburg-University of Gothenburg-University of Gothenburg-University of Gothenburg-University College London-University College London-University College London	UK-UK-Sweden-Sweden-UK
+paper583.pdf	Sorbonne Université, CNRS, ISIR-Sorbonne Université, CNRS, ISIR-Sorbonne Université, CNRS, ISIR-Sorbonne Université-Sorbonne Université, CNRS, ISIR	France-France-France-France-France-France
+paper597.pdf		Italy-Italy-Italy-Italy-Italy-Italy
+paper568.pdf	University of Copenhagen-University of Copenhagen	
+paper540.pdf	University of Illinois Urbana-Champaign-University of Illinois Urbana-Champaign	USA
+paper226.pdf	FIT Lab, Computational Foundry-Swansea University, Swansea,-Swansea University, Swansea,-FIT Lab, Computational Foundry-Swansea University, Swansea,-Swansea University, Swansea,-Swansea University, Swansea,-Swansea University, Swansea,	UK-UK-UK
+paper232.pdf	Hong Kong University of Science and-Hong Kong University of Science and-Hong Kong University of Science and-Hong Kong University of Science and-University of Stuttgart-University of Stuttgart	
+paper554.pdf	Department of Computer Science, Department of Exercise and Health Sciences, University of Massachusetts Boston-Department of Computer Science, Department of Exercise and Health Sciences, University of Massachusetts Boston-Department of Computer Science, Department of Exercise and Health Sciences, University of Massachusetts Boston-Department of Computer Science, George Mason University-Department of Computer Science, George Mason University-Department of Computer Science, George Mason University	
+paper018.pdf	University of Washington-University of Washington	
+paper024.pdf	Department of Computer Science and Technology, Tsinghua University, Beijing,-Department of Computer Science and Technology, Tsinghua University, Beijing,-Department of Computer Science and Technology, Tsinghua University, Beijing,-Key Laboratory of Pervasive Computing, Ministry of Education,-Key Laboratory of Pervasive Computing, Ministry of Education,-Global Innovation eXchange Institute, Tsinghua University, Beijing,-Global Innovation eXchange Institute, Tsinghua University, Beijing,-Global Innovation eXchange Institute, Tsinghua University, Beijing,-Department of Computer Science, Dartmouth College, Hanover, New Hampshire,-Department of Computer Science, Dartmouth College, Hanover, New Hampshire,	China-China-China-United States
+paper030.pdf	Mixed Reality Lab, University of Nottingham ; Music & Sound Knowledge Group, Aalburg University;-Mixed Reality Lab, University of Nottingham ; Music & Sound Knowledge Group, Aalburg University;-Mixed Reality Lab, University of Nottingham ; Music & Sound Knowledge Group, Aalburg University;-Mixed Reality Lab, University of Nottingham ; Music & Sound Knowledge Group, Aalburg University;-Leiden University, ; Royal Holloway, University of London;-Leiden University, ; Royal Holloway, University of London;-Centre for Digital Music, Queen Mary University of London-Centre for Digital Music, Queen Mary University of London	Netherlands
+paper193.pdf	University of Toronto-University of Toronto-University of Toronto-University of Toronto-University of Toronto-University of Toronto	
+paper187.pdf	Cheriton School of Computer Science	Canada
+paper178.pdf	Purdue University-Purdue University-Purdue University-Purdue University	
+paper150.pdf	Saarland University-Saarland University	
+paper636.pdf	The Information School-DUB Group-University of Washington-University of Washington-Google, Inc.-Google, Inc.-The Information School-DUB Group-University of Washington-University of Washington	USA-USA-USA
+paper622.pdf	MIT Media Lab-Adobe Research-Adobe Research	
+paper144.pdf	University of Washington-University of Washington-Colorado State University-Colorado State University	Germany-Germany-Germany-Germany-USA-Germany-USA
+paper391.pdf	Department of Engineering-University of Cambridge-University of Cambridge-Department of Engineering-University of Cambridge-University of Cambridge	United Kingdom-United Kingdom
+paper385.pdf	City, University of London-City, University of London-City, University of London-City, University of London-City, University of London-City, University of London-City, University of London-City, University of London	UK-UK-UK-UK
+paper408.pdf	University of Copenhagen-University of Copenhagen-University of Copenhagen-University of Copenhagen-Monash University-Monash University-University of Copenhagen-University of Copenhagen-University of Copenhagen-University of Copenhagen	Australia
+paper434.pdf	Newcastle University-Newcastle University-Monash University-Monash University-Newcastle University-Newcastle University	UK-Australia-UK
+paper352.pdf	University of Technology Sydney,-University of Technology Sydney,-University of Technology Sydney,-University of Technology Sydney,	Australia-Australia
+paper346.pdf	UIUC-Adobe Research-Adobe Research & UIUC-Adobe Research & UIUC	
+paper420.pdf	University of Regensburg-University of Regensburg-University of Regensburg-University of Regensburg-University of Regensburg-University of Regensburg	Germany-Germany-Germany
+paper350.pdf	Stanford University,-Stanford University,-University of Washington,-University of Washington,-Georgia Institute of Technology,-Georgia Institute of Technology,	USA-USA-USA-USA
+paper436.pdf	Department of Design-Aalto University-Aalto University-Department of CSE-Chalmers University of Technology-Chalmers University of Technology-Department of Design-Aalto University-Aalto University	Finland-Sweden-Finland
+paper422.pdf	Eindhoven University of Technology-Eindhoven University of Technology-UCL Interaction Centre-University College London-University College London-University College London-Department of Computer Science-University of Bristol-University of Bristol	Netherlands-United Kingdom-United Kingdom

@@ -1,0 +1,17 @@
+file	affiliations	country
+paper515.pdf	Microsoft Research	USA
+paper501.pdf	"Department of Industrial Design, KAIST"	Korea
+paper267.pdf	"Lancaster University, Lancaster, , [r.mcnaney; c.bull]@lancaster.ac.uk-Lancaster University, Lancaster, , [r.mcnaney; c.bull]@lancaster.ac.uk-Newcastle University, Newcastle upon Tyne, , [helen.stringer; d.richardson]@ncl.ac.uk-Newcastle University, Newcastle upon Tyne, , [helen.stringer; d.richardson]@ncl.ac.uk"	UK-UK
+paper139.pdf	"School of Information, The-University of Texas at Austin-University of Texas at Austin"	USA
+paper663.pdf	"University of Science-University of Science-IDVX Lab, East-University-University-IDVX Lab, Tongji-University and-University and-University of Science-University of Science-IDVX Lab, Tongji-University-University-Beijing University of-Beijing University of-University of North-University of North-University in St.-University in St."	China-USA
+paper105.pdf	"HCDE+, Information School^, Department of Sociology*-HCDE+, Information School^, Department of Sociology*-University of Washington, Seattle, WA-University of Washington, Seattle, WA"	USA
+paper111.pdf	"Microsoft Research NE,"	USA-Qatar-Switzerland
+paper57.pdf	University of Washington-University of Washington-University of Washington-University of Washington-University of Washington-University of Washington	USA
+paper43.pdf	Department of Engineering-University of Cambridge-University of Cambridge-School of Computer Science-University of St Andrews-University of St Andrews-Department of Engineering-University of Cambridge-University of Cambridge	UK
+paper449.pdf	"Carnegie Mellon University, Singapore Management University, University of Oxford-Carnegie Mellon University, Singapore Management University, University of Oxford-McMaster University, TurkerNation.com, West Virginia University, University of Pennsylvania-McMaster University, TurkerNation.com, West Virginia University, University of Pennsylvania"	Singapore-USA-UK-Canada
+paper307.pdf	"Univ. of California, Irvine"	USA-USA-USA-USA
+paper461.pdf	University of Technology-University of Technology-Media Informatics Group-Kepler University Linz-Kepler University Linz-Kepler University Linz-Kepler University Linz	Sweden-Germany
+paper94.pdf	"Simon Fraser University, Surrey, , {rwakkary, doogjes, hwlin, shauser} @sfu.ca-Simon Fraser University, Surrey, , {rwakkary, doogjes, hwlin, shauser} @sfu.ca-Eindhoven University of Technology, Eindhoven, , {r.l.wakkary} @tue.nl-Eindhoven University of Technology, Eindhoven, , {r.l.wakkary} @tue.nl"	Canada-Netherlands
+paper80.pdf	University of Torino-University of Torino	Italy
+paper475.pdf	"City, University of London-City, University of London-University of Bergen, P.O.Box-University of Bergen, P.O.Box-Institute Communica-"	UK-Norway-Greece
+paper313.pdf	"Cheriton School of Computer Science, University of Waterloo-Cheriton School of Computer Science, University of Waterloo-Cheriton School of Computer Science, University of Waterloo"	Canada

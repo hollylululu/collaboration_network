@@ -1,0 +1,47 @@
+Country	ID	Color	pubCount
+Korea	0	#fffac8	43
+USA	1	#e6194B	523
+Finland	2	#42d4f4	19
+UK	3	#42d4f4	167
+Germany	4	#42d4f4	108
+Denmark	5	#42d4f4	30
+Canada	6	#e6194B	89
+Israel	7	#fffac8	6
+Philippines	8	#fffac8	1
+France	9	#42d4f4	37
+Switzerland	10	#42d4f4	14
+China	11	#fffac8	26
+Hong Kong	12	#fffac8	8
+Austria	13	#42d4f4	7
+Ireland	14	#42d4f4	5
+Sweden	15	#42d4f4	26
+Italy	16	#42d4f4	2
+Hungary	17	#42d4f4	1
+Australia	18	#a9a9a9	22
+Netherlands	19	#42d4f4	20
+Japan	20	#fffac8	34
+Taiwan	21	#fffac8	10
+Singapore	22	#fffac8	9
+Paraguay	23	#fabebe	1
+Brazil	24	#fabebe	2
+Costa Rica	25	#e6194B	1
+Rwanda	26	#aaffc3	1
+Tanzania	27	#aaffc3	1
+Pakistan	28	#fffac8	1
+Vietnam	29	#fffac8	1
+New Zealand	30	#a9a9a9	5
+India	31	#fffac8	7
+Belgium	32	#42d4f4	3
+Argentina	33	#fabebe	1
+Spain	34	#42d4f4	2
+Ecuador	35	#fabebe	3
+South Africa	36	#aaffc3	2
+Portugal	37	#42d4f4	5
+Cyprus	38	#42d4f4	2
+Romania	39	#42d4f4	1
+Qatar	40	#fffac8	2
+Greece	41	#42d4f4	2
+Saudi Arabia	42	#fffac8	1
+Iran	43	#fffac8	1
+Uganda	44	#aaffc3	1
+Norway	45	#42d4f4	1

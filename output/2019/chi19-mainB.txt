@@ -1,0 +1,51 @@
+file	affiliations	country
+paper451.pdf		USA-USA
+paper479.pdf	University of Michigan School of Information-University of Michigan School of Information-University of Michigan School of Information-Northwestern University-Northwestern University-University of Michigan School of Information-University of Michigan School of Information-University of Michigan School of Information-University of Michigan School of Information-University of Michigan School of Information-University of Michigan School of Information	
+paper309.pdf	Northwestern University-Northwestern University-Adobe Research-Northwestern University-Northwestern University-University of Illinois at Urbana-University of Illinois at Urbana-Adobe Research	USA-USA-USA-USA-USA
+paper321.pdf	University of Tsukuba-University of Tsukuba-University of Tsukuba-University of Tsukuba-University of Tsukuba-University of Tsukuba	Japan-Japan-Japan
+paper447.pdf	MIT Media Lab-MIT Media Lab-MIT Media Lab	
+paper453.pdf	The Role of Google in Shaping Attention to News Information-School of Communication-Northwestern University-Northwestern University	
+paper335.pdf	Heilbronn University-Heilbronn University	Germany
+paper484.pdf	KAIST ( Advanced Institute of Science and Technology)-Department of Industrial Design	Korea-Korea
+paper490.pdf	AIT Austrian Institute of Technology GmbH, Center for Technology Experience-AIT Austrian Institute of Technology GmbH, Center for Technology Experience-University of Salzburg, Center for Human-Computer Interaction-University of Salzburg, Center for Human-Computer Interaction-University of Salzburg, Center for Human-Computer Interaction	
+paper679.pdf	Northumbria University-Northumbria University-UCL Knowledge Lab-UCL Knowledge Lab-UCL Institute of Education-UCL Institute of Education-UCL Knowledge Lab-UCL Knowledge Lab-UCL Institute of Education-UCL Institute of Education-Canterbury Christ Church University-Canterbury Christ Church University-Royal Institute of Technology (KTH)-Northumbria University-Northumbria University	UK-UK-UK-UK-UK-UK-Sweden-UK
+paper645.pdf	Monash University-Monash University-RMIT University-RMIT University-RMIT University-RMIT University-RMIT University-RMIT University-Client Computing Group	Australia-Australia-Australia-Australia-Australia-USA
+paper123.pdf	School of Computer Science, The University of Manchester-School of Computer Science, The University of Manchester-School of Computer Science, The University of Manchester-CR Manchester Institute, and The Christie NHS Foundation	UK-UK
+paper137.pdf	School of Information, University of Michigan-School of Information, University of Michigan-School of Information, University of Michigan	
+paper651.pdf	Parkview Research Center-Parkview Research Center-Indiana University, IUPUI-Indiana University, IUPUI-Parkview Research Center-Georgia Institute of Technology	
+paper686.pdf	University of Glasgow-University of Glasgow	UK-Germany-Germany
+paper692.pdf	*University College London,-*University College London,-*University College London,-†Indiana University Bloomington,-†Indiana University Bloomington,	UK-USA
+paper057.pdf	Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University-Carnegie Mellon University	
+paper043.pdf	A Comparative Lab Study-University of Southampton-University of Southampton-University College London-University College London-University College London-University College London-University College London-University College London-St Anne’s College, Oxford University-St Anne’s College, Oxford University-St Anne’s College, Oxford University-University College London-University College London-University College London-University of Southampton-University of Southampton	UK-UK-UK-UK-UK-UK
+paper094.pdf	University of Washington, Seattle, Washington,  WA-University of Washington, Seattle, Washington,  WA	UK-United States
+paper080.pdf	University of Glasgow-University of Glasgow-University of Glasgow-University of Glasgow-University of Glasgow-University of Glasgow	
+paper269.pdf	University of Notre Dame-University of Notre Dame	
+paper255.pdf	The Information School-DUB Group-University of Washington-University of Washington-Microsoft Research-The Information School-DUB Group-University of Washington-University of Washington	USA-USA-USA
+paper533.pdf	University of Saskatchewan-University of Saskatchewan-University of British Columbia-University of British Columbia	
+paper527.pdf	University of Maryland, College Park-University of Maryland, College Park-University of Maryland, College Park	USA
+paper241.pdf	University of York,-University of York,-Christian University, Indonesia-Christian University, Indonesia-University of York,-University of York,-Digital Creativity Labs-University of York,-University of York,	UK-UK-UK
+paper296.pdf	Columbia University-Columbia University-Columbia University-Columbia University	
+paper282.pdf	Privacy, Power, and Invisible Labor on Amazon-Cornell University-Cornell University-Cornell University-Cornell University	
+paper283.pdf	University of California, Berkeley-University of California, Berkeley	
+paper297.pdf	Design Lab, UC San Diego-Design Lab, UC San Diego-Design Lab, UC San Diego-Design Lab, UC San Diego-Adobe Research-Design Lab, UC San Diego-Design Lab, UC San Diego	
+paper526.pdf	National Chiao Tung University, Hsinchu, Taiwan-National Chiao Tung University, Hsinchu, Taiwan-National Chengchi University, Taipei, Taiwan – {, chienru}@nccu.edu.tw-National Chengchi University, Taipei, Taiwan – {, chienru}@nccu.edu.tw-National Tsing Hua University, Hsinchu, Taiwan – that_charles@gapp.nthu.edu.tw-National Tsing Hua University, Hsinchu, Taiwan – that_charles@gapp.nthu.edu.tw	
+paper240.pdf	NTT Communication Science Laboratories	Japan
+paper254.pdf		USA-USA-USA
+paper532.pdf		United Kingdom-Germany
+paper268.pdf	Paul G. Allen School of Computer Science & Engineering-University of Washington-University of Washington	
+paper081.pdf	Harvard University, Cambridge, MA,-Harvard University, Cambridge, MA,-Adobe Research,	USA-USA
+paper095.pdf	Department of Computer Science, Cornell University-Department of Computer Science, Cornell University-Department of Computer Science, Cornell University	
+paper042.pdf	Microsoft Research-Microsoft Research-Microsoft Research-Microsoft Research-Univ. Paris-Sud, CNRS-Université Paris-Saclay-Université Paris-Saclay-Microsoft Research	USA-USA-USA-USA-France-France-USA
+paper056.pdf	Weave Lab, IIIT-Delhi-Weave Lab, IIIT-Delhi-Weave Lab, IIIT-Delhi-Weave Lab, IIIT-Delhi-Weave Lab, IIIT-Delhi-Weave Lab, IIIT-Delhi	
+paper693.pdf		
+paper687.pdf	University of Toronto-University of Toronto-Microsoft Research-University of Toronto-University of Toronto-University of Toronto-University of Toronto	Canada-Canada-Canada-Canada
+paper136.pdf	*Pennsylvania State University, †Fu-Jen University-*Pennsylvania State University, †Fu-Jen University	
+paper650.pdf	City, University of London-City, University of London-City, University of London-City, University of London-City, University of London-City, University of London-City, University of London-City, University of London-City, University of London-City, University of London	UK-UK-UK-UK-UK
+paper644.pdf	Univ. Paris-Sud & CNRS (LRI), Inria,-Univ. Paris-Sud & CNRS (LRI), Inria,-Univ. Paris-Saclay-Univ. Paris-Saclay-Univ. Paris-Saclay-Univ. Paris-Saclay-Univ. Paris-Saclay	
+paper122.pdf	†Open Lab, Newcastle University; ‡ Faculty of Information Technology, Monash University-†Open Lab, Newcastle University; ‡ Faculty of Information Technology, Monash University-†Open Lab, Newcastle University; ‡ Faculty of Information Technology, Monash University	Australia-UK
+paper678.pdf	Social and Emotional Technology Lab-Social and Emotional Technology Lab-Social and Emotional Technology Lab-UC Santa Cruz-UC Santa Cruz-UC Santa Cruz-Social and Emotional Technology Lab-UC Santa Cruz-University of Southern Denmark-University of Southern Denmark	
+paper491.pdf	Institute of Cartography and-Institute of Cartography and-Department of Geography,-University of Canterbury-University of Canterbury-Institute of Cartography and	
+paper485.pdf	University of Waterloo, , Université de Lille, , Inria,-University of Waterloo, , Université de Lille, , Inria,-University of Waterloo, , Université de Lille, , Inria,	Canada-France
+paper452.pdf	The University of Tokyo, JST PRESTO-The University of Tokyo, JST PRESTO	Japan
+paper334.pdf	College of Computing and Informatics-Drexel University-Drexel University	USA
+paper320.pdf	Facebook Reality Labs-Facebook Reality Labs-Facebook Reality Labs-Facebook Reality Labs-Facebook Reality Labs-Facebook Reality Labs-Facebook Reality Labs-Facebook Reality Labs-Facebook Reality Labs-Facebook Reality Labs	

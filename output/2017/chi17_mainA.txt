@@ -1,0 +1,48 @@
+file	affiliations	country
+p85-bentleyA.pdf	Yahoo	USA
+p61-zugerA.pdf	University of Zuric-University of Zurich-ABB Corporate research	USA-Switzerland
+p73-kokkalisA.pdf	"Stanford University, UC San Diego-Stanford University, UC San Diego-Stanford University, UC San Diego"	USA
+p146-birbeck.pdf	"Open Lab, Newcastle University, Newcastle upon Tyne, , {nataly.birbeck, kellie.morrissey,-Open Lab, Newcastle University, Newcastle upon Tyne, , {nataly.birbeck, kellie.morrissey,-Open Lab, Newcastle University, Newcastle upon Tyne, , {nataly.birbeck, kellie.morrissey,-Northumbria University, Newcastle upon Tyne, , shaun.lawson@northumbria.ac.uk-Northumbria University, Newcastle upon Tyne, , shaun.lawson@northumbria.ac.uk-Institute of Health & Society, Newcastle University, Newcastle upon Tyne, ,-Institute of Health & Society, Newcastle University, Newcastle upon Tyne, ,-Institute of Health & Society, Newcastle University, Newcastle upon Tyne, ,"	UK-UK-UK
+p1-zhangA.pdf	"Human Computer Interaction Institute, Carnegie Mellon University"	USA
+p387-huhA.pdf	Oregon State University-Oregon State University-Sungkyunkwan University-Sungkyunkwan University-Honeywell ACS Labs-Oregon State University-Oregon State University-University of British Columbia-University of British Columbia	USA-Canada
+p405-sirkinA.pdf	"Center for Design Research, Stanford University, CA-Center for Design Research, Stanford University, CA-Center for Design Research, Stanford University, CA"	USA
+p170-manikondaA.pdf	"School of Computing, Informatics, and Decision-School of Interactive Computing-Arizona State University-Arizona State University-College of Computing"	USA
+p255-horodniczyA.pdf	"Centre for Intelligent Machines, McGill University-Centre for Intelligent Machines, McGill University"	Canada
+p278-doveA.pdf	"CAVI, Aarhus University-CAVI, Aarhus University-HCII, Carnegie Mellon University-HCII, Carnegie Mellon University"	USA-Denmark
+p348-xuA.pdf	"University of California, San Diego-University of California, San Diego"	USA
+p208-gutwinA.pdf	Department of Computer Science-University of Saskatchewan-University of Saskatchewan-University of Canterbury-University of Canterbury	Canada-New Zealand
+p260-goriAFL.pdf	Université Paris-Saclay	France
+p392-van-der-heiden.pdf	Utrecht University-Utrecht University-Microsoft Research-Utrecht University-Utrecht University	Netherlands-USA-Netherlands
+p182-feuston.pdf	Northwestern University-Northwestern University	USA
+p232-yamanakaA.pdf	Meiji University and JSPS-Meiji University and JSPS-Simon Fraser University-Simon Fraser University-Meiji University-Meiji University	Japan-Canada-Japan
+p325-choiA.pdf	"() Department of Communication Arts, University of Wisconsin–Madison-() Department of Communication Arts, University of Wisconsin–Madison-() Department of Communication Arts, University of Wisconsin–Madison-() School of Journalism and Mass Communication, University of Wisconsin–Madison-() School of Journalism and Mass Communication, University of Wisconsin–Madison-() School of Journalism and Mass Communication, University of Wisconsin–Madison-() Department of Psychology, University of California-() Department of Psychology, University of California-() Department of Psychology, University of California-() Department of Computer Sciences, University of Wisconsin–Madison-() Department of Computer Sciences, University of Wisconsin–Madison-() Department of Computer Sciences, University of Wisconsin–Madison"	USA
+p289-gonzalesA.pdf	Indiana University-Indiana University	USA
+p430-southernA.pdf	College of Computing-Georgia Institute of Technology	USA
+p342-newhart.pdf	My Student is a Robot:  How Schools Manage-University of California Irvine-University of California Irvine-University of California Irvine-University of California Irvine-Department of Informatics-School of Education	USA-USA
+p28-amoresA.pdf	"MIT Medialab, MIT Medialab"	USA-USA
+p195-sarracinoA.pdf	UC San Diego-Scripps College-UC San Diego	USA
+p374-liuA.pdf	Rutgers University-Rutgers University	USA
+p244-nancelA.pdf	"Cheriton School of Computer Science, University of Waterloo,-Cheriton School of Computer Science, University of Waterloo,-Cheriton School of Computer Science, University of Waterloo,-Aalto University, Helsinki,-Aalto University, Helsinki,-University of Lille & Inria Lille,-University of Lille & Inria Lille,-University of Lille & Inria Lille,"	Canada-Finland-France
+p121-sydowA.pdf	Stockholm University-Stockholm University-Södertörn University-Södertörn University-Södertörn University &-Södertörn University &-Stockholm University-Stockholm University	Sweden-Sweden-Sweden
+p35-evans.pdf	"Group Touch: Distinguishing Tabletop Users in Group-The Information School, Computer Science & Engineering-DUB Group | University of Washington-DUB Group | University of Washington-DUB Group | University of Washington"	USA
+p109-chu.pdf	The StoryLab-TEILab-Texas A&M University-Texas A&M University	USA
+p220-dezaA.pdf	"UC Santa Barbara-UC Santa Barbara-Center,-Sciences, UC Santa Barbara"	USA-USA
+p158-yamashita.pdf	Science Labs.-University of-University of-University-University	Japan
+p336-zagaA.pdf	"Human Media Interaction, University of Twente, Enschede, The-Human Media Interaction, University of Twente, Enschede, The"	Netherlands
+p96-somanathA.pdf	"Learners using Arduino at a High School in India-University of Calgary, University of Ontario Institute of Technology-University of Calgary, University of Ontario Institute of Technology-University of Calgary, University of Ontario Institute of Technology"	Canada
+p265-lindleyA.pdf	Lancaster University-Lancaster University-Lancaster University-Lancaster University-Lancaster University-Lancaster University	UK-UK-UK
+p416-brown.pdf	"Mobile Life @ Stockholm University-Mobile Life @ Stockholm University-University of Stockholm,-University of Stockholm,"	Sweden-Scotland
+p435-chattingA.pdf	"Open Lab. Newcastle University, Newcastle upon Tyne, , {david.chatting; c.r.elsden}@ncl.ac.uk"	UK-UK-UK
+p313-raeA.pdf	Data Platforms Group-Microsoft-School of Interactive Arts and Technology-Simon Fraser University-Simon Fraser University	USA-Canada
+p362-micinskiA.pdf	"University of Maryland, College Park-University of Maryland, College Park-University of Maryland, College Park"	USA
+p48-haimson.pdf	"What Makes Live Events Engaging on Facebook Live,-Microsoft Research-Department of Informatics-University of California, Irvine-University of California, Irvine"	USA
+p15-sahdevA.pdf	Tactual Labs-Tactual Labs-University of Toronto-University of Toronto	Canada-USA-Canada
+p301-michaelisA.pdf	"() Department of Computer Sciences, () Department of Educational Psychology-University of Wisconsin–Madison, Madison, WI-University of Wisconsin–Madison, Madison, WI"	USA
+p133-kazemitabaarA.pdf	"Makeability Lab | Human-Computer Interaction Lab (HCIL)-Department of Computer Science, Department of Electrical and Computer Engineering-University of Maryland, College Park-University of Maryland, College Park-University of Maryland, College Park"	USA
+p786-raghavanA.pdf		USA-Sweden
+p2019-windlin.pdf		Sweden
+p4146-freemanA.pdf		Scotland-Italy-Sweden
+p5976-chenA.pdf		USA
+p6000-peng.pdf		USA
+p6123-wang.pdf		USA
+p6449-krogh.pdf		UK-Denmark
